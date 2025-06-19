@@ -1,0 +1,23 @@
+# Core dependencies for Research Assistant Pipeline
+openai==1.88.0
+chromadb==1.0.13
+sentence-transformers==4.1.0
+PyMuPDF==1.26.1
+PyPDF2==3.0.1
+
+# Data processing
+pandas==2.2.3
+numpy==2.2.2
+
+# Jupyter and development
+jupyterlab==4.3.4
+ipykernel==6.29.5
+
+# Utilities
+python-dotenv==1.1.0
+requests==2.32.3
+tqdm==4.67.1
+
+# Optional: For advanced text processing
+beautifulsoup4==4.12.3
+regex==2024.11.6 

@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project specific
+files/
+output/
+cache/
+vector_db/
+*.pdf
+*.docx
+*.doc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+secrets.json
+api_keys.txt
+
+# Large files
+*.h5
+*.pkl
+*.model
+*.zip
+*.tar.gz
+
+# Logs
+*.log
+logs/ 
