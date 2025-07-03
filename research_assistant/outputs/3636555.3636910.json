@@ -1,0 +1,164 @@
+{
+  "bibliographic_metadata": {
+    "paper_id": "not_specified",
+    "title": "Prompt-based and Fine-tuned GPT Models for Context-Dependent and -Independent Deductive Coding in Social Annotation",
+    "authors": [
+      "Chenyu Hou",
+      "Gaoxia Zhu",
+      "Juan Zheng",
+      "Lishan Zhang",
+      "Xiaoshan Huang",
+      "Tianlong Zhong",
+      "Shan Li",
+      "Hanxiang Du",
+      "Chin Lee Ker"
+    ],
+    "publication_year": 2024,
+    "venue": "The 14th Learning Analytics and Knowledge Conference (LAK ’24), March 18–22, 2024, Kyoto, Japan",
+    "doi_url": "https://doi.org/10.1145/3636555.3636910",
+    "research_domain": "Learning Analytics, Educational Technology, Computational Qualitative Analysis"
+  },
+  "methodological_framework": {
+    "analysis_type": "deductive qualitative coding; automated and semi-automated content analysis using prompt-based and fine-tuned GPT models",
+    "theoretical_framework": "coding scheme based on cognitive, emotional, and social engagement dimensions; codebook adapted from Zhu et al. (2021, 2022) for cognitive (appraisal, theorizing, integration, questioning, reflection), social (peer/community interaction), and emotional (curiosity, surprise) aspects; context-dependent and context-independent coding distinction",
+    "sample_characteristics": {
+      "interview_count": 7482,
+      "participant_demographics": "93 undergraduate students (47 females, mean age 20.67) from a large North American university, enrolled in an elective learning media course",
+      "data_collection_method": "digital social annotation activity using Perusall platform over 7 weeks; students annotated assigned readings and commented/interacted online; 7,482 comments extracted from Perusall logs"
+    }
+  },
+  "technical_pipeline": {
+    "automation_level": "semi-automated (prompt-based and fine-tuned GPT models for deductive coding; human-in-the-loop for codebook development and evaluation)",
+    "software_tools": [
+      "OpenAI GPT-3.5-turbo",
+      "Perusall (for data collection)"
+    ],
+    "computational_methods": [
+      "prompt engineering",
+      "iterative prompt refinement",
+      "chain-of-thought prompting",
+      "multi-prompt learning",
+      "prompt decomposition",
+      "codebook-centered prompting",
+      "fine-tuning of GPT-3.5-turbo with labeled data"
+    ],
+    "workflow_architecture": {
+      "preprocessing_steps": [
+        "Extraction of annotation data from Perusall log files",
+        "Manual coding of a subset of comments by trained human raters",
+        "Development and refinement of a codebook for deductive coding dimensions",
+        "Splitting labeled data into training and validation sets"
+      ],
+      "analysis_pipeline": [
+        "Iterative prompt engineering for each coding dimension using GPT-3.5-turbo",
+        "Application of chain-of-thought and step-based prompts for reasoning transparency",
+        "Multi-prompt and prompt decomposition for complex coding (e.g., Questioning dimension)",
+        "Application of codebook-centered prompts to guide model outputs",
+        "Evaluation of prompt-based GPT outputs against human-coded ground truth using Cohen’s Kappa",
+        "Fine-tuning GPT-3.5-turbo on 102 labeled examples per dimension with consistent prompts",
+        "Validation of fine-tuned models on held-out labeled data",
+        "Comparison of model performance (prompt-based vs. fine-tuned vs. human raters)"
+      ],
+      "postprocessing_steps": [
+        "Calculation of inter-rater reliability (Cohen’s Kappa) for each coding dimension",
+        "Analysis and reporting of model agreement with human coders",
+        "Interpretation of model outputs for feedback and dashboarding in educational platforms"
+      ]
+    },
+    "coding_framework": "Deductive coding using a codebook developed from prior research and theory, covering cognitive (Appraisal, Theorizing, Integration, Reflection, Questioning), social (Social), and emotional (Curiosity, Surprise) dimensions; context-dependent and context-independent categories; multi-level codes per dimension; operationalized with explicit prompt templates for each code."
+  },
+  "prompt_engineering": {
+    "prompting_strategy": {
+      "approach_type": "iterative manual prompt engineering with codebook-centered, chain-of-thought, step-based, and multi-prompt techniques",
+      "prompt_examples": [
+        "You are a research assistant. You will be provided with an annotation, and you need to determine the integration level of the annotation, and then label the annotation '0', '1' or '2' based on the following three steps. Your response should only contain '0','1' or '2': Step 1 – determine if the annotation is building on another idea. The first sentence tends to be a response to another annotation using phrases such as 'This is true', 'you remind me of', 'Great addition', and/or including symbol '@'. The annotation will also explain why they build on the idea starting from the second sentence. If the annotation fits this format, label the annotation as '1', if not, label the annotation as '0'. Step 2 - You should re-evaluate the annotation you labeled as '1'. You should label the annotation as '2' if the annotation also has extended explanations on why they build on the idea. The explanations tend to contain specific examples (e.g., the name of songs/movies), be longer than average, and contain logical words such as 'thus', 'because', 'however', and 'but'. Step 3 - Ensure that your answer only has '0' or '1', or '2'.",
+        "You are a research assistant. You will be provided with an annotation. You need to evaluate the theorizing level of an annotation, and then label the annotation as '0', '1' or '2' based on the following rules. Your response should only contain '0', '1','2': Code '1' - The annotation has a sentence to make a claim, using words such as 'think,' 'believe', 'remember', and 'it is interesting'. Code '2' - In addition to making a claim, the annotation also supplements the argument with explanations, so that the annotation is long and contains logical words such as 'thus', 'because', 'however', and 'but'. Code '0' - All other cases. Make sure that your response only has '0', '1' or '2'.",
+        "You are a research assistant. You will be provided with an annotation, and you need to determine if the annotation includes a reflection, and then label it '0' or '1' based on the following rules. Your response should only contain '0' or '1': Code '1' - the annotation uses the first pronoun 'I' and reflect on one of the following things: 1) his or her personal experiences (e.g., ethnicity, childhood experience); 2) habits, personal preferences, personal interests (e.g., 'I like doing something'); 3) a social phenomenon (e.g., 'I remember something happened'). The annotation usually mentions specific details such as the names of songs/movies. Code '0' - all other cases. Make sure that your answer only has '0' or '1'.",
+        "You are a research assistant. You will be provided with an annotation, and you should label the annotation with '0', '1' or '2', following the three steps being provided: Step 1 - if the first sentence has a short phrase that very clearly indicates agreement or disagreement, such as 'I agree', 'I disagree', 'great', and 'that’s correct', you should label the annotation as '1'; if not, label it as '0'. Step 2 - You should re-evaluate the annotation you labeled as '1'. You should label the annotation as '2' if the annotation provides extended explanation with details and examples starting from the second sentence. The explanations tend to be longer than average and contain logical words such as 'thus', 'because', 'however', and 'but'. Step 3 - Ensure that your response only contains a numerical value '0', '1', or '2'.",
+        "You are a research assistant. Please evaluate the question level of students’ annotations, and only return numerical values '0', '1', '2'. Return '1' if the annotation has one sentence that is a question. Usually, the question ends with a question mark, or includes phrases such as 'I wonder' or 'I am curious'. Return '0' for all other situations.",
+        "a new rule applies to all the rows with returned value '1': Change to the label from '1' to '2' if the question is seeking explanations and cannot be answered with 'yes/no'. The question usually starts with 'how/what/when/which'. Please only return numerical values '0', '1', '2'."
+      ],
+      "engineering_techniques": [
+        "codebook-centered prompting",
+        "step-based instructions",
+        "chain-of-thought prompting (requiring reasoning/explanation in intermediate steps)",
+        "multi-prompt learning (prompt decomposition for sequential labeling)",
+        "persona-based instruction (e.g., 'You are a research assistant...')",
+        "iterative prompt refinement based on empirical performance",
+        "explicit instruction to return only numerical codes",
+        "reducing ambiguity in instructions (avoiding pronouns, using explicit terms)"
+      ],
+      "model_specifications": "OpenAI GPT-3.5-turbo; temperature set to 0 for reproducibility; fine-tuning performed on 102 expert-labeled examples per dimension for selected categories; validation on an additional 102 examples; prompt-based and fine-tuned models compared using Cohen’s Kappa agreement with human raters"
+    }
+  },
+  "empirical_results": {
+    "primary_findings": [
+      "Prompt engineering with GPT-3.5-turbo achieves fair to substantial agreement with expert-labeled data for context-independent deductive coding dimensions (e.g., Questioning, Social, Surprise) in social annotation.",
+      "Agreement is lower for context-dependent dimensions (e.g., Theorizing, Integration, Reflection) when using prompt-based approaches.",
+      "Fine-tuning GPT models with 102 expert-labeled examples per dimension improves performance, achieving substantial agreement for context-independent dimensions and moderate agreement for context-dependent dimensions.",
+      "Fine-tuned models can outperform human inter-rater reliability in some context-independent dimensions (e.g., Curiosity, Appraisal).",
+      "Prompt engineering strategies such as chain-of-thought, prompt decomposition, multi-prompt learning, and codebook-centered approaches enhance model performance.",
+      "Automated deductive coding with GPT models can significantly reduce human labor and time without sacrificing accuracy or reliability, especially for large unstructured datasets."
+    ],
+    "evaluation_framework": {
+      "metrics_employed": [
+        "Cohen's Kappa"
+      ],
+      "validation_methodology": "Split-sample validation: 204 comments were coded by two human raters (with inter-rater reliability calculated), then divided into 102 for fine-tuning and 102 for validation of GPT-based models. Model outputs were compared to expert labels.",
+      "performance_indicators": "Cohen's Kappa scores for each coding dimension (e.g., .75 for Questioning, .67 for Social, .49 for Curiosity, .65 for Surprise, .33 for Appraisal in prompt-based; .86 for Curiosity, .69 for Appraisal in fine-tuned; .59 for Theorizing, .54 for Reflection, .45 for Integration in fine-tuned context-dependent dimensions)."
+    },
+    "methodological_limitations": [
+      "Limited size of expert-labeled dataset (204 comments), which may affect generalizability and robustness of model evaluation.",
+      "Training and validation data were drawn from a single article/topic, limiting assessment of model transferability across topics or domains.",
+      "Context-dependent coding did not include the original reading text or surrounding comments as input due to token limitations and risk of information loss, potentially constraining model performance for these dimensions.",
+      "Potential information loss or ambiguity in coding context-dependent dimensions due to lack of contextual input.",
+      "Generalizability to other types of qualitative data (e.g., discussion forums, essays) or other annotation platforms remains untested.",
+      "No exploration of automatic prompt-tuning or optimization beyond manual iterative engineering."
+    ]
+  },
+  "quality_assurance": {
+    "reliability_measures": [
+      "Cohen’s Kappa calculated between human raters for each coding dimension (e.g., .63 for Appraisal, .95 for Questioning, .80 for Theorizing, .83 for Reflection, .50 for Integration, .92 for Social, .87 for Surprise, .76 for Curiosity)",
+      "Cohen’s Kappa calculated between GPT-based approaches (prompt-based and fine-tuned) and expert-labeled data for each coding dimension",
+      "Inter-rater reliability assessment between two trained human coders on a subset of data (50 comments)"
+    ],
+    "validity_approaches": [
+      "Expert-labeled data used as ground truth for model evaluation",
+      "Iterative codebook development and refinement through discussion and consensus among human coders",
+      "Validation of fine-tuned GPT models on a held-out set of expert-labeled data (102 cases for validation)",
+      "Comparison of model outputs (prompt-based and fine-tuned) with human coding to assess agreement"
+    ],
+    "bias_mitigation_strategies": [
+      "Iterative prompt engineering to reduce ambiguity and improve clarity in instructions (e.g., avoiding demonstrative pronouns, using explicit step-based instructions)",
+      "Chain-of-thought prompting to elicit model reasoning and enable prompt calibration",
+      "Codebook-centered approach to standardize coding definitions and examples across raters and models",
+      "Multi-prompt learning and prompt decomposition to handle complex or multi-level coding tasks",
+      "Temperature set to 0 in GPT models to ensure reproducibility and reduce stochastic output variance",
+      "Exclusion of low-frequency codes (e.g., confusion, referencing) to avoid unreliable model training and evaluation",
+      "Reporting of prompt, fine-tuning strategies, and model details to enhance transparency and replicability"
+    ]
+  },
+  "research_impact": {
+    "novel_contributions": [
+      "First systematic evaluation of GPT-based prompt engineering and fine-tuning for both context-dependent and context-independent deductive coding in social annotation data.",
+      "Development and empirical validation of a codebook-centered, multi-level deductive coding scheme operationalized for automated and semi-automated analysis using LLMs.",
+      "Demonstration that prompt engineering (including prompt decomposition, chain-of-thought, and multi-prompt learning) can achieve fair to substantial agreement with expert human coders in several coding dimensions.",
+      "Empirical evidence that fine-tuning GPT-3.5-turbo with as few as 102 labeled examples can substantially improve inter-rater reliability, especially for context-dependent coding dimensions.",
+      "Identification of technical strategies (e.g., step-based prompts, reduction of ambiguity, exclusion of excessive context) that optimize LLM performance for qualitative coding tasks."
+    ],
+    "practical_applications": [
+      "Automated or semi-automated deductive coding of large-scale social annotation datasets, reducing human labor and time without sacrificing accuracy or reliability.",
+      "Integration of LLM-based coding pipelines into social annotation platforms to provide immediate, tailored feedback to students and instructors, supporting deeper inquiry and collaborative knowledge construction.",
+      "Development of dashboards and annotation sorting features based on automated coding outputs to enhance navigation and engagement in educational platforms.",
+      "Potential extension of the pipeline to other qualitative data types, such as online discussion forums and written essays, for scalable qualitative analysis in educational research."
+    ],
+    "future_research_directions": [
+      "Expansion of expert-labeled datasets and validation of prompt engineering and fine-tuned models across diverse topics, courses, and annotation contexts to assess generalizability (near and far transfer).",
+      "Incorporation of original reading materials and surrounding comments as contextual input for context-dependent coding, addressing token limitations and information loss in LLMs.",
+      "Exploration of automatic prompt-tuning and optimization methods to further enhance prompt-based approaches.",
+      "Application and evaluation of the proposed deductive coding pipeline in other learning contexts and data structures beyond social annotation.",
+      "Standardization and transparent reporting of prompts, fine-tuning strategies, and model details in publications utilizing LLMs for qualitative coding."
+    ],
+    "scalability_considerations": "The pipeline is designed to be scalable to large unstructured datasets, leveraging prompt engineering for rapid deployment and fine-tuning for improved accuracy with limited labeled data. However, scalability for context-dependent coding is currently constrained by token limits and the challenge of incorporating full contextual information. The approach is particularly suitable for datasets too small for traditional supervised machine learning but large enough to benefit from automation. Future scalability will depend on advances in LLM context window size and efficient context summarization."
+  }
+}

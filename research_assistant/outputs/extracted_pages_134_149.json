@@ -1,0 +1,171 @@
+{
+  "bibliographic_metadata": {
+    "paper_id": "not_specified",
+    "title": "ChatGPT for Education Research: Exploring the Potential of Large Language Models for Qualitative Codebook Development",
+    "authors": [
+      "Amanda Barany",
+      "Nidhi Nasiar",
+      "Chelsea Porter",
+      "Andres Felipe Zambrano",
+      "Alexandra L. Andres",
+      "Dara Bright",
+      "Mamta Shah",
+      "Xiner Liu",
+      "Sabrina Gao",
+      "Jiayi Zhang",
+      "Shruti Mehta",
+      "Jaeyoon Choi",
+      "Camille Giordano",
+      "Ryan S. Baker"
+    ],
+    "publication_year": 2024,
+    "venue": "AIED 2024, LNAI 14830, pp. 134–149, Springer Nature Switzerland AG",
+    "doi_url": "https://doi.org/10.1007/978-3-031-64299-9_10",
+    "research_domain": "Educational Research / Qualitative Data Analysis / Artificial Intelligence in Education"
+  },
+  "methodological_framework": {
+    "analysis_type": "inductive qualitative coding (codebook development and evaluation), with comparative analysis of manual, automated, and hybrid (human-LLM) workflows",
+    "theoretical_framework": "not_specified",
+    "sample_characteristics": {
+      "interview_count": 4,
+      "participant_demographics": "9th grade students enrolled in Algebra I at high-poverty urban schools in the northeastern United States (2022–2023); tutoring sessions conducted virtually by trained tutors from Saga Education",
+      "data_collection_method": "transcripts of four 60-minute virtual math tutoring sessions"
+    }
+  },
+  "technical_pipeline": {
+    "automation_level": "hybrid (manual, semi-automated, and fully automated approaches compared; focus on hybrid human-LLM collaboration)",
+    "software_tools": [
+      "ChatGPT (GPT-4, web-based chatbot version)",
+      "not_specified"
+    ],
+    "computational_methods": [
+      "Large Language Models (LLMs) for code suggestion, refinement, and codebook development",
+      "Prompt engineering for LLM interaction",
+      "Natural Language Processing (NLP) for text analysis",
+      "Cohen’s kappa for inter-rater reliability evaluation"
+    ],
+    "workflow_architecture": {
+      "preprocessing_steps": [
+        "Obtain and segment interview transcript data into batches (77–98 lines per batch, based on token limits)",
+        "Initial qualitative review of data for context and structure",
+        "Prompt engineering and testing for LLM consistency"
+      ],
+      "analysis_pipeline": [
+        "Manual codebook development using established qualitative methods (e.g., Weston et al. [40])",
+        "LLM-assisted codebook development: prompt ChatGPT to generate preliminary codes, definitions, and examples",
+        "LLM-assisted codebook refinement: provide preliminary codebook and data batches to ChatGPT for iterative refinement",
+        "Hybrid workflows: human-led codebook development with LLM refinement, or LLM-led codebook development with human refinement",
+        "Batch-wise processing to accommodate LLM input limits",
+        "Manual review and correction of LLM outputs (e.g., replacing hallucinated examples with genuine quotes)"
+      ],
+      "postprocessing_steps": [
+        "Independent human coding of transcripts using finalized codebooks",
+        "Survey-based evaluation of codebook utility (ease of use, clarity, mutual exclusivity, exhaustiveness)",
+        "Calculation of inter-rater reliability (Cohen’s kappa) across coding rounds",
+        "Social moderation sessions for coder consensus and codebook annotation",
+        "Cross-codebook conceptual overlap analysis"
+      ]
+    },
+    "coding_framework": "Deductive and inductive coding frameworks; codebook development and refinement based on Weston et al. [40] and thematic analysis principles; hybrid human-LLM mutual learning and prompt engineering for codebook generation and refinement"
+  },
+  "prompt_engineering": {
+    "prompting_strategy": {
+      "approach_type": "hybrid and automated prompting for codebook development and refinement in qualitative analysis",
+      "prompt_examples": [
+        "You are a researcher helping develop a qualitative codebook for text data of a math tutor’s interactions with students. I will give you the first draft of the codebook, and then the data being coded, in batches. Please help me refine the codes and codebook, focusing on instructional strategies or techniques.",
+        "Please give me a refined codebook, with examples, based on all X batches of data so far.",
+        "Hi ChatGPT, I want to analyze the following interaction between an instructor and some students: [DATA] Please give me a codebook to analyze the instructional methodologies and the sentiment within this interaction."
+      ],
+      "engineering_techniques": [
+        "Iterative prompt refinement based on best practices from prompt engineering frameworks",
+        "Batch processing of data to fit within model token limits (e.g., dividing transcripts into batches of 77–98 lines to stay within 4096 token limit)",
+        "Testing prompt consistency across sessions, browsers, and computers to ensure reproducibility (e.g., repeated prompt runs with no more than two codes difference across runs)",
+        "Explicit task specification in prompts (clear, concise, and specific task descriptions)",
+        "Human-in-the-loop review and correction of model outputs (e.g., replacing hallucinated example quotes with genuine dataset quotes)",
+        "Prompting for codebook refinement after every few data batches",
+        "Grouping and merging similar codes post-generation based on frequency and conceptual similarity"
+      ],
+      "model_specifications": "ChatGPT (GPT-4), web-based chatbot version, 4096 token context window, no API used"
+    }
+  },
+  "empirical_results": {
+    "primary_findings": [
+      "Hybrid approaches (combining human and ChatGPT involvement in codebook development or refinement) produced codebooks that were more reliably applied by human coders and rated as higher quality compared to fully manual or fully automated approaches.",
+      "Automating early stages of codebook development with ChatGPT reduced the overall time required to complete the process.",
+      "The fully automated (ChatGPT-only) approach was an outlier, producing codebooks with lower utility, lower inter-rater reliability, and less conceptual overlap with other approaches.",
+      "Hybrid and fully human approaches produced similar codebooks, while the fully automated approach generated more novel but less relevant themes and missed some prevalent themes.",
+      "Human participation remains essential for ensuring codebook quality, even when automation is used for codebook development or refinement."
+    ],
+    "evaluation_framework": {
+      "metrics_employed": [
+        "Time spent on codebook development and refinement (in minutes)",
+        "Human coder Likert-scale ratings of codebook utility (ease of use, clarity, mutual exclusivity, exhaustiveness; scale 1-5)",
+        "Cohen’s kappa (κ) for inter-rater reliability across two rounds of coding",
+        "Percent agreement between coders",
+        "Conceptual overlap analysis (number and categories of overlapping codes across codebooks)"
+      ],
+      "validation_methodology": "Four codebooks (manual, fully automated, and two hybrid approaches) were independently developed and then applied by pairs of human coders (not involved in codebook creation) to the same qualitative interview data. Coders independently coded transcripts, completed surveys rating codebook utility, and participated in social moderation to resolve discrepancies. Inter-rater reliability was assessed before and after moderation. Conceptual overlap was evaluated by independent researchers comparing code pairs across codebooks.",
+      "performance_indicators": "Hybrid approaches achieved the highest ratings for codebook clarity, mutual exclusivity, and ease of use. They also demonstrated the highest average Cohen’s kappa values after social moderation (up to 0.70), and the greatest conceptual overlap with other codebooks. The fully automated approach had the lowest utility ratings (e.g., mutual exclusivity 1.5/5), lowest inter-rater reliability (average κ = 0.21–0.37), and least conceptual overlap."
+    },
+    "methodological_limitations": [
+      "Study focused on inductive codebook development, though some references to deductive coding and frameworks are included.",
+      "Each codebook was developed by a single researcher to avoid bias, which may not reflect typical collaborative qualitative analysis practices.",
+      "Potential individual variation in time spent and coding quality due to differences between researchers.",
+      "Coding instructions and time spent on achieving inter-rater reliability were not strictly controlled across coder pairs.",
+      "Sample size limited to transcripts from four tutoring sessions, which may affect generalizability.",
+      "Some codes did not appear in all datasets, limiting calculation of agreement for those codes.",
+      "ChatGPT hallucinated example quotes in some conditions, requiring human correction."
+    ]
+  },
+  "quality_assurance": {
+    "reliability_measures": [
+      "Cohen’s kappa (κ) used to assess consistency of code applications between coders",
+      "Percent agreement calculated across two rounds of paired independent coding",
+      "Multiple rounds of coding with social moderation techniques to resolve inconsistencies",
+      "Testing prompt consistency for ChatGPT responses across sessions, browsers, and computers",
+      "Replication of prompt tests on multiple data subsets to confirm response stability",
+      "Inter-rater reliability established for conceptual overlap coding (Cohen’s κ = 0.86)"
+    ],
+    "validity_approaches": [
+      "Human review and revision of codebooks generated or refined by ChatGPT to address errors and inconsistencies",
+      "Pilot testing codes during codebook refinement",
+      "Survey of coders to rate codebook utility (ease of use, clarity, mutual exclusivity, exhaustiveness) as a proxy for codebook quality",
+      "Evaluation of conceptual overlap across codebooks by independent researchers",
+      "Random checks for hallucinated example quotes in ChatGPT outputs, with replacement by genuine quotes from the dataset",
+      "Use of established codebook development frameworks (e.g., Weston et al. [40]) for manual and hybrid approaches",
+      "Application of best practices in prompt engineering to ensure clarity and specificity in ChatGPT tasks"
+    ],
+    "bias_mitigation_strategies": [
+      "Independent codebook development by separate researchers to avoid biasing results",
+      "Coders assigned to codebooks were not involved in codebook development and were unfamiliar with the data",
+      "Coders were blinded to the approach used to generate their assigned codebook",
+      "Exclusive assignment of each researcher to a single codebook to prevent order effects",
+      "Social moderation sessions for coders to discuss and resolve coding inconsistencies",
+      "Human intervention required to review and correct ChatGPT outputs, particularly for hallucinated examples",
+      "No participation of codebook developers in coding or moderation sessions to avoid influencing coder interpretations"
+    ]
+  },
+  "research_impact": {
+    "novel_contributions": [
+      "Systematic comparison of four codebook development pipelines for qualitative interview data: fully manual, fully automated (ChatGPT-only), and two hybrid human-LLM workflows (human code development with ChatGPT refinement, and ChatGPT code development with human refinement).",
+      "Empirical evaluation of ChatGPT (GPT-4) as a tool for automating inductive codebook development and refinement in educational research interview transcripts.",
+      "Introduction of a structured, batch-based workflow for integrating ChatGPT into codebook development and refinement, including prompt engineering and iterative human-LLM collaboration.",
+      "Quantitative and qualitative assessment of codebook utility, inter-rater reliability, and conceptual overlap across codebooks generated by different pipelines.",
+      "Identification of the limitations of fully automated LLM-based codebook development, highlighting the necessity of human oversight for quality and reliability."
+    ],
+    "practical_applications": [
+      "Acceleration of qualitative codebook development for large-scale educational interview datasets by leveraging hybrid human-LLM workflows.",
+      "Provision of prompt engineering strategies and batching techniques for researchers seeking to use ChatGPT for qualitative coding tasks.",
+      "Guidance for integrating ChatGPT into existing qualitative analysis pipelines to improve efficiency without sacrificing codebook quality or reliability.",
+      "Framework for evaluating codebook quality using coder ratings (ease of use, clarity, mutual exclusivity, exhaustiveness) and inter-rater reliability metrics (Cohen’s kappa)."
+    ],
+    "future_research_directions": [
+      "Further investigation into optimal division of labor between humans and LLMs in qualitative coding, including more granular control over prompt design and workflow structure.",
+      "Exploration of reproducibility and consistency issues in LLM-generated codes, including strategies for mitigating hallucinations and non-reproducible outputs.",
+      "Extension of the comparative framework to other qualitative data types, domains, and LLM architectures.",
+      "Development of best practices for time allocation and coder training in hybrid human-LLM qualitative analysis pipelines.",
+      "Investigation of the impact of collaborative and iterative human-LLM codebook development on construct validity and codebook comprehensiveness."
+    ],
+    "scalability_considerations": "Hybrid human-LLM approaches demonstrated improved efficiency over fully manual pipelines, reducing total codebook development time (e.g., fully automated approach: 113 min; hybrid approaches: 167–245 min; manual: 220 min). However, fully automated LLM pipelines produced lower-quality, less reliable, and less conceptually comprehensive codebooks, indicating that scalability gains from automation must be balanced with human oversight to ensure codebook validity and reliability. Batch processing and prompt engineering are critical for managing LLM context window limitations and maintaining workflow scalability."
+  }
+}

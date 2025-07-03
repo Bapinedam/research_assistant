@@ -1,0 +1,156 @@
+{
+  "bibliographic_metadata": {
+    "paper_id": "arXiv:2401.04122v3",
+    "title": "From Prompt Engineering to Prompt Science With Human in the Loop",
+    "authors": [
+      "Chirag Shah"
+    ],
+    "publication_year": 2023,
+    "venue": "Proceedings of ACM Conference (Conference’17)",
+    "doi_url": "https://doi.org/10.1145/nnnnnnn.nnnnnnn",
+    "research_domain": "Computational qualitative analysis, Human-centered computing, Large Language Models, Automated qualitative coding"
+  },
+  "methodological_framework": {
+    "analysis_type": "deductive qualitative analysis with human-in-the-loop validation, inspired by qualitative codebook construction and coding",
+    "theoretical_framework": "systematic, multi-phase prompt science methodology based on qualitative coding/codebook development; emphasizes transparency, objectivity, replicability, and removal of individual subjectivity; incorporates inter-coder reliability and iterative human validation",
+    "sample_characteristics": {
+      "interview_count": "not_specified",
+      "participant_demographics": "multiple researchers/assessors with sufficient familiarity with the task; no special qualifications required beyond task understanding and ability to discuss disagreements; in experiments, two researchers for coding/assessment, sometimes supervised by a senior researcher or expert",
+      "data_collection_method": "LLM-generated responses to prompts; human assessors independently label and evaluate LLM outputs using codebooks/criteria; iterative process with phases for prompt and criteria/codebook development and validation"
+    }
+  },
+  "technical_pipeline": {
+    "automation_level": "semi-automated (human-in-the-loop with LLMs for labeling, coding, and prompt generation; automation increases with validated prompts and codebooks, but human verification and iteration are integral throughout the process)",
+    "software_tools": [
+      "GPT-4",
+      "Mistral",
+      "Hermes"
+    ],
+    "computational_methods": [
+      "Large Language Model (LLM)-based text labeling",
+      "Zero-shot and prompt-based taxonomy generation",
+      "Iterative prompt engineering with human validation",
+      "Inter-coder reliability measurement (e.g., Cohen’s kappa, Krippendorff’s alpha)",
+      "Human-in-the-loop qualitative coding",
+      "Multi-phase verification and validation"
+    ],
+    "workflow_architecture": {
+      "preprocessing_steps": [
+        "Selection or creation of initial prompt for LLM",
+        "Selection of input data (e.g., interview transcripts, user logs, question datasets)",
+        "Initial codebook or criteria definition (inspired by prior literature or domain knowledge)"
+      ],
+      "analysis_pipeline": [
+        "Run LLM with initial prompt on sample data to generate responses (labels, taxonomies, probes, etc.)",
+        "Independent human assessment of LLM outputs using the codebook/criteria",
+        "Computation of inter-coder reliability (ICR) between assessors",
+        "Discussion and resolution of disagreements among assessors",
+        "Revision of codebook/criteria and/or prompt based on assessment outcomes",
+        "Iterative re-running of LLM with revised prompt and repeated human assessment until sufficient agreement is reached",
+        "Finalization of codebook/criteria and prompt when agreement threshold is met"
+      ],
+      "postprocessing_steps": [
+        "Application of validated prompt and codebook to new/unseen data",
+        "Independent labeling by additional human assessors for validation",
+        "Computation of ICR between LLM and human labels, and among human assessors",
+        "Optional: Further prompt/codebook refinement based on validation results",
+        "Documentation of all deliberations, decisions, and pipeline steps for transparency and replicability"
+      ]
+    },
+    "coding_framework": "Deductive qualitative coding with codebook construction and validation; codebook criteria include comprehensiveness, consistency, clarity, accuracy, conciseness (for taxonomy generation), and relevance and diversity (for probe generation); iterative human-in-the-loop process for codebook and prompt refinement; inter-coder reliability as evaluation metric"
+  },
+  "prompt_engineering": {
+    "prompting_strategy": {
+      "approach_type": "multi-phase, human-in-the-loop, codebook-inspired deductive prompt construction and validation",
+      "prompt_examples": [
+        "Initial prompt for taxonomy generation: A simple and direct instruction to generate a user intent taxonomy from log data (zero-shot approach).",
+        "Prompt for LLM auditing: 'Generate five different questions for the following question that represent the same meaning, but are different.'"
+      ],
+      "engineering_techniques": [
+        "Iterative prompt revision based on human assessor feedback",
+        "Establishment and validation of evaluation criteria (codebook) prior to prompt tuning",
+        "Independent and collaborative human assessment for inter-coder reliability (ICR)",
+        "Multi-phase pipeline: (1) Initial pipeline setup, (2) Criteria/codebook development and validation, (3) Iterative prompt development, (4) Pipeline validation with new assessors",
+        "Documentation of deliberations and decisions for transparency and replicability",
+        "Threshold-based acceptance (e.g., 75% agreement on criteria satisfaction)",
+        "Use of inter-coder reliability metrics (e.g., Cohen’s kappa, Krippendorff’s alpha)",
+        "Prompt generalization and readability improvements after validation"
+      ],
+      "model_specifications": "LLMs used include GPT-4, Mistral, and Hermes; prompts are designed to be model-agnostic and validated across multiple LLMs for robustness and generalizability"
+    }
+  },
+  "empirical_results": {
+    "primary_findings": [
+      "A multi-phase, human-in-the-loop methodology inspired by qualitative codebook construction increases the reliability, transparency, and generalizability of LLM-based qualitative analysis pipelines.",
+      "The proposed approach systematically removes individual subjectivity and biases from prompt engineering by involving multiple researchers in iterative assessment and documentation.",
+      "Empirical demonstrations in user intent taxonomy generation and LLM auditing show that the method yields robust, replicable, and trustworthy results, with high inter-coder reliability between human annotators and LLM outputs.",
+      "The methodology is generalizable across different LLMs (e.g., GPT-4, Mistral, Hermes) and maintains strong agreement between human and machine labeling.",
+      "The process incurs higher costs (estimated at least 3-fold increase) due to guided deliberations and documentation, but results in higher quality, consistency, and reliability of outputs."
+    ],
+    "evaluation_framework": {
+      "metrics_employed": [
+        "Inter-coder reliability (ICR)",
+        "Cohen’s kappa",
+        "Krippendorff’s alpha",
+        "Percentage agreement",
+        "Task-specific criteria (e.g., comprehensiveness, consistency, clarity, accuracy, conciseness, relevance, diversity)"
+      ],
+      "validation_methodology": "Multi-phase human-in-the-loop process: (1) Initial pipeline setup; (2) Independent human assessment and iterative refinement of evaluation criteria (codebook); (3) Iterative prompt development with human assessment and agreement measurement; (4) Optional pipeline validation with new assessors and random sampling to confirm replicability and quality.",
+      "performance_indicators": "High inter-coder reliability between human annotators and between humans and LLMs; achievement of predefined thresholds for agreement (e.g., 75% or higher); consistent generation of desired outcomes across different LLMs and datasets."
+    },
+    "methodological_limitations": [
+      "Increased cost and resource requirements due to involvement of multiple researchers, guided deliberations, and detailed documentation.",
+      "Potential scalability challenges for large-scale or fully automated pipelines due to the need for human-in-the-loop verification.",
+      "Optional final validation phase adds continual cost to maintain pipeline quality and validity.",
+      "The process may require adaptation for different domains or tasks, as criteria and thresholds for agreement can vary by application.",
+      "not_specified"
+    ]
+  },
+  "quality_assurance": {
+    "reliability_measures": [
+      "Involvement of at least two qualified researchers in the entire process",
+      "Independent application of criteria by multiple assessors",
+      "Measurement of inter-coder reliability (ICR) using methods such as Cohen’s kappa or Krippendorff’s alpha",
+      "Iterative rounds of assessment and discussion to reach sufficient agreement among assessors",
+      "Validation phase using a different set of assessors to independently label random samples and compute ICR"
+    ],
+    "validity_approaches": [
+      "Establishment and iterative refinement of clear, objective, and community-validated criteria for assessment",
+      "Use of codebook development inspired by qualitative coding methods",
+      "Multi-phase verification process including both response and prompt validation",
+      "Operationalization of criteria through human-in-the-loop assessment and documentation",
+      "Final validation phase to ensure the pipeline yields quality results that can be independently and objectively validated"
+    ],
+    "bias_mitigation_strategies": [
+      "Involvement of multiple researchers to dissolve individual subjectivity and biases",
+      "Structured discussions of disagreements among assessors to root out individual biases",
+      "Documentation of deliberations and decisions to foster transparency and replicability",
+      "Revision of codebook and prompt based on collaborative assessment and feedback",
+      "Explicit focus on removing ad-hocness, subjectivity, and opaqueness through systematic checkpoints and validations"
+    ]
+  },
+  "research_impact": {
+    "novel_contributions": [
+      "Proposes a multi-phase, human-in-the-loop methodology for transforming ad-hoc prompt engineering into a systematic, verifiable, and replicable process (prompt science) for qualitative analysis of text data using LLMs.",
+      "Introduces a workflow inspired by qualitative codebook construction, involving iterative development and validation of both evaluation criteria and prompts with multiple assessors.",
+      "Operationalizes inter-coder reliability (ICR) metrics (e.g., Cohen’s kappa, Krippendorff’s alpha) for both codebook and prompt validation phases in computational pipelines.",
+      "Demonstrates the methodology in two empirical applications: (1) generating and applying user intent taxonomies, and (2) auditing LLMs via multiprobe question generation.",
+      "Establishes a framework for documentation and transparency, enabling other researchers to replicate, validate, and extend the analysis pipelines."
+    ],
+    "practical_applications": [
+      "Automated and semi-automated labeling of interview or behavioral data using LLMs with validated codebooks and prompts.",
+      "Construction and application of robust user intent taxonomies in information retrieval and recommender systems.",
+      "Auditing LLMs for consistency and robustness by generating and evaluating diverse probes/questions.",
+      "Development of quality assurance protocols for LLM-based qualitative data analysis pipelines in scientific research.",
+      "Facilitating open, documented, and replicable computational workflows for qualitative coding and prompt generation."
+    ],
+    "future_research_directions": [
+      "Exploring the automation of human-in-the-loop phases to further scale the methodology while maintaining rigor.",
+      "Adapting the multi-phase methodology to other qualitative research domains beyond text labeling, such as image or multimodal data analysis.",
+      "Investigating the integration of community-validated metrics and open-source documentation standards for broader adoption.",
+      "Evaluating the cost-benefit tradeoffs of increased human involvement versus automation in large-scale qualitative analysis pipelines.",
+      "Extending the framework to support continual validation and quality assurance in dynamic or evolving datasets."
+    ],
+    "scalability_considerations": "The methodology increases process cost by at least threefold compared to typical prompt engineering due to guided deliberations, multiple assessors, and detailed documentation. However, it allows for adjustable human involvement (from copilot to autopilot modes) depending on risk and quality requirements, supporting partial automation while maintaining scientific rigor. Scalability is further supported by the modular, phase-based structure, enabling selective human oversight and continual quality checks."
+  }
+}
