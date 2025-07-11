@@ -1,0 +1,196 @@
+{% extends "base.html" %}
+
+{% block title %}{{ filename }} - Research Data Viewer{% endblock %}
+
+{% block content %}
+<a href="{{ url_for('index') }}" class="back-btn">
+    <i class="fas fa-arrow-left me-2"></i>
+    Back to File List
+</a>
+
+<div class="text-center mb-4">
+    <h1 class="display-5 mb-3">
+        <i class="fas fa-file-code text-primary me-3"></i>
+        {{ filename }}
+    </h1>
+    <p class="lead text-muted">Research Data Content</p>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">
+                    <i class="fas fa-eye me-2"></i>
+                    File Content
+                </h5>
+                <div>
+                    <button class="btn btn-light btn-sm" onclick="expandAll()">
+                        <i class="fas fa-expand-alt me-1"></i>
+                        Expand All
+                    </button>
+                    <button class="btn btn-light btn-sm ms-2" onclick="collapseAll()">
+                        <i class="fas fa-compress-alt me-1"></i>
+                        Collapse All
+                    </button>
+                </div>
+            </div>
+            <div class="card-body">
+                <div id="json-content">
+                    {% for section_name, section_data in data.items() %}
+                    <div class="data-section">
+                        <div class="section-header" onclick="toggleSection('{{ section_name }}')" style="cursor: pointer;">
+                            <i class="fas fa-chevron-down me-2" id="icon-{{ section_name }}"></i>
+                            {{ section_name.replace('_', ' ').title() }}
+                        </div>
+                        <div id="content-{{ section_name }}" class="section-content">
+                            {% if section_data.__class__.__name__ == 'dict' %}
+                                {% for subsection_name, subsection_data in section_data.items() %}
+                                <div class="subsection mb-3">
+                                    <h6 class="text-primary mb-2">
+                                        <i class="fas fa-tag me-1"></i>
+                                        {{ subsection_name.replace('_', ' ').title() }}
+                                    </h6>
+                                    <div class="subsection-content">
+                                        {% if subsection_data.__class__.__name__ in ['list', 'tuple'] %}
+                                            <ul class="list-group list-group-flush">
+                                                {% for item in subsection_data %}
+                                                <li class="list-group-item border-0 px-0">
+                                                    {% if item is string %}
+                                                        {{ item }}
+                                                    {% else %}
+                                                        <code>{{ item|tojson(indent=2) }}</code>
+                                                    {% endif %}
+                                                </li>
+                                                {% endfor %}
+                                            </ul>
+                                        {% elif subsection_data.__class__.__name__ == 'dict' %}
+                                            <div class="nested-data">
+                                                {% for key, value in subsection_data.items() %}
+                                                <div class="nested-item mb-2">
+                                                    <strong>{{ key.replace('_', ' ').title() }}:</strong>
+                                                    {% if value is sequence and value is not string %}
+                                                        <ul class="list-unstyled ms-3 mt-1">
+                                                            {% for item in value %}
+                                                            <li><i class="fas fa-circle text-primary me-2" style="font-size: 0.5em;"></i>{{ item }}</li>
+                                                            {% endfor %}
+                                                        </ul>
+                                                    {% elif value.__class__.__name__ == 'dict' %}
+                                                        <div class="ms-3">
+                                                            {% for k, v in value.items() %}
+                                                            <div class="mb-1">
+                                                                <strong>{{ k.replace('_', ' ').title() }}:</strong>
+                                                                {% if v is sequence and v is not string %}
+                                                                    <ul class="list-unstyled ms-3 mt-1">
+                                                                        {% for item in v %}
+                                                                        <li><i class="fas fa-circle text-primary me-2" style="font-size: 0.5em;"></i>{{ item }}</li>
+                                                                        {% endfor %}
+                                                                    </ul>
+                                                                {% else %}
+                                                                    <span class="ms-2">{{ v }}</span>
+                                                                {% endif %}
+                                                            </div>
+                                                            {% endfor %}
+                                                        </div>
+                                                    {% else %}
+                                                        <span class="ms-2">{{ value }}</span>
+                                                    {% endif %}
+                                                </div>
+                                                {% endfor %}
+                                            </div>
+                                        {% else %}
+                                            <span class="text-muted">{{ subsection_data }}</span>
+                                        {% endif %}
+                                    </div>
+                                </div>
+                                {% endfor %}
+                            {% elif section_data is sequence and section_data is not string %}
+                                <ul class="list-group list-group-flush">
+                                    {% for item in section_data %}
+                                    <li class="list-group-item border-0 px-0">
+                                        {% if item is string %}
+                                            {{ item }}
+                                        {% else %}
+                                            <code>{{ item|tojson(indent=2) }}</code>
+                                        {% endif %}
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                            {% else %}
+                                <p class="text-muted mb-0">{{ section_data }}</p>
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header bg-secondary text-white">
+                <h5 class="mb-0">
+                    <i class="fas fa-code me-2"></i>
+                    Raw JSON
+                </h5>
+            </div>
+            <div class="card-body">
+                <div class="json-viewer">
+                    <pre><code>{{ data|tojson(indent=2) }}</code></pre>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+function toggleSection(sectionName) {
+    const content = document.getElementById(`content-${sectionName}`);
+    const icon = document.getElementById(`icon-${sectionName}`);
+    
+    if (content.style.display === 'none') {
+        content.style.display = 'block';
+        icon.className = 'fas fa-chevron-down me-2';
+    } else {
+        content.style.display = 'none';
+        icon.className = 'fas fa-chevron-right me-2';
+    }
+}
+
+function expandAll() {
+    const sections = document.querySelectorAll('.section-content');
+    const icons = document.querySelectorAll('[id^="icon-"]');
+    
+    sections.forEach(section => {
+        section.style.display = 'block';
+    });
+    
+    icons.forEach(icon => {
+        icon.className = 'fas fa-chevron-down me-2';
+    });
+}
+
+function collapseAll() {
+    const sections = document.querySelectorAll('.section-content');
+    const icons = document.querySelectorAll('[id^="icon-"]');
+    
+    sections.forEach(section => {
+        section.style.display = 'none';
+    });
+    
+    icons.forEach(icon => {
+        icon.className = 'fas fa-chevron-right me-2';
+    });
+}
+
+// Initialize all sections as expanded
+document.addEventListener('DOMContentLoaded', function() {
+    expandAll();
+});
+</script>
+{% endblock %} 
