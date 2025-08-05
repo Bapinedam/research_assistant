@@ -21,6 +21,7 @@ vector_db/
 *.pdf
 *.docx
 *.doc
+Recordings/
 
 # IDE
 .vscode/
