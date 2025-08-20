@@ -1,0 +1,6 @@
+Question:
+Why didn't you use GenAI for feedback on your work?
+
+Answer:
+Aside from checking spelling or grammar, I never considered using AI for feedback, as it never occurred to me that I could.
+

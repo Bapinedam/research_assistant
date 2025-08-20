@@ -1,0 +1,43 @@
+Category,Theme,Sub_Theme,Code
+Reason for using GenAI,Processes,Access,Ease
+Reason for using GenAI,Processes,Access,Speed
+Reason for using GenAI,Processes,Access,Volume
+Reason for using GenAI,Processes,Timing,Before submission
+Reason for using GenAI,Processes,Timing,After submission
+Reason for using GenAI,Processes,Effort,Off-loading
+Reason for using GenAI,Sense-making,Understanding,Helps me understand
+Reason for using GenAI,Sense-making,Reflection,Helps me reflect
+Reason for using GenAI,Sense-making,Progress,Helps me know how I'm going
+Reason for using GenAI,Information,Quality,Specificity
+Reason for using GenAI,Information,Quality,In-depth
+Reason for using GenAI,Information,Quality,Understandable
+Reason for using GenAI,Information,Quality,Relevance
+Reason for using GenAI,Information,Quality,Contextualised
+Reason for using GenAI,Information,Quality,Utility
+Reason for using GenAI,Information,Quality,Reliable
+Reason for using GenAI,Information,Quality,Objective
+Reason for using GenAI,Information,Tone,Positivity
+Reason for using GenAI,Information,Tone,Negativity
+Reason for using GenAI,Feeling,,Positive
+Reason for using GenAI,Feeling,,Negative
+Reason for using GenAI,Feeling,,No impact
+Reason for using GenAI,Relational,Personal,Personal
+Reason for using GenAI,Relational,Risky,Risky
+Reason for using GenAI,Relational,Expert,Expert
+Reason for using GenAI,Value,Importance,Importance
+Reason for NOT using GenAI,Processes,Access,Unaware
+Reason for NOT using GenAI,Processes,Effort,Effortful
+Reason for NOT using GenAI,Processes,Effort,Off-loading
+Reason for NOT using GenAI,Information,Quality,Specificity
+Reason for NOT using GenAI,Information,Quality,In-depth
+Reason for NOT using GenAI,Information,Quality,Contextualised
+Reason for NOT using GenAI,Information,Quality,Trustworthy
+Reason for NOT using GenAI,Information,Quality,Utility
+Reason for NOT using GenAI,Information,Tone,Positivity
+Reason for NOT using GenAI,Relational,Personal,Personal
+Reason for NOT using GenAI,Relational,Expert,Expert
+Reason for NOT using GenAI,Value,Preference,Preference
+Reason for NOT using GenAI,Value,Need,Need
+Reason for NOT using GenAI,Value,Unsustainable,Unsustainable
+Reason for NOT using GenAI,Value,Privacy,Privacy
+Reason for NOT using GenAI,Value,Integrity,Integrity

@@ -1,0 +1,6 @@
+Question:
+Why didn't you use GenAI for feedback on your work?
+
+Answer:
+Don't trust it
+
