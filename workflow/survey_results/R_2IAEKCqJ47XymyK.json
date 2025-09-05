@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_2IAEKCqJ47XymyK",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "You can ask GenAI any question and ask it to explain it in multiple different ways. (eg. dot points, step by step, paragraphs). It meets my needs where as the teacher is trying to meet the needs of many",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "not really but I feel that GenAI allows you to ask as many questions as you need without getting impatient.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "It will help you make the changes and will then acess the changes after you have made them. A teacher will never have the time to do this.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Less effort"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      }
+    ]
+  }
+}

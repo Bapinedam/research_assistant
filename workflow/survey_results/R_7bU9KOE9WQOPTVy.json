@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_7bU9KOE9WQOPTVy",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "The AI can be creative, provide a specific solution or bring something novel or from other aspect to your attention. However, it is not always correct, and it can easily confuse you. It is better to have a basic knowledge of something and then ask AI. \nOn the other hand, your teacher is almost correct, and you can completely trust him.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I am not always trust in provided feedback by GenAI. However, I always trust my teacher's feedback.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "If you criticise the AI feedback, it says it is my mistake and apologise you. So, you cannot understand whether it is correct or not.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

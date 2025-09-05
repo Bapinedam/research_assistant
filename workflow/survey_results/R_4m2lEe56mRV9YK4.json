@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_4m2lEe56mRV9YK4",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 3,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Teachers always try to make things better for the students, improving and adapting their teaching where need be, which only improves my learning. GenAI doesn't have that emotional intelligence and doesn't always explain things the way students can understand it, this makes it difficult for me to trust the data it provides me.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Teachers don't always have the time to give you feedback on everything so it can be a bit hard to see where you need to improve. GenAI isn't always trustworthy so using the feedback they give, requires a lot of insight from you as an user to test if the feedback makes sense.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

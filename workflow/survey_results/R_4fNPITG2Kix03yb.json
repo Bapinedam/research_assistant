@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_4fNPITG2Kix03yb",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Teacher is the one who is marking the work so their opinion is obviously worth a lot more. They know the assessment item better and know how it will be marked. With AI you need to feed it a lot of info and examples for it to understand what you are required to do. And even then if you feed it too much work or info in one go it will not complete the task properly. I can no give AI my full written assessment and ask it to spell check - it simply will miss errors (I have tried). Although if I feed AI a section of assessment at a time and give the marking criteria along with task details it can provide details on how I may have missed a criteria.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Teacher is more reliable so I will take it on without a second though. AI I will be more sceptical as to whether it understand the assessment item enough to recommend accurate feedback. So Teacher feels good I guess and AI is as good as asking my mum to mark my work at times.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "AI understanding concepts differently than how they may be taught in our courses. so they may recommend adding things which are completely unnecessary for the task. Noticed this a few times.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

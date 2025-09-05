@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_4nckwm2vnErYG0s",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 3,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "it provides specific details about how I can actually improve, whereas I find that with teacher's feedback it is very general and not always helpful in specifically and positively telling me how to improve for next time",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Teachers, even in class and online feedback just is very general and broad and does not always feel genuine or helpful. As a student I want something more 'intimate' in a sense, like very specific to my work",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI can also give examples on how to improve whereas teachers just kind of say it without any specific example or suggestions",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

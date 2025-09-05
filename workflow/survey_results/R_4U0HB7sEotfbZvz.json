@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_4U0HB7sEotfbZvz",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "In this context, the teacher is my PhD supervisor. Both are helpful, but GenAI feedback  makes me do more research to confirm the validity of the achieved learning.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "In this context, the teacher is my PhD supervisor. I can trust what they say, but I have to think twice before accepting GenAI's feedback",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Not always the GenAI feedback is good and reliable. It sometimes gives very broad and vague feedback. So, the  feedback is not necessarily applicable to my specific context. In contrary, due to the expertise of my supervisor and knowledge about the specific context, they give more helpful feedback.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

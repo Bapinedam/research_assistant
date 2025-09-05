@@ -1,0 +1,47 @@
+{
+  "ResponseId": "R_4MiowSLtG7AOLCB",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Information given by AI always has to be double checked, and I don't trust it as much. If my teacher gives information, I know it's based on the real world, and also it gives me their viewpoint which is often helpful in gaining good scores.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "No.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "nil"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Teacher feedback is specific, local, and takes in a broad range of experience.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

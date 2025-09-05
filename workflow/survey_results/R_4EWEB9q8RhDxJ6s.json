@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4EWEB9q8RhDxJ6s",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is just always available to help, whereas a teacher does not work 24/7. You can also get GenAI to answer your questions in multiple ways until you find a way that you understand. However, with a teacher you usually have limited time and don't want to take up too much of their time so often don't get your questions answered in a way that you understand.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes, a teacher is a person so they can make you feel badly about the feedback they give you. Whereas with GenAI I know that it's not a person so I don't attach human feelings to it.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negative"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Your teacher can't grammar check your whole assignment, whereas GenAI will happily do so.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  }
+}

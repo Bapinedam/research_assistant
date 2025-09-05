@@ -1,0 +1,20 @@
+{
+  "ResponseId": "R_4sSeJylMmecMstJ",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 1,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 2,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "It is increasingly rare to get any targeted feedback at all from teaching staff on your learning progress, and when it is provided, it is often too late to have any sort of impact, since the next graded assignment or test has already come and gone.\n\nIf Australian universities are going to continue subsidising fancy new campus buildings and chancellor offices by underpaying teaching staff and hiring poor quality educators with limited English language skills and questionable experience, GenAI will become more and more important for those fewer and fewer students seeking a meaningful and valuable education",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "After submission"
+      }
+    ]
+  }
+}

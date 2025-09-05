@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4TNxSV7fmQaSH2b",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I prefer to ask University staff as I can trust them to give me correct feedback. Gen AI tends to get calculations wrong and doesn’t always understand the theory behind a concept very well.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Personal"
+    ]
+  }
+}

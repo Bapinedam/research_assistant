@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4ojMr3oCTOiieFX",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "My work was my masters thesis, it doesn’t take prompts that are that large",
+    "GoodQuote": "",
+    "Reasons": [
+      "Need"
+    ]
+  }
+}

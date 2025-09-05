@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_8OYF7YpGx6uBL3C",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Using GenAI to get feedback was very beneficial to my learning as it meant that I didn't have to wait for a teacher to get back to me. I was in a different timezone for parts of my degree and the times I would be working on my course would be night in Australia, so it was difficult to get fast feedback. GenAI, although it does not provide the most reliable feedback, was helpful to use as a second pair of eyes to see what areas an assessment might be falling down on. I never took what GenAI said as law because in the end, they're just a language model, but using it helped me to take a step back from my work without having to wait for hours for the workday to start in Australia.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I think teacher feedback feels better because, in the end, the teacher is the one who will be marking the assessment and knows exactly what they want from the assessment. GenAI feedback should always be taken with a grain of salt. It's almost like having a parent read over and assessment. The parent probably doesn't know exactly what the final assessment should be but can still give useful feedback.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "The main differences to me are that GenAI is fast and somewhat reliable feedback while teacher feedback is slower but highly reliable. They both have their place in learning in my opinion.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

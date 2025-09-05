@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_4CKm00hMYCBCU9z",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "There's only so much GenAI can tell from a piece of work, while a teacher somewhat knows a student. They're also more knowledgeable in terms of the subject; sure GenAI can search up anything but it isn't the same.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Expert"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I talk GenAI feedback more lightly compared to feedback from my teachers.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  }
+}

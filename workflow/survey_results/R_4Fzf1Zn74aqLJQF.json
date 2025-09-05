@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_4Fzf1Zn74aqLJQF",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI usually gives me more detailed feedback and if I need more clarification, I can ask for it within instance, while for teacher feedbacks, they are usually vague and short and if I need clarification I need to wait a few days.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I feel like the feedback from GenAI is more continuous and adherent, while the feedback from teachers usually feel discontinuous and vague",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

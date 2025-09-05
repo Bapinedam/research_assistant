@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4MiAh124fUK3WXa",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "because it doesn't know the rubric for my assignments. And I know the markers better so I am better suited to making changes than the AI",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised",
+      "Personal"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_4mQvWaWbPogGUfV",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "LLMs don't know the context of the code, what it actually needs to do, the standards expected (e.g. style guides), etc. It can only make general statements (e.g. \"your comments are not useful\") or identify common mistakes and assume what you meant instead.\n\nTeachers and course staff are aware of what is expected of students and what the code is actually supposed to do. They are only limited by the amount of time allocated to grading/tutoring a course, which tends to be too limited for good feedback on assignments.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "it is easier to disregard a GenAI's critiques because they can be dismissed as irrelevant - since it also makes more mistakes.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

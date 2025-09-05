@@ -1,0 +1,32 @@
+{
+  "ResponseId": "R_4BH0d8P5hwCA6mB",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Using GenAI I can get more immediate feedback in terms of formatting and wording, however with a teacher/TA/tutor I feel like I ca get more feedback with the content itself",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I feel more comfortable asking GenAI multiple questions, whereas I am aware that asking a teacher in person takes time away from other students/can make me feel a little stupid if I still don't understand after they have tried explaining multiple times.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  }
+}

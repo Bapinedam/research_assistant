@@ -1,0 +1,57 @@
+{
+  "ResponseId": "R_42hfPrETO0GlXgg",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I find that GenAI gives a more thorough approach to feedback and provides a greater foundation that could aide in my future assignments, where as teachers seem to give very brief feedback, sometimes very incoherent and lacks thought, where there's no direction for me to use it to improve future assignments.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Sometimes a feel a bit frustrated by teachers feedback as sometimes its not constructive and there just stating everything that was done wrong and not ways I could have improved it, which GenAI does well as it gives me feedback and ways to improve for future assignments.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negative"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      }
+    ]
+  }
+}

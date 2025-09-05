@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4SGObFhl03z4j8B",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I like to research more, collect information, and work by myself because I don't trust the answer's authenticity from gen AI apps like ChatGPT.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Trustworthy"
+    ]
+  }
+}

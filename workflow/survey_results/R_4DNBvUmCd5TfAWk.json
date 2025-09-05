@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4DNBvUmCd5TfAWk",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 1,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI was used as a feedback mechanism in a mandatory RiPPLE task. \nTended to discount the GenAI recommendations, as they felt significantly less relevant than teacher recommendations.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Relevance"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Teacher feedback made me feel more sure of myself, and have greater certainty that I was on the right track with assessment content. GenAI feedback felt more annoying, and I couldn't have that same trust.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "ResponseId": "R_4JrxkK1TdKxcWOg",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "While most of the feedback from lecturers and/or tutors only comes after the assignments are submitted, GenAI provides me with some formative feedback during different steps of my assignment progress, etc. This impacts my learning a lot because I can see the areas where I can improve. Many times, feedback from educators is also very vague and not specific; in contrast, with GenAI, I can also it to provide more detailed feedback, but sometimes it is hard to know what exactly to ask to get specific and useful feedback.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "After submission"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "As I said before, most feedback from educators only comes when the assessment is submitted, so I felt many times that I could not use their feedback as I was not given the opportunity to resubmit my work.\nWith GenAI, I feel more confident that my word in on the right track.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "After submission"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Same as previous questions",
+    "GoodQuote": ""
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ResponseId": "R_4MQBmDnSR6A4auI",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Feedback from teacher is more helpful and accurate than Gen AI",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Feedback from teacher is better but we have always access to Gen AI but teacher might be busy and it could take time. Small and simple problems could be solved with Gen AI easily",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "i guess thats it",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  }
+}

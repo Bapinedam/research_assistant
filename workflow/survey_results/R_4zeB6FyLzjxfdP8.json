@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4zeB6FyLzjxfdP8",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because it gave wrong information in most of the times. Also, it requires to invest more time to cross check it whereas I can do better on my own.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

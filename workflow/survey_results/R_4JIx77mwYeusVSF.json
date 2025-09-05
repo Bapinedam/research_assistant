@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4JIx77mwYeusVSF",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I do not trust GenAI to give reliable answers for anything more complicated than a mathematical formula. Even for maths questions I double check every step and still find mistakes.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "ResponseId": "R_4CppXCvxryEf5FB",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Get the knowledge I want more convenience.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "The teacher's is more able to give detailed answers to my questions, and the answers given by ai are more extensive and comprehensive",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI is more timely and can know the answer immediately, and the teacher's answer is more official and closer to the content of learning.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

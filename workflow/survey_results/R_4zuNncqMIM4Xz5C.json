@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4zuNncqMIM4Xz5C",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "genAI was more direct and to the point and gave suggestions whereas teachers feedback was mostly just a certain aspect needs \"improving\"",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI feedback made me feel more like i can take action to improve whereas teacher feedback was often just this isn't good enough.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I could ask gen AI to provide evidence to support their reasoning",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  }
+}

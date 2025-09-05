@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_42suq9ovU3tqFIB",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because I do not find it useful for this reason, I use it to brainstorm sentences and help with changing paragraph structure. It helps me see phrases in different ways.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Utility"
+    ]
+  }
+}

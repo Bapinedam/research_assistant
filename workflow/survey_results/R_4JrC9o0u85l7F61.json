@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_4JrC9o0u85l7F61",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Teacher: lay somewhat a foundation of some knowledge\nGenAI: It enchance my knowledge based on my foundation on some knowledge. \nThink like a teacher is giving you a blue print, but GenAi is telling you where to get the materials and how to built it yourself based on the blue print",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Sometimes feedback from teacher's can be vague and almost everytime is after an assessment is marked. GenAi can give feedback anytime if I want to.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "After submission"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Sometimes feedback from teacher is somewhat clearer/more interactive than AI and does not need more time to processes. GenAI can give more feedback but sometimes lack of explain and often need to prompt more input to get more detailed explainations/feedback",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

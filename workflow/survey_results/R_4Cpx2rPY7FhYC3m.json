@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4Cpx2rPY7FhYC3m",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI does not impact my learning, more so it just assists it. \nTeachers on the other hand are the only source that shape my understanding and perception on the respective study field.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Importance"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Although I have had bad experiences with feedback from teachers, it is mostly the best source I could go to for advice. \n\nGenAI, I can nudge it nonstop without it tiring or time limitation, although I take the feedback it provides with a pinch of salt, it is always there.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI I believe does not understand the context of the course well enough.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

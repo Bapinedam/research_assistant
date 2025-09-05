@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4kNYJF5UK8cwf8u",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I try not to use GenAI that much, and I would rather get feedback from a peer or my parents.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Personal"
+    ]
+  }
+}

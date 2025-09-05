@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4nPdbcKpJoCeVBh",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "high school strongly advised against putting our work into ai, since it can be used in their training and then used in responses to other people, so there's a potential for a plagiarism report to report as true.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity"
+    ]
+  }
+}

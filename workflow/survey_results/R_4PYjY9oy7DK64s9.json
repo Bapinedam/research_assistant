@@ -1,0 +1,40 @@
+{
+  "ResponseId": "R_4PYjY9oy7DK64s9",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 5,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI: Offers highly personalized learning experiences, adapting to your specific questions, pace, and learning style. It can provide immediate answers, explanations, and examples tailored to your needs.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "no",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "nil"
+      }
+    ]
+  }
+}

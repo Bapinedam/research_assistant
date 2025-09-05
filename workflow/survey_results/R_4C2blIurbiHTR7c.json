@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4C2blIurbiHTR7c",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 3,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is better at highlighting main points that are missing and fixing the writing, whereas teachers differ dramatically with how they mark or what feedback is provided.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Less effort"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "As above, GenAI is more factual, teachers may not have time to provide the necessary feedback needed for growth in writing.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "No other differences. Teachers do not have the adequate time allocated to provide excessive feedback therefor it's simple marking, whereas you gain more insight with GenAI and it can highlight areas that are missing against the rubric - however, I am unsure how accurate that is.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4PRexbyUZmxjr4R",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "AI is at your fingertips and can result in an in-depth 'conversation' about your inquiry. This is particularly the case studying 100% online while also working full-time and time efficiency is critical.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "AI feedback holds less meaning and cannot be relied upon in the some way as teacher feedback as it relies on the background understanding that the AI has on my particular concern.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Feedback on AI can take you down a rabbit hole of conversation while trying to seek an answer that resonates with the question. Feedback from the teacher, though not as easily accessible is more reliable and ultimately could lead to more proficient use of time and resources.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  }
+}

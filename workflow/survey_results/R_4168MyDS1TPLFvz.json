@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_4168MyDS1TPLFvz",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "It is not comparable, utilisation of each is structurally different, however, if I must - GenAI is no where near as useful as one on one with a teacher or subject matter expert - but, often tutors could be difficult to reach at all times, they have limited time and resources and many students. GenAI is easy to talk to regularly and continually and can provide instant analysis or answers to questions.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAi you can talk to and request feedback without any fear of judgement at all - because it is not a person. A teacher, no matter how good and non-judgemental, cannot act in the same manner by nature.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  }
+}

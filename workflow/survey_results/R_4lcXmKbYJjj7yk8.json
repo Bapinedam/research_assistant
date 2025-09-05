@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4lcXmKbYJjj7yk8",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "My assessments feel too bespoke for AI to properly comprehend and answer effectively. I also wouldn't trust it to give me feedback on Australian Law specifically.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

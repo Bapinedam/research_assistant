@@ -1,0 +1,74 @@
+{
+  "ResponseId": "R_4qXvCNc2Bu9rvxq",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Because I think the teacher is on the right track, but what GenAI might be based on I'm not sure, so overall it's still the teacher's influence that's more important",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Importance"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI always gives me positive feedback or some very general, not in-depth feedback, but the teacher's feedback feels spot on. So I trust the teacher's feedback more, but also gain confidence from GenAI's feedback.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI will write very long feedbacks, but they are superficial and do not allow for deep understanding; teacher feedback is usually shorter, but points out practical problems",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

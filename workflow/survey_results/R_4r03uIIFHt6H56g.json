@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_4r03uIIFHt6H56g",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "So being a ambivert I tend to stay quite and not really voice out my doubts sometimes, so GenAI acts like a good study buddy for me as asking all my questions get easier (as I can ask it to make the explanation simpler or complex , or add more examples etc.)",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI provides good feedback, but teacher will be able to provide better feedback in terms of what the assignment demands (the criteria ) , after fall she will be grading it.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI is somewhat accurate but teachers feedback is more specific as it provides reasons as to why I lost marks there .",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4whIZwz5LoMo0dT",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Gen AI is always available where as the teacher obviously has a life and cannot be avaialable all hours of the day.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes, sometimes teachers can come across like a question is stupid and although they may not mean it as judgement but sometimes it is passed off as judgement. With Gen AI there is no tone and it is just a simple answer.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4aeK6xAdAadJ6o1",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is known to fabricate information, however most of the time it is correct and its answers can be fact-checked. Since GenAI is not an employee and is not checked to have credentials, it cannot match how trustworthy a teacher is. Teachers are paid to know material, and ideally would not be employed in the university if they didn't know what they were doing.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI feedback was generally easier to understand and more useful, since I can tell it to re-explain or change how it says things as many times as I like.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI's ability to cater to my needs according to anything I ask it is unmatched since tutors have other students to worry about and certain amounts of times they can do things.\nGenAI is also available 24/7, whereas tutors are not.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  }
+}

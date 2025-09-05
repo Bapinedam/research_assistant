@@ -1,0 +1,47 @@
+{
+  "ResponseId": "R_4Ge380E8RLCQl3u",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 5,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI was grammerly - I trust this for editing and making sure I conform to referencing guidelines. The teacher provides feedback moreso on CONTENT rather than style, which AI can't do (or I don't use it for this)",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Less effort"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "no",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "nil"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I can ask Grammerly for non-stop feedback and don't feel bad, whereas a teacher only provides feedback once the assignment is submitted (my course is online)",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      }
+    ]
+  }
+}

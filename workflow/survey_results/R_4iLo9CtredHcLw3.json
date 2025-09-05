@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4iLo9CtredHcLw3",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "while genAI is a great tool to help me brainstorm ideas, it is not reliable in providing subjective feedbacks of my work. It might be prone to lack of knowledge issues or biases making it's feedback unreliable.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

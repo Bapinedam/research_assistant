@@ -1,0 +1,38 @@
+{
+  "ResponseId": "R_4hrul2hBTvh2QCK",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "there were some differences in opinion however I think that it may just be worded differently",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I didn't really feel any different between either types of feedback",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  }
+}

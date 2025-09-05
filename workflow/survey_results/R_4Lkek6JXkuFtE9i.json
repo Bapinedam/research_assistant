@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_4Lkek6JXkuFtE9i",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I can get the feedback from GenAI fairly quickly and go on with my study. But if I contact a teacher for help via email, I expect to wait for 2-3 days for the response. So nowadays, I try to ask the GenAI first. If I still cannot figure out the problem, I'll then contact my teacher.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "The feedback given by GenAI is always clear and encouraging. But for teachers, they may give short, unclear, and emotional feedback that make me feel bad and nervous.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negative"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "You can always ask GenAI to elaborate more on the feedback and ask more specific suggestions. But for teachers, you may feel stressed when asking further questions.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  }
+}

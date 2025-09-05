@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_4lsFUzQXgplpgU4",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI general gives good advice but doesn't go according to the rubric and our learning outcomes. Hence a teacher would be alot more value as they have deeper context to the subject.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Gen AI was able to create mostly correct in mathematical formulas but definitely falls short in explaining it similar to how the course describes it, that in which is more important",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Understandable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Gen AI is still very wrong from time to time and will definitely struggle with complex prompts. Its quite annoying when it tends to repeat itself constantly",
+    "GoodQuote": ""
+  }
+}

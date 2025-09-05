@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4dnPnNolmEVDchu",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because it is not as reliable as asking a professor or teacher at university that knows the content well.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

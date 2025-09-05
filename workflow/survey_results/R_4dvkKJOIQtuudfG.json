@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4dvkKJOIQtuudfG",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Sometimes the teacher can't answer my questions immediately, if it's after class or during holidays. Sometimes as an international student, you will encounter some language problems. Sometimes these problems are not serious enough to ask the school for help, but you feel that it would be too intrusive to ask the teacher just because of this problem.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Risky"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "The teacher’s answer is definitely completely credible, but you need to judge whether the AI’s answer is correct.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "The teacher's response is very detailed and relevant to the course, while the AI's is more general and only suitable for answering some questions without specific direction.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Relevance"
+      }
+    ]
+  }
+}

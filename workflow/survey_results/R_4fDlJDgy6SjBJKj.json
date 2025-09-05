@@ -1,0 +1,52 @@
+{
+  "ResponseId": "R_4fDlJDgy6SjBJKj",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI cannot replace teachers. However, they can be a supplement for tutors.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "nil"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes. GenAI doesn’t have any emotions. It is based on information on the internet. Teachers have personal emotions. It can create good or bad feelings on students based on the opinions of the teachers",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I can ask GenAI very simple questions and it can give me very detailed answers. Some teachers may not give this detailed answers if they are busy or not willing to.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      }
+    ]
+  }
+}

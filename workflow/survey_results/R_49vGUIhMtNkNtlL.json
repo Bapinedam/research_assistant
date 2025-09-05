@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_49vGUIhMtNkNtlL",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I just never considered AI to provide me with feedback. I rather work with someone else to provide me feedback and review my work. AI can be very technical at times and might give me unwanted suggestions that can waste my time.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Personal"
+    ]
+  }
+}

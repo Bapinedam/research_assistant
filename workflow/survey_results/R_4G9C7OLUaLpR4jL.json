@@ -1,0 +1,52 @@
+{
+  "ResponseId": "R_4G9C7OLUaLpR4jL",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI collates more information that is outside the scope of my studies with the occasional wrong information interpretation of what I need. My teachers can give me targeted feedback on how and where to improve using specific lecture/tutorial material and point me in a better direction of where to go.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Progress"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I'm indifferent to GenAI feedback. Feedback from my lecturers make me feel more secure in the direction I'm heading in with my work.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Progress"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "-",
+    "GoodQuote": ""
+  }
+}

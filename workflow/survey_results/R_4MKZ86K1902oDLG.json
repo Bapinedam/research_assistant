@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4MKZ86K1902oDLG",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Teacher is so much more beneficial. AI is a good way to check that I answered all parts of the rubric but I would not find its feedback valuable.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Importance"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Gen AI feedback did not make me feel anything emotional, I just use it for constructive feedback similar to how i would feel when asking for peer feedback which I think is more comparable than teacher feedback. \nTeacher feedback obviously makes me feel more strongly as it comes with a grade.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Negativity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Teacher feedback is much more valuable, although sometimes more vague than AI feedback.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Importance"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_42yeIFyCn0MDjHi",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "It may be risky to upload all of my work online. Cybersecurity is an issue to me.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity",
+      "Privacy"
+    ]
+  }
+}

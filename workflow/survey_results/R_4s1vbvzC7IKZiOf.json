@@ -1,0 +1,57 @@
+{
+  "ResponseId": "R_4s1vbvzC7IKZiOf",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI provides instant responses and can provide lengthy feedback very quickly, however this feedback can be inaccurate or wrong altogether, although if a student is competent and understands the content (and is perhaps using the AI to generate ideas or summaries) then they can almost always identify errors in AI responses. Teachers on the other hand provide precise feedback, however this may take days or weeks to receive, and may be limited in content and depth, often a teacher will provide as little feedback as possible to meet the criteria for whatever question a student asked.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI satisfies my impatience, that's about it. Teachers often provide more accurate and precise feedback, especially since subjects taught refer to Australia, GenAI is often poor in its knowledge of specific geographic areas when a question is being asked, for example, responses to questions about Australian law from GenAI is often weak and wrong, as it is (for now) unable to accurately cite sections from legislation (it will say some section is actually another)",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  }
+}

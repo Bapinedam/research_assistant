@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_4O23R8QzKu18zie",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Honestly GenAi are quite useful. But not more than teacher. If you enrich your knowledge you always need study, Teacher is best for give you directon. Using proper use of GenAi you can fullfill your work. Ai make you confused by giving too many information but teacher is not.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAi is useful than teacher I guess. In some case it's hard to understand your teacher. I guess, Ai is the best solution in that case.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI is always best to study and summarize my work. I learned from my teacher what i have to do, And I study and make Ai to do my work. Of course it is not a best practice to do your work by Ai. Both are quite important honestly.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Less effort"
+      },
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "Importance"
+      }
+    ]
+  }
+}

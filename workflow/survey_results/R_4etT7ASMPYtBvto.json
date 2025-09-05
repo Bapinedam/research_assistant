@@ -1,0 +1,79 @@
+{
+  "ResponseId": "R_4etT7ASMPYtBvto",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Learning with GenAI offers instant, flexible, personalised responses, while a teacher provides nuanced, empathetic, and interactive guidance.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes, GenAI feedback feels objective and neutral, while feedback from a teacher feels more personal and encouraging.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI feedback is immediate, consistent, and purely informational, often lacking emotional context. Teacher feedback is delayed but more tailored, supportive, and can include constructive criticism, praise, and motivation based on a deeper understanding of the student’s needs and progress.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

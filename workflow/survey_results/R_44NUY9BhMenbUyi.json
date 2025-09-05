@@ -1,0 +1,38 @@
+{
+  "ResponseId": "R_44NUY9BhMenbUyi",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 1,
+  "Q38_2_feedback_helpful_teacher": 1,
+  "Q39_1_feedback_trust_AI": 1,
+  "Q39_2_feedback_trust_teacher": 1,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI doesn't actually understand what it's giving feedback on, but then again neither does the teacher in many cases. Perhaps fewer cases because the AI never truly understands.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "\"Teachers\" nowadays (more appropriately: \"assessment coaches\") aren't really trustworthy or supportive or inspiring and neither is the AI. The difference is that some (very few) teachers can be but AI never will be. At least you can count on that, so perhaps there is less feeling of 'betrayal' with AI, as there was never trust to begin with.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "nah cbf \n\"state of the art\" \"teaching methods\" at monash have often totally removed the \"feedback\" component of teaching so...",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  }
+}

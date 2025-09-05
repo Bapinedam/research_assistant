@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4dzLuZGj7MgVbVg",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 3,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "the teacher's feedback was more impactful as they had direct knowledge of the specific course, whilst the AI was good when  asking for specifics",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "the teacher feedback felt more meaningful whilst the AI feedback was more just used to further expand on the teacher feedback",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

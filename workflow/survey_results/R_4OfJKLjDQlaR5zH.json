@@ -1,0 +1,45 @@
+{
+  "ResponseId": "R_4OfJKLjDQlaR5zH",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI didn't become accessible until after I completed my undergraduate studies (and assignments/homework) so I don't have a direct study comparison to a teacher.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Not really applicable.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I find its feedback to be more thorough and easier to access, albeit occasionally wrong. That said, this is fine in my work, given my primary usage is for coding, and I always check the outputs of the GenAI against expectations.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  }
+}

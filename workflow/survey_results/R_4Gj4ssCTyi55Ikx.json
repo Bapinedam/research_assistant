@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4Gj4ssCTyi55Ikx",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because my work is quite complex and involves a combination of mathematical formulas, algorithms, and diagrams.\n\nI don't think GenAI can help to give comprehensive feedback on my work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

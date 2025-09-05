@@ -1,0 +1,57 @@
+{
+  "ResponseId": "R_4jUyNXDQXgCvPYl",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI goes into more depth of how you can improve whereas the teachers feedback is usually quite broad and based upon the whole cohort rather than the individuals",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Gen AI feedback made me feel like I can improve and that my ideas are good. however teacher feedback sometimes just makes me feel stuck.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negative"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "no other differences",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  }
+}

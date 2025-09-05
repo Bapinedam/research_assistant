@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4oz18UTo35gCMG9",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "According to me, the work I do in relation to my course requires feedback from experts in the field who has valuable knowledge to share from their expertise. GenAI does not have this perspective.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Expert"
+    ]
+  }
+}

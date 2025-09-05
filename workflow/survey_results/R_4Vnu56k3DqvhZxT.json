@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4Vnu56k3DqvhZxT",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Overall, GenAI is not clever enough to provide work feedback for highly creative works like education essays. It cannot distinguish well-written articles from poorly structured articles.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

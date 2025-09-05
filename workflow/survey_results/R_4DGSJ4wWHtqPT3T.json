@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_4DGSJ4wWHtqPT3T",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Teachers are lovely for explaining concepts in person in different ways. GenAI helps a lot when creating notes and can explain concepts but not always well.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI tends to try and be very soft and nice when giving feedback. It tends to gloss over many issues. Teachers are more precise and are able to tell me what I need to improve without hurting my feelings either. Both are nice in terms of feelings",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "Positivity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "My first preference is to ask my teacher as they are grading the assignments, it is better to ask them as they might be picky about specific things. GenAI is decent for for vague/broad feedback. Teachers for more specific things to improve on",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

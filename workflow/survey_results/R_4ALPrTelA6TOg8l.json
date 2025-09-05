@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4ALPrTelA6TOg8l",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Didn't feel the need to.\nNever thought about feedback, just wanted to get the work done.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Need",
+      "Unaware"
+    ]
+  }
+}

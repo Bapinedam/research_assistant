@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4R1LA2H9yAiJet4",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 3,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "AI isn't a trustworthy thing, it's just a best guess as to the correct answer. Opposed to a academic with the actual answer, it's safer to go with that.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Depends on the teacher. AI is pretty generic and waffles on but teachers can either give helpful feedback or nothing useful at all.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "AI does not always specifically give feedback directly related to the assignment unless you give the criteria, which is a pre req for teachers to know.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

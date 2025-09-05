@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4ARmqJTTOuZ4vok",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Give me a biased feedback because they are trained to not make anyone sad or have negative feelings.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

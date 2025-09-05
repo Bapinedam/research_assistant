@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4dpewHZRxOQpnH6",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I guess with GenAI it's immediate and often, you get what you asked for. With teachers, the process can take a few hours or days if you're not in direct contact with them, which can be a hassle sometimes. And with teachers, although it's more catered to the individual, sometimes you might not understand the feedback.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Understandable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I guess the feedback from teachers is more tuned to the individual and they might pick up on stuff that GenAI just couldn't, so I feel more assured when I get feedback from teachers.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

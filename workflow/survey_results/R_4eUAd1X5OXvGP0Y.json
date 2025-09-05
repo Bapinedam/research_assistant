@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_4eUAd1X5OXvGP0Y",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 3,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I have only ever really used GenAI for proofreading / tone correction when writing a report etc. I will generally use some of the changes it suggests, but they are generally not very impactful. I can definitely say GenAI has not had an impact on my learning.\n\nAll of my notes and content I get comes from my teachers, and they are the ones who are contributing to my learning. Hence I would say teachers have the largest impact on my learning, while AI has very little / none.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Importance"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Importance"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "It feels actually useful when coming from a teacher, whereas I never really trust what AI is telling me, and always end up doing the manual work to check what it is saying.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI provides very general, and surface level feedback. Often it is generic and not really specific to what I am doing.\n\nComparatively, teachers can provide useful, in depth insights that are actually relevant to what I am learning.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Relevance"
+      }
+    ]
+  }
+}

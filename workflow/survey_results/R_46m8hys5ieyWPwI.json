@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_46m8hys5ieyWPwI",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because 1. GenAI's capacity's for complex topics which I require help with is very limited. 2. I don't want to compromise the academic integrity of original ideas. 3. On my assignments I get feedback from my assessors",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Integrity"
+    ]
+  }
+}

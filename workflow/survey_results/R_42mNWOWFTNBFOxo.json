@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_42mNWOWFTNBFOxo",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "The feedback from GenAI is always more general, but my teacher's feedback is more specific with the instruction to improve.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "The feedback from GenAI is more formal, but my teacher's feedback is more comfortable for me to accept.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  }
+}

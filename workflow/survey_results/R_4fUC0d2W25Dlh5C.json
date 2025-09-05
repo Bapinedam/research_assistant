@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4fUC0d2W25Dlh5C",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "The machine doesn't have an opinion or experiences and doesn't understand context. The writing it produces is generic and dull, and so is its feedback.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Contextualised"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4HY3KPujkZmOHVC",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "i often work with a lengthy document, and i don't have any premium subscription to AI - so I don't think it would work for me unless i put the inquiry in a concise prompt which needs me to invest in time or effort.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

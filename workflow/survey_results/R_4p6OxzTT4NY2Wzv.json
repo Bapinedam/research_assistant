@@ -1,0 +1,44 @@
+{
+  "ResponseId": "R_4p6OxzTT4NY2Wzv",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 1,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 1,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Feedback from GenAI was often very general and non-specific, it did not impact my learning as I did not incorporate its feedback into my work.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I find feedback from my teacher extremely important, compared to feedback from GenAI which feels so insignificant.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Importance"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Feedback from GenAI would often considerably compliment my work, even when it did not deserve to, often making me dismiss its comments.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  }
+}

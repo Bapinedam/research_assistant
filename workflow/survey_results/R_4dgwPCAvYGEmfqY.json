@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4dgwPCAvYGEmfqY",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I do not think GenAI has the common sense or human logic to judge my work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "ResponseId": "R_4eVUejLbNVEYaH7",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI provides instant, wide-ranging information and helps with quick research or brainstorming, but lacks the personalized feedback and deep understanding of my individual learning needs that a teacher offers. My teacher adapts lessons, provides guidance, and encourages critical thinking, fostering a more interactive and tailored learning experience.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes, there were differences. GenAI feedback feels immediate and objective, but impersonal—it helps with specific tasks but lacks emotional connection. In contrast, feedback from my teacher feels more thoughtful, supportive, and encouraging, making it more motivating and impactful for my learning.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Other differences include the depth and nuance of feedback. GenAI provides quick, factual responses, focusing on efficiency and accuracy, but it doesn't offer personalized insights or deeper understanding of my learning progress. My teacher’s feedback, however, is more tailored to my strengths and weaknesses, includes constructive criticism, and often sparks discussions, fostering personal growth and reflection. Additionally, my teacher can clarify misunderstandings and adapt the feedback based on my reactions, which GenAI cannot.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reflection"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4IB49cxF3N7GvfP",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Sometimes feedback from teachers I find lack clarity as they might use terms that I am unfamiliar with as they have not covered them in the course and are not commonly known. This means after receiving feedback, there is still a considerable amount of work left as I need to figure out what the teacher actually means and wants. GenAI almost will always make feedback super accessible in the language use that makes it easier to understand, however the drawback of this is that the standards are lower and not necessarily the best feedback.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Feedback from teachers sometimes will make me confused when they add in concepts that were not covered in the unit, or sometimes the feedback comments on an essay are not elaborated enough for me to understand what and why and how I could have done the essay better. GenAI is more direct which means I don't get confused even if I don't necessarily find the feedback to be useful or I don't agree with it.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Sometimes GenAI feedback is good but it is mostly basic stuff I feel that asking one of my peers would give similar results but then it depends on the topic.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      }
+    ]
+  }
+}

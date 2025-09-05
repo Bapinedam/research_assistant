@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_4VOUyGfE3icIoe7",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 3,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Feedback from GenAI is more targeted and practical, whereas it's not uncommon for the feedback from the lecturer to be useless. Feedback from lecturers tends to either focus on the irrelevant (i.e. 10% criterion on APA referencing) or asking to include more ideas or perspectives regardless of the work count. Say the assignment is a 1500-word report: I've narrowed the content to address 2-3 key topics as instructed by the brief, however, lecturer feedback is often along the lines of \"you could have looked at this or that\" or \"have you considered...\". This is frustrating as limited by 1500 words, choices need to be made and number of topics has to be cut back.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Relevance"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI: food for thought\nLecturer: always pointing out 'opportunities for improvement' which are impossible to implement",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Feedback from genAI is socratic - I can prompt it further and ask for suggestions in real-time.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  }
+}

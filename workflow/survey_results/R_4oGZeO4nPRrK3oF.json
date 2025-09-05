@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4oGZeO4nPRrK3oF",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Never considered the prospect, also sceptical of hallucinations. Also unsure of whether or not using GenAI for feedback is academic misconduct.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Integrity"
+    ]
+  }
+}

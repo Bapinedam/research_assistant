@@ -1,0 +1,44 @@
+{
+  "ResponseId": "R_4Ckcp0NmLjD01gV",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 2,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I just felt I didn't know where the AI was coming from, their point of view in a way. I knew the teacher had really seen me holistically, but the AI was telling me to change my work based on several cited sources, but to then fact check the AI to make sure it wasn't leading me down some path I didn't want to be on was too much work and not worth it. It impacted my learning by wasting my time working that out. It also stopped me from working things out myself / finding my true voice that it felt like it undermined me in the end. NB: this assignment asked us to use AI to create a CV and cover letter",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes, I felt confused by the AI as mentioned above.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I noticed that the AI had made some assumptions that were incorrect about my situation, so it undermined how much I wanted to use it.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

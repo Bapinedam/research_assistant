@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_478dOpqkJvhv0Rj",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I think both forms of feedback helped me in different ways. The GenAI helped me to make immediate changes and provided me with feedback instantly whereas the teachers usually took about a week to provide feedback but it was much more detailed and helped me refine my work wholistically (the ideas, structure and meeting the needs of the task)",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI made me feel less stressed as I could pick and choose which pieces of advice I was going to listen to and act on. The teachers however, did sometimes make me negative about my work.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negative"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "AI was better organised and formatted so it was eaier to read but the teachers was often orally delievered or written in paragraphs.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      }
+    ]
+  }
+}

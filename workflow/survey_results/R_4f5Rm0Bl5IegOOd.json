@@ -1,0 +1,35 @@
+{
+  "ResponseId": "R_4f5Rm0Bl5IegOOd",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I dont think it has impacted my learning, teachers and AI feedback are just different.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "AI criticism and suggestions are usually easier to take, sometimes I really take to heart any negative or constructive comments made my teachers because I’ve always been someone who wants to please my teachers/prove to them that I am intelligent. But because also it’s feedback that I received after it’s submitted, it’s different to hearing feedback that you can use before you’re marked.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Negativity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "After submission"
+      }
+    ]
+  }
+}

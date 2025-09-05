@@ -1,0 +1,52 @@
+{
+  "ResponseId": "R_46K1Nvi7oCnEHoB",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "The both can help me improve my skills on writing. but AI is helpful as i can ask questions at any time but i have to wait for teacher's feedback, and before the final submission, teacher will not give detail feedback to you, they most wanna you bring critical thinking about the questions. It was helpful but sometimes im not sure if i was on the right track or not.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "teacher's feedback may not that specific, only provide some summary suggestions, sometimes i have no idea how to improve via the feedback. Where AI can give me specific details and provide a future guide about how should i improve.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Progress"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Sometimes teacher's standard and AI's different, even according the same marking rubric, it depends.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  }
+}

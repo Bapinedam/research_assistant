@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_4Emx1YDugoK8qXn",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Obviously a teacher will be able to give very specific feedback that ties back to how to complete and conplete well a speciric piece of assessment for a specific class or context. AI will always struggle with being able to so this as it does not have the required context.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "No differences. Feedback is feedback it didn't make me feel either good or bad.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "No impact"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI feedback will mainly be general and non-specific to a broader context we as humans are able to perceive or experience. A teacher will have a greater understanding of what feedback to provide relevant to the context in which it is required.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

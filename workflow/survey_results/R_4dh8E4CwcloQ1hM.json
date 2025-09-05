@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4dh8E4CwcloQ1hM",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 2,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 1,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I don't trust any feedback from GenAI because it was always a praise and not criticism. Not to mention they are unreliable and based off their feedback from obscure source. Feedback from my teacher, in the contrary, based on their opinion after they read my actual work so at least they made their opinions based on that.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I don't trust any feedback from GenAI and I trust that the feedback from my teacher are based off good intentions.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "No because the feedback from GenAI is just unreliable.",
+    "GoodQuote": ""
+  }
+}

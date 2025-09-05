@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4kuYETffgtzyzku",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I feel like AI can be a bit more in depth than teachers and give an unbiased outlook at things like essay writing that teachers cannot achieve. But they are also not as trustworthy as teachers in terms of feedback as I don't feel like I can fully believe that they are using the correct resources to assess my writing/project. And at times definitively correct answers has been said as incorrect by AI which makes it hard to trust.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Not really, just that I have to scrutinize AI feedback a bit more to make sure its comprehending my work correctly.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Teacher's feedback can sometimes be vague and unhelpful, with no way to help me improve, while AI gives me definitive things I can change and teaches me with the feedback.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  }
+}

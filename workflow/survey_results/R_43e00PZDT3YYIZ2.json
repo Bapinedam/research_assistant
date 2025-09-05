@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_43e00PZDT3YYIZ2",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I didn't know how / if gen AI would know about how to improve my work from a Nursign perspective. I m also very new to this so i Didn't even think about it",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Contextualised"
+    ]
+  }
+}

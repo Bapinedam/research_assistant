@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4m4NsTRjbi5RhYu",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I never thought of using it in that way. I wouldn't do it anyway because I don't really like its writing style",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Preference"
+    ]
+  }
+}

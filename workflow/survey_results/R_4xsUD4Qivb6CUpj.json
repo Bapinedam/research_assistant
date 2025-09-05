@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4xsUD4Qivb6CUpj",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "AI provided me instant feedback on a problem I was currently experiencing, allowing me to continue to work without having to stop and come back later after asking the question is say a tutorial or ed discussion board. I only have used this for programming and it was very helpful but for any math's questions I have its useless. My teachers feedback is similarly instant (in tutorials) and usually similarly effective at solving my problem, usually a bit better than AI (more personalized to my lack of understanding as apposed to a blanket explanation of the topic).",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Not really, maybe just impressed that AI can so quicky generate a response to my question.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "The feedback from AI is faster than my teacher but again a broader explanation instead of a specific explanation of the part I am stuck on from my tutors.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

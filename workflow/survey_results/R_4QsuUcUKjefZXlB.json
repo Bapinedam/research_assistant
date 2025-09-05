@@ -1,0 +1,72 @@
+{
+  "ResponseId": "R_4QsuUcUKjefZXlB",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 3,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I get very defensive when receiving feedback from lecturers, as it is always received after an assessment has been graded, and there is no opportunity to fix the mistakes. I can use GenAI before submitting and edit anything that it suggests.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "After submission"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Before submission"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes, I don't feel personally attacked when using GenAI. Some lecturers would point out different things to fix to others, therefore making it subjective. However, while  GenAI can be objective it can also be wrong.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "nil"
+      }
+    ]
+  }
+}

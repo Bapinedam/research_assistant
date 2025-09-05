@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_42ir24hrvxxueyo",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is readily available I don't need to wait for a response. I will email my teacher and while waiting for a response use GenAI to give me feedback to keep my productivity moving and then update my overall feedback and refine with the teachers comments once they have been given.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "The teacher is obviously the subject content expert and marker so obviously they are going to be the most correct, however asking AI to review a rubric and give feedback as \"XX teacher\" and will be able to tell me if i'm on the right track or not giving me confidence to continue working or restart before it's too far going.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Expert"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "teacher feedback can be vague as they don't want to give away \"the answer\" they also rightly feel that give some students an answer and not other is unfair which I agree, however AI doesn't have that ethical dilemma and can give individualized feedback. Being neurodivergent I know how I need to learn and sometimes there can be a disconnect between myself and the teacher just in that I understand the content but it's not hitting home as I need it explained differently. I can take the content and ask GenAI to deliver me the content in a particular way to make it work for me.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  }
+}

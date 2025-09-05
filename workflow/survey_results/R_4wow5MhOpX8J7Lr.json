@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4wow5MhOpX8J7Lr",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I think GenAI explained it in a way that I can easily understand and it directly points out the problem and suggests ways to improve it so I can change my work. Teachers can help me to a degree but they give general feedback by just saying it would be better if I studied this concept more but not really which part of the concept exactly but GenAI points out which part.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI feedback makes me feel hopeful that I can improve my learning as I know exactly what to improve on and how to fix it while with my teacher it's sort of like I just have to figure it out myself and I get unmotivated.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I guess a difference is that GenAI is encouraging even it's AI it puts words of encouragement while some teacher feedback (not all) is very straight forword where they just point out what you did wrong and that's that.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      }
+    ]
+  }
+}

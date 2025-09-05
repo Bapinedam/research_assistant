@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4tlYXEaCRWBkjRY",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 1,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 1,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Having feedback from teachers helps my learning by providing an opportunity to socialize and understand content better. It also allows to discuss more topics in the curriculum with more nuance, whereas GenAI will pull from data not catered to the curriculum which can often result in minor discrepancies (especially for things that have multiple standard conventions of doing the same thing, such as UML diagrams) and incorrect feedback that is not constructive.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Sometimes feedback from teachers can be hurtful as I do have pride in my work. However that's important. I am often indifferent to feedback from GenAI as it can be wrong on many occasions.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negative"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "The feedback provided by teachers is more direct and relevant. The feedback provided by GenAI is often broad, and sometimes wrong. I've had it provided incorrect feedback on multiple occasions, especially in topics regarding foreign language and more niche programming libraries used in the course.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Relevance"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4gSXJAmnlpeX9nP",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Teachers know the course content better, they are the markers, and as such they know exactly what they are looking for in terms of assignments \nGenAi though more detailed, was somewhat more broad and not as content-appropriate",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Feedback from teachers is very generic, and makes you feel like one of the masses; in comparing feedback with my peers, we have noticed on several occasions, we have received the same generic feedback with one or two dot points that were distinct; like it was lifted from one to the other",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI feedback was more detailed in its answers. \nI find teachers/ lecturers/ course coordinators more overwhelmed and cannot give as detailed feedback for the mass amount of students enrolled in any given course; no matter the amount of support, feedback varies from course to course, but I have found many of my peers to say the same thing. We scarcely get detailed feedback from our teachers",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      }
+    ]
+  }
+}

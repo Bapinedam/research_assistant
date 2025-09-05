@@ -1,0 +1,74 @@
+{
+  "ResponseId": "R_4QiyIwmzQGmtPFN",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is instant and can be used at any time, which saves a lot of time rather than corroborating with students/teachers. I like to use GenAI to give me multiple walkthroughs/analogys for my learning alongside what my teachers provide. I have found it very helpful and in general can provide more ways of understanding the content than just what my teachers provide.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Typically the feedback I recieve is largely typographical and usually has little to do with the actual content of my work. In this regard, GenAI is a much more convienient and quick approach however I trust the feedback much less than what my teachers give directly.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI can and usually does give much more feedback than my teachers do. I can give the AI the prompts/lecture content I am given and it can compare my work directly with the outlines. This allows it to give feedback on each point in the assessment rubric which I have found very useful. Typically the feedback I recieve from teachers is somewhat inconclusive and sometimes doesn't ellaborate on what exactly I needed to do to achieve more marks etc which then requires followup in some regard which further takes more time and effort after the fact.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

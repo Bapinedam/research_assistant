@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_1wTtDlitqCB8K7X",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "The feedback of GenAI is trained by the content from other users, including me as a setting logic under their code. I am not trust their professional in a specific aspect such as my major. Meanwhile, I mostly use AI to brainstorming and plan my weekly receipts, which made the feedback not that worthy. When I need to create content, such as a paragraph, I would provide a very detailed instruction first, which already kind of completed, in which case the feedback could only be a suggestion.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy",
+      "Trustworthy"
+    ]
+  }
+}

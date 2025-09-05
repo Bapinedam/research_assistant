@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4KMhNsOdINNoQFz",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I believe most of the time the response for a feedback would always be positive no matter if it deserves a good feedback or not. If not, It then enhances its feedback response to a positive one once you ask it what specifically is wrong with the text. The feedback has never been something I could use and rely GenAI for.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

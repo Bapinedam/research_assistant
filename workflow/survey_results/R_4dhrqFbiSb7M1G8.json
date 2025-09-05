@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4dhrqFbiSb7M1G8",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "1. Marking is a very subjective process and I don't think GenAI would be capable of understanding where I lost marks- at times I don't even think a teacher followed a rubric.\n2. I ask my own teachers for feedback as they write the exams, are typically practising lawyers, and live in law everyday. They know answers should be answered in practise, GenAI does not.",
+    "GoodQuote": "Y",
+    "Reasons": [
+      "Contextualised",
+      "Expert"
+    ]
+  }
+}

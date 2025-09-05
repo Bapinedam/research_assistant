@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4SLSeaTbUNo99QZ",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "To get feedback from GenAI, I typically ask it specific questions e.g. does my response fully satisfy this reviewer's comment, or is the tone of my email professional and friendly. I wouldn't generally just ask for general feedback. With feedback from my advisors, they have a more holistic view and understanding of my project, so this feedback is definitely more valuable.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Importance"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I guess with AI, I can ask for feedback on more minor details that I probably wouldn't ask of my supervisors as it would be time consuming for them and detract from the bigger picture (e.g. should I use this word or this word, does this sentence convey this message etc). Therefore, GenAI can help me feel more confident in the details, but this doesn't replace the trust that I have in my supervisors' judgement on the quality and reasoning in my work, within the context of the broader project.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I am very cautious about sharing data or sensitive information with GenAI, so I rely solely on feedback from my supervisors for work that directly relates or requires the data.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

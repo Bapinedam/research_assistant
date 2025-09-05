@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4MTm3RdAqwcchy1",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't value what the GenAI recommends. My university provides writing analysis tools that work better, and in any case, GenAI content detection filters are quite strong. \n\nGenAI is about as useful as Siri. Not exactly revolutionary.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

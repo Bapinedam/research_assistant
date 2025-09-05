@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4llsmeqXtYeP3vp",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "AI feedback lacks depth and is of no help to improving my work (is worse than human feedback, which I can also get).",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "In-depth"
+    ]
+  }
+}

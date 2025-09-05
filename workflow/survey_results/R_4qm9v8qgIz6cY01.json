@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_4qm9v8qgIz6cY01",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "AI only can do as much as it can with the input you give it and even AI has it's own interpretation of the criteria.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "AI is more explained and reasoned but sometimes illogical. I find teachers feedback is always logical, more biased to their personal preferences and writing styles (ie: formatting, structure and word addition feedback) as well as time and monetary constraints causing the feedback to more directly 'fix' or 'question' something. The onus is on the student to learn from what they have corrected.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      }
+    ]
+  }
+}

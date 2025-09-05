@@ -1,0 +1,47 @@
+{
+  "ResponseId": "R_4RWursgI2Ik7cXf",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 2,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 1,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI's feedback is too generalised, while the teacher's is very personalised. GenAI did not understand the context of the assignment that I was asking feedback for, no matter how detailed my instructions were.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I generally just don't trust GenAI's feedback at all, as they were not trained to be critical. Even if they were, they could never be as personalised as my teachers who know me better as a person.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "None other",
+    "GoodQuote": ""
+  }
+}

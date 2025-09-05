@@ -1,0 +1,47 @@
+{
+  "ResponseId": "R_4rjeBpj0MdnMXmI",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 2,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI for me is mostly used when I want to ask questions with simple answers, like if I forgot something. Anything abstract may have to be done through asking the teacher themselves",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "The problem with getting feedback from your teacher is that it takes a long time, and by the time they reach out, you would have done most of the work.\n\nGenAI serves as a basis and a last resort if I don't fully understand things",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  }
+}

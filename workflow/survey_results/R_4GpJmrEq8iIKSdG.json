@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4GpJmrEq8iIKSdG",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "AI is good for answering simple questions like comparing the difference between two concepts. You can get an answer anytime you ask.\nThe teacher is more credible with answers to complex questions, such as stringing together several knowledge points for practical application.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Expert"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "AI has a lot of mistakes, especially (1) in law. Because law is not like maths, there is no formula, no standard answer. And the law is updated so quickly that AI's database updates can't keep up with the changes in the law. (2) Arithmetic. For example, multiplication and division and rounding, ChatGPT is often wrong.\nA teacher's answer is more credible.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "The biggest advantage of AI is that it can be asked at any time; the advantage of a teacher is that it is more accurate and credible, as well as the fact that the teacher's communication will be more emotionally feedback, e.g., the teacher may praise me for asking a particular question that is very in-depth and is a good question. This is a great encouragement to me.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  }
+}

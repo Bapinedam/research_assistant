@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4VPZY1VF8wDv9Lj",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Both the AI (GenAI) and my teacher provided valuable feedback, each helping my learning from different perspectives. My teacher offered personalized, in-depth explanations tailored to my learning style, identifying areas I needed to improve based on a deeper understanding of my progress and long-term goals. Their feedback often included specific insights from experience, guiding me to think critically and develop problem-solving skills beyond immediate answers.\n\nOn the other hand, GenAI provided instant responses, allowing me to quickly clarify doubts, practice concepts, and explore diverse explanations in real-time. It helped me reinforce foundational knowledge, test different approaches, and build confidence through continuous, on-demand support. The AI’s speed and availability were particularly beneficial for immediate corrections or when I wanted to experiment with new ideas.\n\nTogether, both sources complemented each other—my teacher gave structured, reflective guidance, while the AI offered quick, accessible feedback. This combination significantly enhanced my learning, as I could gain deeper understanding with my teacher’s help while independently reinforcing and experimenting with AI support.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "Importance"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes, there were differences in how the feedback from GenAI and my teacher made me feel. \n\nWhen receiving feedback from my teacher, I often felt a stronger sense of connection and motivation. The personalized nature of their feedback made me feel understood, and their encouragement or constructive criticism felt more impactful because it was based on a deep understanding of my learning journey. It also sometimes made me feel more accountable, knowing that a human was invested in my progress. However, because it was more thorough, it could sometimes feel more critical or challenging, which pushed me to improve but also made me reflect more on my mistakes.\n\nIn contrast, feedback from GenAI felt more neutral and non-judgmental. Since it’s immediate and objective, I didn’t feel the pressure of being evaluated by another person. This made me more comfortable experimenting with different answers or approaches, as there was no fear of being wrong or judged. However, it sometimes felt less personal and less motivating because it lacked the human touch that often drives deeper reflection or emotional support.\n\nIn summary, feedback from my teacher made me feel more emotionally engaged and driven to improve, while GenAI’s feedback offered a safe, pressure-free environment to explore and learn at my own pace. Both were helpful but in different emotional contexts.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "There were several other key differences between the feedback I received from GenAI and my teacher:\n\n1. **Depth and Context**:\n   - **Teacher**: My teacher’s feedback was often more detailed and contextual. They could consider my past work, overall progress, and specific weaknesses. This allowed them to provide feedback that not only addressed the immediate issue but also tied it to broader concepts or future goals.\n   - **GenAI**: GenAI feedback was more focused on the specific question or task at hand. While it offered useful explanations and guidance, it lacked the deeper context of my overall learning journey. It didn't have the ability to draw on my personal progress to provide holistic advice.\n\n2. **Follow-up and Clarification**:\n   - **Teacher**: Feedback from my teacher often led to a two-way conversation. I could ask follow-up questions, and they could adjust their explanations based on my reactions or additional queries. This back-and-forth allowed for greater clarity and a deeper understanding of complex topics.\n   - **GenAI**: While GenAI allows for follow-up questions, it doesn't always adapt perfectly to previous queries or understand when I’m struggling with a deeper misunderstanding. The explanations can sometimes become repetitive or lack the nuance needed for complex topics.\n\n3. **Encouragement and Emotional Support**:\n   - **Teacher**: My teacher not only provided technical feedback but also gave encouragement and emotional support. This personal interaction often made me feel more motivated, especially when I was struggling. They could sense when I needed a boost of confidence or when I needed a more constructive push.\n   - **GenAI**: The AI feedback is more neutral and purely factual. It doesn’t offer encouragement or emotional support, which can be fine for straightforward tasks but lacks the human empathy that can be vital for overcoming learning challenges.\n\n4. **Adaptability and Flexibility**:\n   - **Teacher**: My teacher’s feedback",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_2FUskMCtBJliSTK",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 3,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI doesnt know the criteria or the perspective of the marker to provide suggestions that I would actively incorporate into my work. It is for me to review and see if I like the feedback or not. My lecturer I would take onbaord all feedback as they are the SME and are viewing it from the point of the assignment task.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I felt my teachers feedback was perosnalised and relevant. AI I felt was generic and may not be specific to the specific uni assignment. I value the lecturer feedback more.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Relevance"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

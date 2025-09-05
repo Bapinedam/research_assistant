@@ -1,0 +1,47 @@
+{
+  "ResponseId": "R_4QtXGJBvvnvPilW",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I have ADHD and auditory processing difficulties so I often need things repeated to actually process the information. I feel comfortable with asking GenAI to clarify something multiple times whereas if I ask a teacher a question and I still don't understand I'd be less inclined to get them to repeat themselves again because they often (rightfully so) get annoyed and I would be left not knowing so it's helped me fill those gaps in learning.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "No",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "nil"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI feedback is usually more generic whereas I can ask a teacher question's specific to uni/assignments that GenAi would be unable to answer.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

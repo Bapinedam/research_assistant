@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4AQpSDOTZhKyhfj",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't want GenAI to have access to my work and I can get feedback from friends, family, peers and teachers",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy",
+      "Personal"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "ResponseId": "R_40yEaACHHRDILFT",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 3,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 3,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI: Provides quick, factual information and clarifications. This is great for immediate problem-solving or when you need a quick answer, but it may not always offer deep insights or encourage critical thinking. The feedback is often more surface-level and may not push you to explore underlying concepts.\nUniversity Teacher: Offers deeper, more nuanced feedback that can help you understand complex ideas and concepts in greater detail. Teachers often challenge you to think critically and ask questions that encourage a deeper exploration of the topic.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reflection"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI: Feedback from GenAI can feel impersonal and mechanical because it lacks a human touch. While it is effective for quickly addressing questions or problems, it does not provide emotional support or empathy. This can sometimes make you feel detached or isolated, especially if you're seeking more than just factual answers.\nUniversity Teacher: Feedback from a teacher often comes with a personal touch, as it reflects their understanding of you as an individual. This can make you feel seen and valued, contributing to a sense of belonging and motivation in the learning environment. Teachers can express empathy, encouragement, and concern, which can be reassuring and supportive.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI: Lacks awareness of specific course context, your progress, or any personal learning objectives. The feedback is generated based on general data and patterns, which can sometimes make it less relevant to your specific situation or needs. It doesn't take into account previous feedback or ongoing projects unless specifically prompted.\nUniversity Teacher: Provides feedback that is deeply contextualized, taking into account the specific course content, your performance history, and personal learning goals. A teacher understands the nuances of the assignments and can provide guidance that directly aligns with the curriculum and your personal academic journey.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Relevance"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

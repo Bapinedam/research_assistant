@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4WOSgZ8cE4uvALE",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "GenAI doesn’t know the marking rubric of my assignment, so when I need some feedbacks on my work, I prefer consulting with my tutor.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Personal"
+    ]
+  }
+}

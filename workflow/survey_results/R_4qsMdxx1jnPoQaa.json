@@ -1,0 +1,57 @@
+{
+  "ResponseId": "R_4qsMdxx1jnPoQaa",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI has been incredibly accessible and easy-to-use when I've had difficulties just translating my thoughts into words -- it has helped me organise my thoughts and cohesively express them and understand concepts/events at a basic level. But for more in-depth and meaningful answers, teachers and tutors have provided much more reliable and constructive feedback. Regarding teacher feedback, it has been more challenging but rewarding while GenAI appears to confirm some thoughts I have, which makes me skeptical of how helpful it is.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Feedback I get from GenAI makes me skeptical and hesitant to use while feedback from my teacher makes me feel a lot more confident in my work and reassured that I'm on the right wavelength in regard to content and assignments.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

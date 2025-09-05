@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4oaRN2o2gysXga5",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Dont trust it to be accurate for mathematics problems which is mostly my degree  I also handwrite most of my assignments which is harder to input into GenAI programs.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

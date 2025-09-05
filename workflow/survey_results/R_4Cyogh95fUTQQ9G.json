@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4Cyogh95fUTQQ9G",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because i like to look over my own work, and edit it to my taste. As successful (or not) GenAI might be at editing, it isn't me. We don't have the same taste when it comes to sentence structure and presenting ideas.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Preference",
+      "Integrity"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_42Sb3sNGYtymkH8",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Gen AI is not biased or moody to humans. It might be faulty and less accurate but definitely gives its 100%.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "More validated. More detail.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI is not prone things like human error or feeling dull or bored. And analyses ALL my input (in most cases). And it’s definitely more productive and makes more sense because it understands the details of my question’s context. Unlike my experiences with most teachers. Though if the teachers are genuinely nice and interested and go through all the work then I doubt I’ll choose AI over my teacher. But unfortunately hasn’t been the case since most work at uni is assessed by tutors who assess in bulk and the feedback is very unhelpful and unproductive (I am a marketing student). But for my programming and data analytics class I 100% prefer my teachers and tutors over AI though AI can give quick answers. And good for self learning if someone prefers that over learning from a person. I am neurodivergent and it’s easier to understand and intake feedback or lectures on my own than in person/ live from a human.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  }
+}

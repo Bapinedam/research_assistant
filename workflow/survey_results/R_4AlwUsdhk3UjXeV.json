@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4AlwUsdhk3UjXeV",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 3,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "AI gives me more exhaustive reasoning and explains the how and why of what I have covered or not covered better than the teacher does and allows me to ask it questions and gives suggestions for improvement (what needs to be included or expanded on or made more concise for readabilty and efficient coverage of the material)",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Progress"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Less effort"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI makes me feel like it is trying to help me be better where as teachers often feel like theyre just pumping out numbers. I have had 2 teachers who were exception, informative and inspirational with their feedback but the rest of the time it just feels like they have too much work for their brains and the student gets lost in the process.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI is a conversation. You are able to talk to it about its feedback. With marking assessments its more just this permanent note they have left that you cant query or learn from. Its static and often incomplete.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "After submission"
+      }
+    ]
+  }
+}

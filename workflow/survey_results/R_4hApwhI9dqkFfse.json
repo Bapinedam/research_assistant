@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4hApwhI9dqkFfse",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't know if the feedback given would be relevant to the assignment. I also don't know whether this would breach confidentiality/policy.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Integrity"
+    ]
+  }
+}

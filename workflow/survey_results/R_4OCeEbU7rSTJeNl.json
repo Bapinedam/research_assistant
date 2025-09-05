@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4OCeEbU7rSTJeNl",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "While both sides sometimes struggle to understand what I dont understand, with GenAI I have an easier experience understanding the inner workings of a object; while human teachers are better at explaining the concept as a knowledge.\nFor simple example, with GenAI I learn more about how this bit of CSS moves the text to the middle, while human teachers would usually be like \"you can use this code to move the text to the middle\", without the \"why\" or \"how\".",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Human teachers, while are usually more subjective, give more precise feedback, which I find are more useful.\nGenAI usually gives \"objective\" feedback which does not suit the context or are not useful some of the time.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Speed and availability: well GenAI is available 24/7 but humans need to sleep.\nRecord: GenAI histories are usually easy to find and does not require extra work to record. Humans sometime give verbal feedback that could be hard to look back on if not prepared.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  }
+}

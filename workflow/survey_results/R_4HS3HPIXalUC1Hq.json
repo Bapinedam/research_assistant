@@ -1,0 +1,52 @@
+{
+  "ResponseId": "R_4HS3HPIXalUC1Hq",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Gen AI feedback seems more specific, rather than rushed generalised teacher feedback. As a dyslexic I get commented on my grammar and spelling more than my actual work when marked by teachers. Gen AI also provides examples of what better work would look like where as you do not receive this from teachers, although understandable with the time restraints.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Less effort"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Coming from a person, a lot of the feedback will feel more unfair and personal, as it has come from a subjective point of view.  The feedback AI gives being simply a robot seems less harsh.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "nil"
+      }
+    ]
+  }
+}

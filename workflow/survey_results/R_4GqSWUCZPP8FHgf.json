@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_4GqSWUCZPP8FHgf",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "GenAI usually wouldn't give me any satisfactory feedback for my work as it failed to understand the intricacies in the rubric of assignments, therefore, I look for feedback from peers or mentors.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised",
+      "Personal",
+      "Expert"
+    ]
+  }
+}

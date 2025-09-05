@@ -1,0 +1,25 @@
+{
+  "ResponseId": "R_4BayyBEWiQWXBOp",
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI often generated generic feedback that wasn't actually relevant and didn't understand the nuances of my assignments. It wasn't really specific feedback and never matched the criteria or what I was going for.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Relevance"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      }
+    ]
+  }
+}

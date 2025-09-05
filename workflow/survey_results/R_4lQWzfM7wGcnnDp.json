@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_4lQWzfM7wGcnnDp",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Same response as I put in the previous text box - I just don't trust it! I'd prefer to audit my work myself, or seek assistance from a peer from my discourse community.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Personal",
+      "Expert"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4CkJOmsFj61zMbZ",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I'm worried that if ask GenAI for feedback on an assignment, then it will somehow be detected on Turnitin. I would rather overlook some grammatical or minor errors than be flagged for using GenAI and ultimately receive some pretty harsh consequences.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4E4cWf93HSrs84X",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "It isn't very helpful in my field of study (mathematics/physics). It is often wrong and unable to understand the task. My assessment is rarely a written task where generative AI is the most useful. GenAI struggles to communicate mathematics but is very rarely useful in giving steps on how to solve a given problem.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Contextualised"
+    ]
+  }
+}

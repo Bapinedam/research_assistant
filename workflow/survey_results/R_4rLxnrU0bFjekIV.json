@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4rLxnrU0bFjekIV",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I feel like it's not going to help me in the feedback I need. It will just pick up on expression mistakes, which I can use through someone proof reading my work. \nIt's also a hassle to reference GenAI so it's easier if I don't use it.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Utility"
+    ]
+  }
+}

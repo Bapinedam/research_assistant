@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4jNcNwWEuGZlOUx",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I haven't really thought about using it for this... but I also wouldn't trust chatgpt to give me feedback that will align with university staff",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Trustworthy"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4DYWoLM4uHQGh90",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't believe I can make it understand the context and criteria of the assessment to get good feedback. Perhaps it would be fine to get feedback enough to pass, but not enough to do well.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

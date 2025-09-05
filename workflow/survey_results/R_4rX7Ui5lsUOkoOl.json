@@ -1,0 +1,47 @@
+{
+  "ResponseId": "R_4rX7Ui5lsUOkoOl",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Generative AI feedback is often focused on the quality of language and expression, however sometimes the overall cohesion or message can get muddied. From a teacher, their focus is moreso on the content, and thus their feedback helps me understand where I may have misinterpreted information more than where I could structure a sentence better.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Generative AI can be instructed to deliver feedback in a particular way, which can be helpful for mitigating stress or negative emotions upon receiving feedback. However, I think receiving feedback from teachers with varying communication styles is better for understanding how different people interpret work.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  }
+}

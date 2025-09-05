@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4QIZAeneqViQnT3",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Much of my work is quite technical and I have found in the past that GenAI suggests changes that aren't beneficial. I would rather just work on editing my work myself and seek feedback from peers and mentors with expertise in the area that I am writing about.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

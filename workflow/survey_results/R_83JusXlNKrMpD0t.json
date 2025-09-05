@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_83JusXlNKrMpD0t",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "To be honest, i have never considered it. Also, I don’t consider AI credible enough or specific enough for it to provide me with personalised feedback.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Trustworthy"
+    ]
+  }
+}

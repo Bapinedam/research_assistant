@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4SJHsTFGLnc8ufn",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because not everything generative AI says is true, and also there can be mismatches with content we were taught during the lectures/seminars with the output AI gives.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Contextualised"
+    ]
+  }
+}

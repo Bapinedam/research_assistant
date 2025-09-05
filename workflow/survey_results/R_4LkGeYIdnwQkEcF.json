@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4LkGeYIdnwQkEcF",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I have never thought of using AI to comment on my work. Perhaps academic integrity is one of my concern, that I am not sure if AI would learn my work and generate something similar for other users.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Integrity"
+    ]
+  }
+}

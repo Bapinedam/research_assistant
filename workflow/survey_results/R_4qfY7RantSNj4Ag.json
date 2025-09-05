@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4qfY7RantSNj4Ag",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 2,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 1,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI lacks a fundamental understanding of what is wanted in the assignments we write. While its knowledge on many topics is deeper than most any human could ever hope to achieve, it lacks an understanding of how to apply that knowledge in a way that is relevant to my degree, and therefore it fails to understand how it should give feedback on my assignment, even when provided with the direct instructions for the assignment.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Relevance"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Feedback from my teachers felt qualitative and reliable; if I was told a change needed to be made by my teacher I was certain that change needed to be made, whereas AI was guessing as much as I was on what should be included in the assignment.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

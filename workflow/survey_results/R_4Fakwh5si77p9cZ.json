@@ -1,0 +1,47 @@
+{
+  "ResponseId": "R_4Fakwh5si77p9cZ",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "The detail of the feedback is different. Given my study is a doctoral thesis, my supervisor provides more intuitive feedback upon my writing and ideas while the GenAI helps with grammar and directing me to new articles and other material to review.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Feedback is difficult but an important part of growing. If we are always concerned about how 'we feel' we will never seek out feedback if we are scared it will make us 'feel bad' and as such will never improve.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI can help to give feedback or ideas when my supervisor is unavailable to assist with areas where I may be stalled in my research. It doesn't replace my supervisor, it is just another tool available to help me work through the process of doctoral studies.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Importance"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ResponseId": "R_4gcKZLxs8s2ebcc",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 5,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Gen Ai was way more detailed as well as also showing me how i can use what i ddidnt do right and how to make it right or improve it",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "it made me feel better because it i was given instant feedback as well as how to improve so i wasnt there waiting for a teacher to simply write \"almost there\"",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  }
+}

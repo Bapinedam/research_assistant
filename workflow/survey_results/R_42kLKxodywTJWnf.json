@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_42kLKxodywTJWnf",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because I do not trust its judgement in some areas of my study, and in others it tends to provide feedback and answers that would manipulate my work in such a way that would make it irrelevant to the task at hand, or not tick all the boxes that lecturers are looking for in my work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Contextualised"
+    ]
+  }
+}

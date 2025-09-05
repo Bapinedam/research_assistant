@@ -1,0 +1,52 @@
+{
+  "ResponseId": "R_41HsQgvAFU3lkRo",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 5,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "It was much easier to ask Chat GPT a question about content than a teacher. I often use the prompt \"Explain this to me like I am a child\" to Chat GPT, and it almost always helps me. There is also less judgment when asking Chat GPT, there was a class where I asked the teacher something and rather than feeling like I got helped, I felt a bit embarrassed because it was something \"easy\". There is no judgment when working with AI.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "When using AI i felt more comfortable and less judged, whereas when I ask tutors especially when my problem is something simple it is a bit embarrassing- but I will admit that is my fault because when I do fall behind in coursework AI helps me get back on track, whereas tutors get irritated at me being behind on work. It makes sense why they feel that way, so I'm not blaming them.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Overall it's just more convenient, especially if it is about learning concepts.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  }
+}

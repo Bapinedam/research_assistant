@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4t3dPiecaxA6mx6",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I find utilising AI can be helpful when it comes to generating initial ideas and linking ne/unfamiliar concepts. The big difference related to convenience and timing, as while in class I can speak to a tutor, however while studying I find instant feedback and support more time effective. I prefer not to email tutors unless it's and urgent and/or important question that only they can answer. However, AI is useful for the smaller things that are not necessarily urgent but helpful.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Receiving feedback from a person is always more valuable and significant in contrast to a tool. While AI is helpful, it does not replace the expertise of a university lecturer. Personalised feedback makes me feel supported and accountable. It enables me to build on what I have started. AI is unable to provide this level of support, feedback and confirmation that I am meeting the unit requirements'. Also, AI has the advantage of time. It can provide more information, and in detail. Tutors do not have this time available.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Expert"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Human contact and support. However, AI can provide very detailed feedback, it cannot replace human interaction.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  }
+}

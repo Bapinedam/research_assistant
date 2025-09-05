@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4thSx0z0XRNGQjv",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Distrust AI's ethical database and do not want to put my work into there",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Privacy"
+    ]
+  }
+}

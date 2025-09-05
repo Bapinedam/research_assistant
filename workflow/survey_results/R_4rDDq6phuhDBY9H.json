@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4rDDq6phuhDBY9H",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "The privacy policies of GenAI are vague, and the very nature of the programs requires it to use new information to improve its future outcomes. Because of this, I don't input my actual writing/final product as there is always a chance of my own writing being flagged as plagiarised (very unlikely but not a risk I need to take)",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy",
+      "Integrity"
+    ]
+  }
+}

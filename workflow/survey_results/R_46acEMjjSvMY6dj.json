@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_46acEMjjSvMY6dj",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "GenAI often has a false perception of suitable ways of writing for my field",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

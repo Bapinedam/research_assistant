@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4k4DOWRqeJRhQc1",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "High-level AI pages are not free, and low-level ones are free but their content is not accurate. In addition the content generated using AI does not meet academic requirements and the work, although it can generate some copy, needs to be revised",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

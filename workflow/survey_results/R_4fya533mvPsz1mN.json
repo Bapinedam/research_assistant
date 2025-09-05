@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4fya533mvPsz1mN",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I believe human feedback is better than AI generated feedback. Also I am not sure about the veracity of the feedback provided by AI",
+    "GoodQuote": "",
+    "Reasons": [
+      "Personal",
+      "Trustworthy"
+    ]
+  }
+}

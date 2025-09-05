@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4Oagyov43cr3C0x",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Most of the time, the edits that GenAI make are either incorrect or do not capture the purpose of my writing. Therefore, I usually opt to edit and finalise my own work myself.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4s1p2fMvuO29PZT",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "It does not know the context in which that particular text was written. Does not understand my voice.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

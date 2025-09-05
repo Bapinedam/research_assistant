@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_45sgRqI9H3Uox5U",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "When we are doing our study, there are some topics that we not very familiar and are not expert on it, Gen AI maybe helpful in giving us some initial ideas to understand the topic. The teachers really do their best to explain and do their job in the class, however, outside the classroom, during our own study time, we cannot always have the teacher to explain some topics that we may encounter or have difficulties on understanding.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes, there are differences on the feedback, GenAI feedback may not be trustworthy that is why we need to confirm it further and do our own research on the topic. The teacher feedback is more trustworthy, but we also need to confirm it by understanding the topic and doing our own research.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "With our teacher, sometimes we cannot have all the time to get feedback from personally. We need to be more proactive in reaching out to them. However, there are also limitations on the student-teacher relationship, we may sometimes not comfortable to reach out to them, some are approachable while some are not. With the AI, you can ask all the questions that you want and not feel awkward or a shame if the question is good or not because you just need sometimes a confirmation on what you have learned.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  }
+}

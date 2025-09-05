@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_4j80c0JzHk5dUJc",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 3,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 1,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "It's good for showing glaring mistakes you may have missed (15 hours at a laptop, and you miss things), however, gpt is not there yet. You'd be a fool to trust anything it gives you, but it is good to give you ideas on how (and where) to look at things",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "No, because it's shit feedback. It is not as critical as I want it to be, and therefore,  not really helpful- except for those glaring mistakes I mentioned earlier.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "There's no comparison. The nuanced feedback from a teacher is essential to honing and refining skillets. Ai is like a high-school student in comparison. Theres no real insight.. Give it a few years though.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      }
+    ]
+  }
+}

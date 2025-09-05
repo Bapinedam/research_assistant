@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4HNzngfpEAFja9Q",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "GenAI provides surface level/textbook critiques and feedback and often makes mistakes. It is fine to use to make sure you haven't missed any major parts of a topic, but when I put a piece of writing in it and ask for advice, its feedback is extremely limited and lackluster. Often it offers a re-wording that is more convoluted and distorts the actual meaning of the text. Grammerly is much more proficient at providing useful feedback on grammar and sentence structure.",
+    "GoodQuote": "",
+    "Reasons": [
+      "In-depth",
+      "Trustworthy"
+    ]
+  }
+}

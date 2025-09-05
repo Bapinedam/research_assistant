@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4LFmJCNfalrq4Cd",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I did not want to give them my written work, as I was worried it would feed back to their data library and be used when generating answers for others, which might be an issue with plagiarism checks.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy",
+      "Integrity"
+    ]
+  }
+}

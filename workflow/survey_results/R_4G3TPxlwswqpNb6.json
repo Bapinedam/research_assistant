@@ -1,0 +1,47 @@
+{
+  "ResponseId": "R_4G3TPxlwswqpNb6",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "This really depends. AI has taught me things that I was able to learn easily, (though not all the time). My teachers, on the other hand, can vary. Some teachers can be really helpful in teaching me something, which can be better than AI. However, there are few teachers that are not very helpful and would be the reason I would use AI in the first place.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Again, it depends on the teacher. Majority of the time, I feel good as both feedbacks are educational and teaches me what I need to be taught.",
+    "GoodQuote": ""
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "AI may not always understand the requirements of the assessments, whereas the teacher obviously would. In this case, AI might give me inaccurate feedback.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

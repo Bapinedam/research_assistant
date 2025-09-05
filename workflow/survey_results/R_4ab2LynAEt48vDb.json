@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4ab2LynAEt48vDb",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I have not thought to use GenAI to get feedback before because, in my experience, GenAI is not that great at understanding the topics that I cover in my studies. Furthermore, it has never occurred to me to even seek feedback from AI.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

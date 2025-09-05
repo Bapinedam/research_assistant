@@ -1,0 +1,40 @@
+{
+  "ResponseId": "R_4GBvhSsOlocgjio",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 1,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 1,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Feedbqck from GenAI at times contrqdicted feedback from my teacher and often gave unclear or unhelpful feedback with a nonsense explanation for that feedback. With a twacher at least I could ask for clarification and get a clear response pretty easily whereas GenAI would constantly change its mind and produce things that didn't make sense.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Understandable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "No",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "nil"
+      }
+    ]
+  }
+}

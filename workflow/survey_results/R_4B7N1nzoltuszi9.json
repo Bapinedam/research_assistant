@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4B7N1nzoltuszi9",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I used to seek feedback from GenAI and a university teaching staff on the same assessment. GenAI provided unhelpful feedback such as saying that my work is \"perfect\" and error-free while the tutor gave constructive feedback that helped me improve my learning a lot",
+    "GoodQuote": "",
+    "Reasons": [
+      "Utility",
+      "Expert"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_4ND7puyVxdk9JUl",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is dependent on the context you provide it in the prompt. Therefore, the most I could give it was the assignment background, assignment criteria, and grading rubric. It was less helpful than getting feedback from my teacher, likely due to the teacher being immersed in the field and having implicit knowledge that can't be always be communicated explicitly through assignment criteria.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI, specifically Claude, is an absolute cheerleader unless explicitly instructed otherwise. This is contrasted by my teacher, who was strategically critical with little to no phrase, arguably for my own good.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Even with context, GenAI seems to get stuck at surface level feedback and lacks the ability to dissect your paper with critical precision.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      }
+    ]
+  }
+}

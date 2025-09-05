@@ -1,0 +1,20 @@
+{
+  "ResponseId": "R_4eqsZAk9ax7a0yJ",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 5,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I think teachers are more trustworthy and their advice is more to the point, but the AI sometimes seems like it's applying formulas, and it can't go wrong with any of the questions it puts its answers to, so much so that it seems a bit shallow",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

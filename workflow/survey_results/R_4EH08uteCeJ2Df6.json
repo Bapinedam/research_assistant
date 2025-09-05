@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4EH08uteCeJ2Df6",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Don't have the trust in it, when I use it for personal work/hobbies, I have tried to ask GenAI for feedback, but in general from my experience is that it fails to provide anything substantial.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

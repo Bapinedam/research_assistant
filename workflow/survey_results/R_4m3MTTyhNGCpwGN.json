@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4m3MTTyhNGCpwGN",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "AI Feedback is a lot more accessible, when I get feedback from a teacher I need to make sure I'm 2-3 weeks ahead of the deadline so I can speak to them in class with enough time to action the feedback etc.\nAI I can get to just look over an assignment whenever and provide feedback",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Getting good feedback from a teacher feels a lot better for sure. AI feedback can often be a bit disheartening as it's just a reminder that very few people can ever write that well. It's also not always super relevant to the assessment when you get AI feedback as the context isn't always fully understood.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

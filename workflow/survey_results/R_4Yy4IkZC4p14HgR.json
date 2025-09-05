@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4Yy4IkZC4p14HgR",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Many of the answers it gives are more general, probably because I don't know how to train it better myself yet.",
+    "GoodQuote": "",
+    "Reasons": [
+      "In-depth"
+    ]
+  }
+}

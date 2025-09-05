@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4w4V4ET8Oy0qvBZ",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't trust that the AI understands the complexities of language enough to provide meaningful feedback on writing. I generally only trust it with some math and to explain information.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

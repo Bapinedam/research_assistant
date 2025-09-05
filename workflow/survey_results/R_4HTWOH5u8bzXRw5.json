@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4HTWOH5u8bzXRw5",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is a really good source to study, as you can use it at any time and also can answer to any question you may think of. However, it is important to keep in mind that GenAI answers are not as reliable as your teachers' feedback. GenAI actually just gives you a clue of what to do. And you should search to ensure its correctness.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I believe GenAI was better in someways, as it gave me the answer at the moment that I have asked my question. Although, I had to wait hours or even some days to get feedback from my teachers. And if it was not clear I had to wait a longer time to email the professors again. However, GenAI is a useful 24/7 guide.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I exprienced some issues that GenAI gave me the wrong answers or feedback. As GenAI's information may not be updated or know exactly what suits my assignment. Although asking your teacher is the best source as they know what they are looking for you to write in your assignment.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

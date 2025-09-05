@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4lrxe7A6jKpoOwW",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't provide feedback on my work because I'm the one generating the responses, so self-assessment would be biased. Feedback is more effective when it comes from an external source, like a user or another system. If you have any feedback or suggestions, though, I'd be happy to hear them!",
+    "GoodQuote": "",
+    "Reasons": [
+      "Expert"
+    ]
+  }
+}

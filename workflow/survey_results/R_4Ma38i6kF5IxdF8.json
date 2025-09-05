@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4Ma38i6kF5IxdF8",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because when I provide my work results to the AI, it always try to find some errors in it even the AI don't know it -- it means that it will provide some wrong answer and I will pay more attention to figure it.In a word, AI usually makes me do more work to get the feedback from it.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_43dU8iYNK1IRUOP",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "GenAI’s understanding of the assignments cannot provide feedback based on specific personal opinions, which has little effect on modifying and improving the assignments.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Contextualised"
+    ]
+  }
+}

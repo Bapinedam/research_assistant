@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_4J1WITlxPUZ0NeF",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 2,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I think with Generative AI, the feedback is quite consistent despite its validity or correctness.  With teachers, sometimes it is quite different.  Some teachers excel in providing feedbacks while some prevails mainly in teaching.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Generative AI is not really useful for feedback.  Feedbacks are something beyond what generative AI could comprehend, there could be some nuances that only human beings could express.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I think generative AI lack the depth in providing feedback, it is very structured based on the analysis on your information and premise provided to the AI, but what about stylistic choices?  Teachers might provide better feedback on for example, the use of fonts or handwriting issues.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

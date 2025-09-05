@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_5Ffkq2o8cgt5Qy8",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I am completing my PhD and have been told in multiple onboarding and training workshops that entering any original ideas, data, or research manuscripts into AI will violate ethics privacy agreements and surrender the original ideas for AI to use in its answers with other people. Essentially, using AI for helping me with my research will be surrending all originality of my research.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity",
+      "Privacy"
+    ]
+  }
+}

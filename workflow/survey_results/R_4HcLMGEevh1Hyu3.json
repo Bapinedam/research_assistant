@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_4HcLMGEevh1Hyu3",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I prefer to have personally produced all content I submit or claim, and I feel concern over potential plagiarism or privacy breaches based on the content I provide for feedback.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Preference",
+      "Integrity",
+      "Privacy"
+    ]
+  }
+}

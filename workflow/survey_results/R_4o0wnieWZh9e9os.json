@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4o0wnieWZh9e9os",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because my work is going to be uploaded to the database and won't belong to me anymore.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy"
+    ]
+  }
+}

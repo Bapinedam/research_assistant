@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4HTOhb0ZKo2RHqx",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't want to put my own work out as data for GenAI, in case it may be cited as \"written by AI\" or something along those lines when I do submit my work and it is processed through turnitin.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy",
+      "Integrity"
+    ]
+  }
+}

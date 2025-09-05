@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_49JJCc7LL0RYVB7",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I usually ask for feedback from lecturers assigned to the specific unit because I can tailor my assessments based on their opinion as they are the ones responsible for going over the assessment at the final stage.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Expert",
+      "Contextualised"
+    ]
+  }
+}

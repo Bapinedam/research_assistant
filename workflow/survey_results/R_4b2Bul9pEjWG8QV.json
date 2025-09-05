@@ -1,0 +1,47 @@
+{
+  "ResponseId": "R_4b2Bul9pEjWG8QV",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I think it's very easy to go to GenAI for answers and saving time on studies as I myself have and sometimes continue to do so. However, this can impact learning as sometimes it creates content that is better than something you could write, which makes you less confident in your own ability. That being said, following teacher feedback has always resulted in higher marks and clear improvement for me. This is why I think the best way to utilise GenAI is as a thesaurus and academic refining tool as it is still your ideas and writing, just improved professionally and then following teacher feedback for more significant changes in your writing.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Importance"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I think GenAI is programmed to always give very surface level feedback and to always give an answer like \"this could be rewritten for clarity\" instead of going into proper detail. I also think that it tries to always be positive and appeal to the user so it will never be unbiased. Whereas, a teacher will always give honest and in-depth feedback which is better for actually improving.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reflection"
+      }
+    ]
+  }
+}

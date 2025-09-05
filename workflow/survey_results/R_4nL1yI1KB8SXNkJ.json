@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4nL1yI1KB8SXNkJ",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "It doesnt have the criteria nor do I trust it to be able to accurately intepret what the criteria means in the context of the subject, There is also language and certain things that need to be addressed that the course tells us to know that AI wouldn't know",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised",
+      "Trustworthy"
+    ]
+  }
+}

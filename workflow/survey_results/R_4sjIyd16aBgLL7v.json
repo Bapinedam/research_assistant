@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4sjIyd16aBgLL7v",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't really understand how to use it and don't trust it's accuracy/judgement",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Trustworthy"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4fjGHkkmiEOo1GY",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I wanted to ensure the feedback I had was specific to my course's needs - as an Australian, I find that many of the models have been trained on overseas data that isn't specific to my environment",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

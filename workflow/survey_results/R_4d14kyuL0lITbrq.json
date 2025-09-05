@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4d14kyuL0lITbrq",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I never thought of asking GenAI for feedback and also feel it would not give me accurate feedback based on my rubric.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Trustworthy"
+    ]
+  }
+}

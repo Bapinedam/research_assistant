@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_4rjQ9JOhKwkNt1D",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Feedback from teacher is usually more specific to what they know the grading to be like and the learning outcomes associated with it, also their personal experiences in work and teaching. This helped in understanding the aims and how to execute the assessment. Whereas genai just gives flat feedback which is helpful in terms of writing style, content etc but without knowing the context of the assessment it lacks transferable feedback so was more difficult to implement.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I can ignore what i consider 'bad' genai feedback much easier than i can from a teacher. whereas i value 'good' feeback from a teacher much more than genai.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  }
+}

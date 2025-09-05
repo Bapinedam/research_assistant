@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4K7kB6R0mnDlrvX",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't trust it to give good feedback, plus I'm abstaining from GenAI usage because it's kind of ruining the environment and it just kind of sucks in general, and also I can't be bothered to write up a GenAI usage statement.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Unsustainable"
+    ]
+  }
+}

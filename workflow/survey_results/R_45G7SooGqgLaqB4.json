@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_45G7SooGqgLaqB4",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "AI can be more detailed, I can ask it very annoying, repetitive questions and really get to the ntitty gritty of minute details without actually annoying anyone, but it I also can't be as confident in what it says, especially around any subject matter things. Good for things like structure / referencing / layout / or picking up on silly mistakes, but teachers obviously provide more relevant, reliable feedback, however I also feel sometimes teacher feedback can be more biased, more repetitive, and frustrating as an online student as I don't really feel like I can ask for clarification on my feedback",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I don't feel anything about AI feedback, I only ask it for pretty straightforward things, teacher feedback can often make me frustrated, as mentioned above sometimes it feels like I can't really ask for clarification on feedback and more often than not negative feedback is detailed in what I did wrong or not well enough, and good feedback is just \"good point\" \"correct\" \"yes\" which makes it easy to only focus on the negative",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negative"
+      }
+    ]
+  }
+}

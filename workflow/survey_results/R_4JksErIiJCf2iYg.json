@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4JksErIiJCf2iYg",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "didn't think it could understand the complexity and nuances around the work and give thoughtful feedback. thus it was not worth while.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "In-depth"
+    ]
+  }
+}

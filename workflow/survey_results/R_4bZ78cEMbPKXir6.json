@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_4bZ78cEMbPKXir6",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I personally avoid using GenAI as much as I can as its association with unethical practices and high environmental cost does not sit right with me. I much rather prefer to get feedback from people who would be the audience of my work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity",
+      "Unsustainable",
+      "Personal"
+    ]
+  }
+}

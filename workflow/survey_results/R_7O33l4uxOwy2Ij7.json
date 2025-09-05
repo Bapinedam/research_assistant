@@ -1,0 +1,44 @@
+{
+  "ResponseId": "R_7O33l4uxOwy2Ij7",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is more direct and clear about the pros and cons of my work while my teachers could be quite unclear in their feedback and expectations.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I feel more annoyed by the feedback given by my teachers if they do not agree with what I wrote as it feels like they could have better conveyed their expectations for the assignment. however, I do feel happier and more satisfied when I receive positive feedback from my teachers as it confirms for myself that I have completed the assignment correctly according to what they have wanted. for GenAI, I don't really have much feeling when I get its feedback, except that maybe it makes me feel more confident in my work to have affirmation from it.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI considers all possible points but sometimes the teachers focus more on points that they are already looking at, even if I have raised relevant points in my assignment. \nfor past papers, teachers are unable to release answers which significantly hinders my preparation for exams so using GenAI to get feedback is a way to be able to check my learning (even if it may not always be the most accurate)",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  }
+}

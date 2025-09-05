@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_4tokk1rAQL4NJtG",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is always available 24/7 for feedback so I can improve what I produce for my supervisor.  ultimately means less work/correction for my supervisor. helps me more fully develop my thoughts/ideas before presenting them to my supervisor.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI makes me feel uneasy as it needs to be tested as not trustworthy. Feedback from my supervisor however is gold - its trustworthy and helpful and highly respected by me - unlike GenAI",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Its immediate - i dont need to wait for my supervisor\nit saves me lots of time as it influences my choices and direction in creating my own content so that it helps me to maximize my time with supervisor as my work is more thought through and developed. GenAI does things my supervisor cannot do or always do or does not have time to do such as give me a summary of a resource or suggestions for a better way of phrasing my content or suggestions for academic resources to read.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  }
+}

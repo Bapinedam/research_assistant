@@ -1,0 +1,89 @@
+{
+  "ResponseId": "R_4jkqjvBDLevjyYC",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I rarely get in depth and detailed feedback from my teachers and this is why I seek more feedback from GenAI as teaching staff lack the time, resources and honestly desire to write good feedback. GenAI therefore supplements this by giving detailed, line by line feedback on how I can improve and what changes should have been made in accordance to the criteria. This greatly improves writing by providing good and accurate feedback. For example, Even if you have done something well it provides an explanation as to why it was done well, something I have never seen from teaching staff in the 6 years I have been studying in higher education.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "The thing that is good with GenAI in helping you feel good about feedback is that you can ask it more questions to help detail exactly what went wrong or what went well and this provides a safe and open space where you can really be critical of your work. I find that the general attitude with teaching is that it is a chore to mark work, provide feedback and then discuss it. As a student who feels their teachers do not want to help them improve their work, it feels demoralising and invalidating and therefore I eventually stopped seeking feedback with teachers as it makes me feel disregarded which is really unfortunate given how much students pay and devote their time to be at university",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negative"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I think the main difference is the level of detail provided by GenAI which can be in accordance with the criteria and this basically eliminates the need for teaching staff to provide feedback which is generally 1 or 2 sentences anyway that provide no clarity or critical analysis of the work but say things like \"need more depth\" or \"devote more words to this\" or simply just \"good point\", I want to know why is it a good point and what depth exactly do I need here, etc",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Reflection"
+      }
+    ]
+  }
+}

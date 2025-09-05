@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_4qsN8rhrMkV7gKx",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I feel as though asking too many questions to a teacher via email, or spending large amounts of time in class asking teachers questions can slow the lesson down and the teacher may get frustrated after needing to explain a concept a few times. Where AI can always reword an example and use different analogies to tie a concept to the real world, at least in my experience. And I can delve deeper into individual faucets of a complicated concept and break it down as far as required and in as much time as needed when doing personal study.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "AI Is good at learning from past responses and is happy to take on criticism on presentation of information at any time, whereas you can’t tell a PHD lecturer they’re a bad explainer.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Obviously presenting questions to a real human has its benefits, but for quick responses I would rather an AI at this point in time. Please dont replace teachers with AI however, I will always prefer an in person lecture to an AI generated / solely online course,",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  }
+}

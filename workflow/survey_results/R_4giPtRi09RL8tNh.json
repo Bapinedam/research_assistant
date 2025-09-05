@@ -1,0 +1,69 @@
+{
+  "ResponseId": "R_4giPtRi09RL8tNh",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 3,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI provides answers anytime and anywhere, this accelerates learning in a pace that has been faster than ever. However, the feedback/ answers provided by GenAI could be misleading and in turn can hinder an individual's learning progress. One of many ways GenAI can hinder a student's learning is that it can limit a person's creativity. \n\n\nTeachers/professors/lecturers provides extremely helpful feedback for their students. However, as schedules can clash with each other, they may have been harder to contact as compared to those of GenAI.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI's feedback is always programmed to make us feel reassured, which does not give pressure to us at all, and in turn affect learning.\n\nTeachers can give you pressure/critical feedback so that we will not make the same mistakes again.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI does not know who we are just because we are users feeding them data they needed. This in turn could give them the notion that we do not need any more context to answer questions that we prompt.\n\nTeachers can read its students and help them without letting them know what they are going through (mental issues, academic capabilities, etc.)",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  }
+}

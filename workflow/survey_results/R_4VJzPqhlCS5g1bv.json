@@ -1,0 +1,79 @@
+{
+  "ResponseId": "R_4VJzPqhlCS5g1bv",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 5,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Comparing the impact of GenAI and a teacher on learning, GenAI offers immediate access to information, explanations, and creative ideas, which can be helpful for quick problem-solving and exploring new concepts. However, a teacher provides personalized guidance, context, and the ability to adapt explanations based on individual needs, fostering a deeper understanding and critical thinking. While GenAI is efficient for certain tasks, the human connection, mentorship, and real-time feedback from a teacher are crucial for holistic learning and development.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes, there are notable differences in how feedback from GenAI and a teacher can make you feel. Feedback from GenAI is often immediate and objective, providing useful corrections or suggestions without emotion, which can be helpful for efficiency but may feel impersonal. On the other hand, feedback from a teacher usually carries a personal touch, offering encouragement, understanding, and tailored advice. This human element can make you feel more supported, motivated, and valued, especially when the feedback acknowledges your effort and progress.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Other differences between feedback from GenAI and a teacher include the depth and nuance of the responses. GenAI tends to provide factual, straightforward feedback, which is useful for correcting mistakes or generating ideas quickly. However, it may lack the deeper context or understanding of your learning journey that a teacher can offer. \n\nA teacher’s feedback often includes insights based on your previous work, learning style, and personal growth, making it more tailored to your individual needs. Teachers can also offer emotional support, encouragement, and constructive criticism that takes into account your specific goals and challenges, helping you to grow not just academically, but also personally.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  }
+}

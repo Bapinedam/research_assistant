@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4etvBHvTLiVOAPZ",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 2,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Using GenAI is just quicker and more convenient than having to wait for your tutor/professor to respond. When you need an answer to a quick question about just a few concepts of a lecture/reading/notes, it's faster and easier to quickly ask AI 'Elaborate on what the author says about their concept of free will' than email or wait for your tutorial time to get an answer.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI feedback was too simple and didn't make sense a lot of the time. It only really works for examining and elaborating on topics and concepts in material that the user has to upload. Feedback from tutors and professors is indispensable, it makes you feel like you are truly grasping the content by having a meaningful, informative conversation with a professional in their field.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Expert"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI doesn't have a rubric to follow, so the feedback is vague and the feedback is only useful for correcting my spelling and grammar. Feedback from tutors/professors makes sense because they have the rubric and have personally read the content I've submitted, rather than scanning through like AI.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

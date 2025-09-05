@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4Vgoveizpm4WQof",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "The parameters for feedback can not be easily modulated for the work that is required for me. There are certain rubric based standards the AI has to take into consideration.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

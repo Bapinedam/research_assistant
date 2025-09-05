@@ -1,0 +1,45 @@
+{
+  "ResponseId": "R_4TREFhqsIYXQmiW",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I think generally that teachers are more accurate and trustworthy, as they have more realistic and relevant feedback that they can pass on. \nIt's easier to ask GenAI to elaborate on feedback (as some teachers do not reply), but their (GenAI's) explanation is not always \"logical\", in that it does not always make sense.\nSome teachers also have more personal bias than others and may impart their own biases on their feedback. This limitation of teachers also extends to GenAI, as their training data is likely bias, but it SEEMS more like a pronounced problem with real teachers rather than AI.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Relevance"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "No real difference, feedback is feedback.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  }
+}

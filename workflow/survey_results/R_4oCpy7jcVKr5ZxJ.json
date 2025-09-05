@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4oCpy7jcVKr5ZxJ",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "When I was last in university, GenAI wasn't around. I don't feel confident enough using GenAI to assist with my university work, I'm afraid I will use it incorrectly and that using GenAI may not be accurate.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Trustworthy"
+    ]
+  }
+}

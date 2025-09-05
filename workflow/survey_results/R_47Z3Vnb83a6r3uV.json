@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_47Z3Vnb83a6r3uV",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "What I've understood is that GenAI is programmed to satisfy the user. The output it gives usually attempts to satisfy the user as much as it can. Regardless of the quality of the assessment you've fed into it, the AI will give you a response that is relatively satisfying. Teachers however are there to teach and give constructive criticism which is generally more trustworthy. However, a lot of the time, the teacher gives minimal feedback and isn't as useful as the GenAI's feedback.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "The feedback from the AI was more satisfactory as compared to the teachers. Some assignments that scored really high by the AI were only given satisfactory grades by my teachers. It is never the other way around.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI usually gives more feedback, you can also ask it to help improve your assessment. The teacher on the other hand cannot do the same, they will usually just give minimal feedback and nothing can be changed after that.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      }
+    ]
+  }
+}

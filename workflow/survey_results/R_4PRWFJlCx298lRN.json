@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_4PRWFJlCx298lRN",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "The teachers advice will always be better as they're gonna be marking your assessment so you have to tailor your work to their liking",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Teachers are biased to what they like and how much they like you, end of story. Particularly if they are not very fond of you. I've had teachers that give me significantly lower grades than deserved and, excuse my french, but bullshit reasons for 'not understanding' metaphors in creative works, when the reality is that they just don't like you. So teachers feedback sucks, especially because they never have something nice to say, its always what can be done better, and they have zero positive reinforcement.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negative"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "AI will at least tell me what areas are strong and what areas are weaker, and have no bias.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      }
+    ]
+  }
+}

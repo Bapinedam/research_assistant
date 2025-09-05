@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4FQb2QfUXqAM9Qz",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because for the work where I'm already using GenAI, there's not a need to use GenAI to check GenAI as the GenAI should provide the right answer already. For work where I don't need to use GenAI, I'm usually confident in my ability to answer the question/write well.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Need"
+    ]
+  }
+}

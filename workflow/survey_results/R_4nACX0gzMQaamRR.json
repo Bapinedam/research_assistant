@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4nACX0gzMQaamRR",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I was worried about accidentally engaging in academic misconduct (e.g. accidently being too influenced by the feedback). I also often don't have time to proofread an assessment before submitting it, knowing this I edit as I write and have never thought to use GenAI to provide feedback on small pieces of work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4Ii6g74dcOGwBDV",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I have never thought to, and don’t want my work to be put into its system in the event it is reused elsewhere without my permission.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy"
+    ]
+  }
+}

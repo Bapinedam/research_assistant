@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4y9xWPBzCMF6FPP",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't trust them. \nI think their jobs are more like \"give some answer\" instead of \"solve your request\". So the comments I got from them are so basic, which I can get it by myself.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "In-depth"
+    ]
+  }
+}

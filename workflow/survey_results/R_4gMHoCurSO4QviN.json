@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4gMHoCurSO4QviN",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Feedback is very subjective and depends on the criterea which your work is valued on. GenAI does not know this criteria, and doesn't have subjective views.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

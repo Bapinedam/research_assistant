@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4dsybttryJ9CqYc",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "AI is not always correct. Sometimes when you judge AI they would just correct their ans according to my judgements.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

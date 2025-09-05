@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4DZlzmMNUM4hNvj",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I proof read myself. And I don't think AI understands everything",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

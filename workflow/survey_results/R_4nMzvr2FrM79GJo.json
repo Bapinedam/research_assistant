@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4nMzvr2FrM79GJo",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI gives me a lot more volume regarding feedback, this allows be to improve every aspect of what went wrong.\n\nTeacher's have limited time, they might point out the errors but not explain it to a great extent.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Teacher's feedback makes me feel like just another student.\n\nGenAI gives me proper feedback, which makes me feel more like a student that has a chance to achieve great things.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Teacher:\n- Limited time, so minimal feedback\n- Less detailed\n- Less emotionally supporting\n\nGenAI:\n- Inifinite time, so a lot of feedback\n- More detailed\n- More emotionally supportive (somehow 😂)",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      }
+    ]
+  }
+}

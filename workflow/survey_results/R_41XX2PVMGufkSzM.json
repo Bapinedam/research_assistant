@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_41XX2PVMGufkSzM",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I prefer discussing my work with another person, or editing it myself. Based on my past uses of GenAI i haven't had much indication that it would provide meaningful feedback on the types of assessments I have been completing (lesson plans or creative writing)",
+    "GoodQuote": "",
+    "Reasons": [
+      "Personal",
+      "Trustworthy"
+    ]
+  }
+}

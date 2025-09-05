@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4jJV7RtH2L9kX0q",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is like a friend who is experienced (but not an expert) in all areas of study and can give you specific and immediate feedback unlike a teacher can. While a teacher may be more accurate and have a specific speciality (therefore better for a single question), for general questions about my work or something that I am not understanding, I find GenAI better. Additionally, GenAI can be tailored to me specifically. For instance, a lot of people (including me) find that analogies are extremely helpful to learning and understanding a new concept and you can quite easily ask GenAI to explain something in that way. This can also be done for other ways that people believe they learn better with. I personally, would not go up to my teacher and ask them to explain with an analogy because it is much harder to come up with an analogy on the spot and there is a long lead time for them to devise an analogy that makes sense and is accurate, then they have to tell it to you, genAI streamlines this process and is incredibly helpful.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Expert"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI is obviously going to continue saying that something can be improved because I don't think it is possible for it to say that it \"all looks good\", it will always try to come up with something.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "While GenAI can help you with debugging your code with more specificity than online resources can, it does not compare to a teacher's feedback. However, a teacher must look through your code to figure out what the problem is and can miss small things that cause big problems. GenAI can help with debugging instantly but also suffers from getting caught in a loop where it keeps telling you the same thing that doesn't work in fixing it and can be extremely frustrating. Just the other week I had a bug in my code and couldn't figure it out and kept sending it to chatgpt. ChatGPT kept telling me to do the same thing I already did and then 6 hours later I realised I had two variables switched around which completely broke the code and ChatGPT never caught it.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

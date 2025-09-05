@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4THHaE3Tg1dXkHG",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 1,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "The teachers can be vague and dance around areas of improvement, sometimes they don't give any at all. AI tells you everything that's good and bad without hesitation, but then again, they're AI and not my professor, so it's a little unreliable. This is where you need adopt your teachers brain, and think about what they would say.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Volume"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "AI didn't make me feel anything from its feedback, it is I think, less critical than a human. Regarding teachers, my feeling changed depending on who it is giving me feedback; some teachers are too nice which frustrates me because I just want them to tell me what's bad; others only offer critique and no praise which can work depending on the character of the teacher however it can be very soul-crushing; then there's teachers who don't offer any feedback at all and it makes me feel like I'm going to a scam university.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Negativity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negative"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "AI is always able to articulate itself better than the professor. When the professor gives me feedback sometimes I end up leaving more confused. I think it's just because what we learn is so multi-dimensional and I like having a clear answer to things which doesn't mix well immediately.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  }
+}

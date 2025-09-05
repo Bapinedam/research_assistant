@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4t0i29NJpWD1JAZ",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "The feedback from the teaching assistants were almost always enough. But if they weren't, there isn't really a convenient way of doing it if they don't give you the work back with the annotations, as most of them don't for me.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Need"
+    ]
+  }
+}

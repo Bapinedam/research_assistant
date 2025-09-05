@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_4teXXZnxt5N0n8l",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I didn't know it could do that, or forgot and didn't think of it. I often have people I can ask to review my work and frankly, I trust them more.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Personal",
+      "Trustworthy"
+    ]
+  }
+}

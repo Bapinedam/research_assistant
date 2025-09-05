@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_4LXKKyoP8p9C1Jy",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because it lies, not useful. Does not usually align with assessor's rubric",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Utility",
+      "Contextualised"
+    ]
+  }
+}

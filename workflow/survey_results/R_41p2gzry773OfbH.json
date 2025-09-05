@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_41p2gzry773OfbH",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Information can be misleading and unreliable. The most important aspects of assignments is the research and information being presented. Therefore, I do not have enough trust in AI to actively ensure that the feedback provided will be helpful in meeting the requirements of the set assignment.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

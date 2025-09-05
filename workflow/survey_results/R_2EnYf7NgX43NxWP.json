@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_2EnYf7NgX43NxWP",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I get feedback from my course lecturers. I don't want or need to look at others feedback on my work. That feedback would be out of context so i don't understand how it could be beneficial or reliable.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised",
+      "Trustworthy"
+    ]
+  }
+}

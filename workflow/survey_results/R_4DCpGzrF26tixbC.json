@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4DCpGzrF26tixbC",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I am confident in my writing skills to begin with, and would rather ask a human being to proofread if I am really stuck.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Preference",
+      "Personal"
+    ]
+  }
+}

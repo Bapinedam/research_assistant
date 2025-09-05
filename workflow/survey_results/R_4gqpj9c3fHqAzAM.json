@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4gqpj9c3fHqAzAM",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Typical autocorrect is sufficient for grammatical feedback. I am particular about my personal writing style, so I wouldn't like feedback for that. Perhaps that's because I don't feel it would be that benefitial, but I should probably give it a try",
+    "GoodQuote": "",
+    "Reasons": [
+      "Preference"
+    ]
+  }
+}

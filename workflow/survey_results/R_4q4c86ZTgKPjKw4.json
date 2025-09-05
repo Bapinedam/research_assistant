@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4q4c86ZTgKPjKw4",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "When I took feedback from AI, I still sometime shad to ask my teacher to reconfirm, but not vice-versa. I look at my teachers as a primary source of information that I can trust, I only use AI to get ideas or brainstorm, but that does not go into my assignments.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I felt more confident and in-touch with my teaching team, when I interact and this improves my learning experience. With AI, it's just a quick help to start my mind before I actually start an assignment.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Gen AI is very American, so sometimes I have to look out for that if it's relevant to my topic, like I once was brainstorming about a Christmas project and AI gave me a very winter theme but that's clearly not for Australia. With Gen AI I am always worried about the source, and how much of it is actually trustworthy, but I don't have to double check like this with my teacher.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Relevance"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

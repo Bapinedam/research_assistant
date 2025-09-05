@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4b3sDJE1IGGTJxQ",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I simply did not think of it; seeking feedback is reserved for direct human interaction.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Personal"
+    ]
+  }
+}

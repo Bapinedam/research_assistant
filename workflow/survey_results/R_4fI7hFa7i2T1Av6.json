@@ -1,0 +1,30 @@
+{
+  "ResponseId": "R_4fI7hFa7i2T1Av6",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I find that the feedback from teacher is more accurate in terms of what is actually meant and is in context. However, feedback from GenAI is somewhat more creative and helps in beautifying the text and also sometimes gives creative ideas of incorporating other information. But GenAI can often go out of context and suggest text edits such that the meaning changes, so I need to be carefully review the changes.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Less effort"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

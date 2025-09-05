@@ -1,0 +1,52 @@
+{
+  "ResponseId": "R_47CIMjeaBpk361S",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI generally provides more detailed and enlightening feedback than teachers do. It also has the upside of being able to expand on and break down the feedback and how to implement the feedback in the future. Teachers are usually overworked and rarely have the time for an in-depth discussion. Feedback is often not put in a way that has utility, or is too brief to be well understood.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "It really depends on the teacher. To be honest, most teachers just point out errors without providing guidance on how to improve them, which can be frustrating. It feels like being told to \"be better\" without any actual help. Although some teachers do take the time to provide guidance. In those cases GenAI doesn't come close to being as helpful as a good teacher. \nIn general, my feelings about GenAI feedback are fairly neutral. It's a helpful tool, like using spell check or Grammarly, and I don't have strong feelings about it or using those tools.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      }
+    ]
+  }
+}

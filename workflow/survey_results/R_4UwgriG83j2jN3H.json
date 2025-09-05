@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4UwgriG83j2jN3H",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't believe that AI has the same feedback system that us humans do. Although, for OSCEs in pharmacy school, I plan on giving GenAI the rubric so that it can grade my interactions.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Personal"
+    ]
+  }
+}

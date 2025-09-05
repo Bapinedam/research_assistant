@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4JoV2hMtj5h0lmV",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because my professor told me if I post the entire text of my assignment or project on AI the chances of that text getting published is negligible as the AI will have the patent right for the text.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity",
+      "Privacy"
+    ]
+  }
+}

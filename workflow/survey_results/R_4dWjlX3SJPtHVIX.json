@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4dWjlX3SJPtHVIX",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't know whether it is safe to do so. I.e. I don't want it to steal my work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy"
+    ]
+  }
+}

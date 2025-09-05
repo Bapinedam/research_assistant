@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4hxXqHvlJV28FLb",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "The main difference is that teachers could impact your learning through a more specific and narrow perspective; its basis is more systematic, as from their experience point of view they could point out what you haven't learnt. While GenAI usually answer you in a relatively broad and abstract sense. It could give u very specific instruction on some topic and some weakness found, but systematic training? better learn how to pre-prompt and setting for most of the people.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI's Feedback generation could be more flexible, and there's no time gap limitation. Teacher could sometimes be stressful.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  }
+}

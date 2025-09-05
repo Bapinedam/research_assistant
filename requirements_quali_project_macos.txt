@@ -1,0 +1,49 @@
+# Requirements file for quali_project conda environment - macOS compatible
+# Core packages for research and data analysis
+
+# Data science and analysis
+numpy==1.21.2
+pandas==2.0.3
+scipy==1.6.2
+scikit-learn==1.1.3
+matplotlib==3.3.4
+seaborn==0.11.1
+plotly==4.14.3
+
+# Jupyter and notebooks
+jupyter==1.0.0
+ipykernel==5.3.4
+ipython==7.22.0
+notebook==6.3.0
+jupyterlab==3.0.11
+
+# Machine learning and NLP
+torch==1.7.1
+transformers==4.6.1
+spacy==3.0.3
+nltk==3.6.1
+textblob==0.15.3
+flair==0.8.0.post1
+
+# Data processing
+openpyxl==3.0.7
+xlrd==2.0.1
+PyPDF2==1.26.0
+PyMuPDF==1.18.9
+docx2txt==0.8
+
+# Web and API
+requests==2.25.1
+Flask==1.1.2
+beautifulsoup4==4.9.3
+
+# Utilities
+tqdm==4.59.0
+Pillow==8.2.0
+lxml==4.6.3
+regex==2021.4.4
+
+# Development tools
+flake8==3.9.0
+autopep8==1.5.6
+pytest==6.2.3

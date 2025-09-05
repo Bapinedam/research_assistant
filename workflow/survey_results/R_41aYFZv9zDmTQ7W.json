@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_41aYFZv9zDmTQ7W",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I normally assess my own work. Due to the nature of my study (engineering), answers are either right or wrong since it often involves calculations.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Need"
+    ]
+  }
+}

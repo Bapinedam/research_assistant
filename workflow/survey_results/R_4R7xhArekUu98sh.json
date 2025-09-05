@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4R7xhArekUu98sh",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I would rather have my own judgement over my work or use guidance of my colleague for the feedback. AI can produce answers but they are not guaranteed to be right.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4rw8E6xI5BRsy2v",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 2,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Obviously sometimes the AI doesn't understand every aspect of a task, so it actually ends up making the task longer/more difficult as opposed to if I acted on teacher methods/feedback. The teacher usually has much more industry specific knowledge and knows the level at which I will be writing so the feedback is more tailored. You can do this by giving more input to the AI but this can be tedious.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Expert"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "The AI is more approachable than the teacher, so it is easier to ask without consequence and not feel silly, but sometimes the misled feedback can also misguide you and make you feel even more confused and second guess your work.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "AI feedback is usually very structured, where teachers can go on tangents etc. and become confusing sometimes.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Understanding"
+      }
+    ]
+  }
+}

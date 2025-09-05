@@ -1,0 +1,69 @@
+{
+  "ResponseId": "R_4e6xdhgWA1Bcn1D",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 1,
+  "Q38_2_feedback_helpful_teacher": 1,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 1,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Feedback is always available from GenAI, whereas feedback from teachers is VERY limited. Feedback from AI is available before submission of assignment, whereas feedback from teacher is only available after marking.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Before submission"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "After submission"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Feedback from AI feels WAY less judgemental, as it is not from a real person. I find that often with feedback from a real person I experience physical and psychological symptoms of emotions such as anxiety, embarrassment, shame, and pride. As a result, I feel that feedback from a teacher leaves a greater impression on me and lessons are better remembered.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Unlike feedback from my teacher, I can probe AI for more detailed and specific feedback and ways in which I can improve my work. AI feedback can help me to incrementally improve my work over shorter periods of time as the feedback can be more abundant, whereas feedback from teachers is only received 3-4 times per semester, offering less opportunities to reflect on feedback and improve my work.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  }
+}

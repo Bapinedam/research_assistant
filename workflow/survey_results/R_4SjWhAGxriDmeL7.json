@@ -1,0 +1,35 @@
+{
+  "ResponseId": "R_4SjWhAGxriDmeL7",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Sometimes, the feedback from AI and teachers might be similiar or different. Rather than comparing which feedback is more beneficial. I use both of them to complete each other. For the AI, it gives me advice based on what I asked for, usually about the flow of the assessment (my assessment is usually in an essay form). Meanwhile, my teacher will give more detailed feedback as it focus on both content and writing.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Not really",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "nil"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Nothing",
+    "GoodQuote": ""
+  }
+}

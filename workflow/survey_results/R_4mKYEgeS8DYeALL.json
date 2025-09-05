@@ -1,0 +1,25 @@
+{
+  "ResponseId": "R_4mKYEgeS8DYeALL",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "AI breaksdown and describes each point raised for improvement and feedback and then  provides examples of how this can be done. At times the cohort is too big for individual feedback or there are different marking techniques by different lecturers and TA's. Some go into more detail than other and provide useful feedback while others can feel like that are focusing on the negatives/ pulling apart work in an unhelpful way.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Objective"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "ResponseId": "R_4xQs41TiSo5J766",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "AI: \n- provide detailed feedback on specific areas that need improvement \n- easier to seek for help \nFor example, I often copy and paste the success criteria with my draft and ask AI how I can improve my writing to meet those criteria. Instead of having AI rewrite my work entirely, I use it to identify what information might be missing, which sections need more evaluation, or where further explanation is needed etc. which is kind of stuff that I used to get marked down while I was in high school. \n\nTeacher: \n- Can be difficult to address directly with teachers due to assessment rules or personal nervousness. \n- definitely the most trustworthy",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Teacher feedback can sometimes come across as very formal and strict, which can feel intimidating. While it's always valuable, the way it’s delivered might make it seem less approachable or supportive at times. Whereas AI gives feedback in more friendly and positive tone that encourages me.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  }
+}

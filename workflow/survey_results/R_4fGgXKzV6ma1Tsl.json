@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4fGgXKzV6ma1Tsl",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "The feedback is often automated and lacks the nuance and tone that a human would. It doesn't pick up metaphors or word choice due to personal experience unless explicitly mentioned. I use AI for structuring and finding words, not as a resolute solution to refining my work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

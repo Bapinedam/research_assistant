@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4OkTZpBQs5ZkavL",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "GenAI still has ethical issues from the inability to monetarily compensate to its source and environmental issue for how much energy it consumes. Unless the program can address these issues I don't feel comfortable supporting/using it.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity",
+      "Unsustainable"
+    ]
+  }
+}

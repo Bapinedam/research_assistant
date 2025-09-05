@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4vJh2ORrtcFFzqN",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "some GenAi are not reliable when providing feedback i have done it once and they were wrong with what needed to be improved. I use HELPS at UTS a lot as they’re more reliable.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Expert"
+    ]
+  }
+}

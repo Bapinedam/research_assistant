@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4ezNW8oFLimwEgS",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I didn't think about it. I'd imagine it would be far better to ask the tutor (who is usually the one marking the work) instead. I'd imagine any improvement in my work would be too specific and complex for an AI to help me with.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

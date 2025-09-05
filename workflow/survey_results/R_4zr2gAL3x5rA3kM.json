@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4zr2gAL3x5rA3kM",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "The standards against which it evaluates aren't necessarily consistent with those of the assessment. \n\nAdditionally, evaluation of work requires substantial knowledge of the particular field and whilst LLMs tend to have very broad and reasonably good performance in all fields, for STEM subjects the performance of even state of the art models tend to be quite unreliable at a high level.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised",
+      "Trustworthy"
+    ]
+  }
+}

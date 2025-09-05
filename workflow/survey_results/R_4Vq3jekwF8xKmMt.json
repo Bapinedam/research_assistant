@@ -1,0 +1,52 @@
+{
+  "ResponseId": "R_4Vq3jekwF8xKmMt",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI can give helpful feedback, but I think it is more from a general perspective and in a very superficial manner. For specific and personalized feedback, only a teacher can give. Sometimes I use GenAI to improve the flow of the paragraph. This way, I understand whether my text is clear and say what I want to say before I send it to my advisor. This is helpful because my advisor can then focus on giving feedback on the content without the trouble of first trying to understand what I want to say.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI = superficial and general feedback. So, I feel anyone can get this kind of feedback.\nTeacher = in-depth and personalized feedback. So, I feel better because I know the feedback will be of high quality and focused on my work.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4Ny831OwujjSccZ",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I only used the GenAI tool for some minor parts of the overall body of work and did not have a high degree of confidence that it was capable of understanding the entire piece to be able to produce meaningful feedback, aside from spell and grammar checks. Further, I did not trust the tool to not use my work for its own training.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

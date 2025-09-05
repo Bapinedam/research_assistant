@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_4NzlY4Cx23gXXoL",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 2,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 1,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI didn't really understand the marking criteria, especially compared to my teachers. It couldn't mark a lot of work at once (e.g., if I put in my whole essay it struggled to mark it). The predicted marks were much different than the marks I recieved.  However AI was really good when I provided short examples. (e.g., \"tell me if this paragraph matches this criteria).",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Not really. GenAI made me confused. I guess sometimes teachers can be a bit harsh but it doesn't bother me if the feedback is constructive.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Understandable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "They were usually very different. For example, AI would tell me to be more consicse on a point while my teacher would tell me to expand.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  }
+}

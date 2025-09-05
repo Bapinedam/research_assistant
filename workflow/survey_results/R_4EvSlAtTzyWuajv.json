@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4EvSlAtTzyWuajv",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 2,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 1,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "My teachers are the ones who provide the knowledge and materials... or what are the things I need to learn in the unit. While AI is a tool to support me during my learning process. For example, the reading materials are supposed to be done independently; hence, if I don't understand any parts of the reading, I would as AI to explain it further for me.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "AI cannot provide specific feedbacks based on the rubric or the criteria provided by the teacher. Also, the teacher feedback always provides comments on where I lack and need improvement and in which area I am good at or I need to maintain. My teachers' feedback is more specific, relevant, and more logical than when I asked AI to provide feedback for me (before submitting my assignment).",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Relevance"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "AI feedback is not always accurate (in fact, it rarely is). Unlike teachers, who can fully understand the content of an essay and connect ideas coherently, AI lacks the ability to grasp context and relate one idea to another effectively.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

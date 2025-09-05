@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4uyqraFHsqR120j",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I did not think that it would give me a reliable description on my work because it does not know the context and theory that is taught in lectures, discussions, or tutorials. Even if I had provided it with the rubric, I would not be certain with its accuracy.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised",
+      "Trustworthy"
+    ]
+  }
+}

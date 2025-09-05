@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4BmJ5t9eufXs4Rr",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't feel it's a helpful means of editing to a specific set of requirement like university assignment, not that I've tried it",
+    "GoodQuote": "",
+    "Reasons": [
+      "Utility",
+      "Contextualised"
+    ]
+  }
+}

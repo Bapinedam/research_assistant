@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_2UJw0cyLqAThZKh",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I normally just proof read by myself, as I don't really trust AI for feedback as I don't want my work to sound like AI",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Integrity"
+    ]
+  }
+}

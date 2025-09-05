@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4IbjH6LoULGB3f2",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Allows me to edit work and rephrase things when I haven't been efficient in covering the important information in a given word count in a way that comes across as professional as I desire. AI also helped find the words I needed to fill in the blanks in my sentences/paragraphs when I couldn't think of the right word. It's also helped explain things step by step in a simplified manner after watching a lecture when I've gone back to do the work, so i can tell if its accurate or not based on what I have in my notes and university resources - yet it just helps really simplify it when I can't wrap my head around. Whereas teachers don't help with anything like that for assignments and it is sometimes hard to get in touch with the teacher and have them explain it in a simplified version that would help, however some teachers have been really good at re-explaining it.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Teachers haven't given out in-depth feedback, so I don't always know what I need to improve on. Whilst when asking AI to edit information for written assignments allowing me to see how i can improve my writing and make answers flow better.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Teachers feedback is just very simplified, some has just been ticks, crosses, question marks or one word things like \"why?\". Not providing detail, AI can provide that detail.\n*repeat of above answer, but its pretty much the main thing, teachers have too much to mark so you can count of getting good feedback that is specific and personalised for what you did, and isn't just a selected box on a rubric*",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "ResponseId": "R_4YeUpr8FCTdbEKl",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is more accessible. \n\nThere have been many times where I’ve panicked because I didn’t know something, and it was late at night so I didn’t have access to teaching staff. Often the topics that we study can be quite niche, so a simple internet search usually doesn’t help.\n\nThis is where GenAI shines. It is by no means foolproof, but it is 24/7 access to your own personal tutor, so long as you take its answers with a grain of salt, and come to your own conclusions.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI tends to be more supporting/encouraging/helpful. Assignments feedback from teaching staff is often a highlight reel of what you did wrong, with some simple words of affirmation at the end.\n\nGenAI is useful in the sense that it can analyse large bodies of text, and provide bespoke feedback. You can prompt it to give you feedback on a specific thing(s) or analyse the whole text. You can ask it to give you answers or just hints. Things like this. The downside is that it is software, not human, meaning that it often will misinterpret things. So every time GenAI is used, its answers should be analysed thoroughly.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "N/A.",
+    "GoodQuote": ""
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4QM9LG0xSWU7zJ0",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I am sceptical about the quality of the feedback. They usually works well for giving a very general answer, which is not useful for my research work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

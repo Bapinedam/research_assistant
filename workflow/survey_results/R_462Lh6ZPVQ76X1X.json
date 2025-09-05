@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_462Lh6ZPVQ76X1X",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "In reference to the helpful and trustworthy aspects of this survey - there is an element of averaging that is being considered in my responses. For the most part, the feedback from GenAI is direct and for the most part constructive. In terms of feedback from teachers, this is less consistent (hence the \"fence sitting\" response for helpful). Some teachers provide clear and extremely constructive criticisms, others are either too opaque or (and this goes in some ways to workload allocations) too vague/non-descript.\nIn terms of trustworthy, GenAI cannot be taken at face value and does require critical thinking of it's feedback. However, feedback from teachers (where it is helpful) can be considered trustworthy where the response is deliberative.\nHow has this impacted my learning - GenAI provides feedback which exists outside of the confines of the structured content of the subject. Whereas teacher feedback considers the content, while also having a direct and interpersonal interaction with the student. For me, it's the human aspect of feedback which is important for actual growth. You know the ideas are real, as opposed to an aggregate of data.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Generally, I have felt that good critical feedback from the teacher is far more effectively than the quick prompt of the GenAI. This is because it does feel as though your work matters, if the teacher gives it the level of attention that would be considered helpful and thorough.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      }
+    ]
+  }
+}

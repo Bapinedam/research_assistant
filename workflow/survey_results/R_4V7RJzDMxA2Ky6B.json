@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4V7RJzDMxA2Ky6B",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Primarily, my course does not use GenAI and I do not want to breach integrity clauses. In addition, I feel that while GenAI can help correct english (grammar), it does not do much in improving the content.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Integrity"
+    ]
+  }
+}

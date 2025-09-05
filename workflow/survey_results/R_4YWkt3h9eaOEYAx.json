@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4YWkt3h9eaOEYAx",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I believe my work is my work, I'd rather feedback from someone who knows what they're on about instead of someone who thinks they know what they're on about (AI). AI is also routinely wrong without it meaning to, for Engineering this would not be a cool thing to use.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity",
+      "Trustworthy"
+    ]
+  }
+}

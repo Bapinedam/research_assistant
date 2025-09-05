@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4v2wtYAm2FG72w1",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I do not believe it has the capacity to reflect what a marker generally looks for in an assessment. I believe the feedback to be very vague and without an adequate understanding of the marking rubric, GenAI is not a valid voice for feedback.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

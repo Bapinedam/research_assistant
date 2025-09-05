@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_4JDIAp7BRJAd8wC",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is more accessible and \"approachable\". It is also easier to get personalized help from GenAI because I can actually show my work and seek help. \nA lot of the times, the tutors or teachers are required to be ambigous and don't have a lot of time to spend on a single student.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I have had professors be condescending while teaching the class which makes it harder to approach them. I'e also recieved completely useless answers by staff members on ed discussion board which made me resort to GenAI because there was obviously a concept I was having trouble with despite engaging with the content and resources throughout the semester.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      }
+    ]
+  }
+}

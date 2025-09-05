@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_4dhc0H42HAbzfuh",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because I oppose the use of GenAI on ethical and environmental grounds. I also do not trust it to provide accurate results. I have so far been unsuccessful in getting GenAI to provide satisfactory answers in my field of study.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unsustainable",
+      "Integrity",
+      "Trustworthy"
+    ]
+  }
+}

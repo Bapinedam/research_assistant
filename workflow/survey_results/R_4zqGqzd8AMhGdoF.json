@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4zqGqzd8AMhGdoF",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I didn't feel that it was necessary. I am confident in my ability to write coherently and fluently and GenAI doesn't know what content I should include as well as a teacher or friend does. Therefore, I would rather ask a teacher or friend for feedback.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Need",
+      "Contextualised"
+    ]
+  }
+}

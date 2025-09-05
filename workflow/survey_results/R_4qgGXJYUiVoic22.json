@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4qgGXJYUiVoic22",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "gen AI can be very personalised but at the end of they day it doesnt know the standard our teacher is expecting of us. on the other hand our teachers dont have time to give us the feedback we need most of the time so even  if it is the more valuable feedback it is definitely much less accessible.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Gen AI- a bit unsure of if the suggested changes is actually gonna improve my writing or is it just suggested by AI as i asked it to come up with something.\nteachers- i have almost never received personalised feedback from a lecturer, only TAs and it has been okay",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "If i were to have access to a teacher to give me personalised feedback about my work I would try to ask feedback only on my finalised work and try not to take too much of their time whereas with AI as they are not a person, I dont need to worry about asking feedback on only the best and finalised version of my work.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  }
+}

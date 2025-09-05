@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4ERQydyqHizPdCh",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because of its accuracy, it’s better to check the work myself rather than use GenAI. It’s only good for generating, not checking as I did it sometimes and GenAI is terrible for checking. It always imitates my answers. For example, when you asks GenAI 1 + 1 = 3, it initally said wrong, but when you insist on that it is true, AI will follow that and say it’s true",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

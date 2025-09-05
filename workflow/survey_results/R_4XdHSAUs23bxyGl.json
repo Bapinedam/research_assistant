@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4XdHSAUs23bxyGl",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I have people that I trust read through my work and give their personal feedback. so i don't need to use AI",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Personal"
+    ]
+  }
+}

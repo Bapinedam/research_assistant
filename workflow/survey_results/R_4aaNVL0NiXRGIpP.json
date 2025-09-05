@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4aaNVL0NiXRGIpP",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I have concerns with uploading assignments onto a 3rd party website. Especially in case my work is used to train the program.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy"
+    ]
+  }
+}

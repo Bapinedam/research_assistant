@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_4fsaRzZ4tB35xaQ",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I feel it is a risk of cheating and I don't want my work to be uploaded or stored somewhere that I don't know. I don't have that much trust in AI.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity",
+      "Privacy",
+      "Trustworthy"
+    ]
+  }
+}

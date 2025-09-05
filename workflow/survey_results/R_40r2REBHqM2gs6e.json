@@ -1,0 +1,44 @@
+{
+  "ResponseId": "R_40r2REBHqM2gs6e",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I will selectively refer to the feedback given by the AI, and I will immediately modify the feedback given by the teacher according to the teacher's requirements.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "The answers given by the teacher are basically authoritative and correct. The answer to AI is not necessarily certain, and you need to always maintain a skeptical attitude.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "For example, in the translation assignment, as there is no completely correct answer, the translation suggestions and examples given by the teacher are very reference-oriented, taking into account the context, readers and cultural background. Even if AI makes the above requirements, it will be difficult for the translation it provides to meet these requirements.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4s65672rZGIV8nL",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 3,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I often have assessments that receive little to no feedback. I had a major report assessment for a course that I not only never received feedback for, I never saw what mark I got.\nI've used GenAI to tell me what it thinks the core idea of a paragraph is, or I've asked it how could I improved a paragraph based on what the core idea/message should be.\n\nIt's also really good at providing feedback when comparing two different ways I had written a paragraph and I want to see which one delivers the message better.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Progress"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI feedback can be thorough or to the point (you can dictate), but it sometimes lacks context for what you might be writing about and therefore the feedback might not always be relevant.\n\nFeedback from teachers, is extremely varied. Some are excellent and provide in-depth feedback on why I lost marks, how I could have improved. Sometimes however their feedback doesn't make sense and if I reach out for clarification, there have been times I don't receive a response.\nOverall, it unfortunately feels like a lack of respect and care towards students and the work they do. It is therefore rather demotivating and becomes a matter of \"ok, whatever, I just need to pass.\".",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "There doesn't seem to be any set \"requirement\" on teachers providing feedback, or the extent of what that feedback should be.\nI feel it should be required that any loss of marks should be justified with feedback and what the student could/should have done to get additional marks.\nOtherwise, what even is the point on doing assessments if we have no idea why we lost marks and how to improve? We end up not really learning anything.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

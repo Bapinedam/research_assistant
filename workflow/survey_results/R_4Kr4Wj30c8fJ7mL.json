@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4Kr4Wj30c8fJ7mL",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't see GenAI as being capable yet of successfully editing work to how I would like. It can create very general information that does not always apply to what I need.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

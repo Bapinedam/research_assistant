@@ -1,0 +1,62 @@
+{
+  "ResponseId": "R_4VIdALxeVmP9J1T",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI feedback is a lot more direct because I am getting it to mark my work against the rubric therefore it is very straightforward. This means I can directly change writing before I submit an assignment which the GenAI thinks is unclear etc. \nteacher feedback always comes after submission unless there is an essay plan assignment. Otherwise it requires booking an appointment with a teacher to get feedback before the due date. In this case I would rather skip the hassle of organising a meeting with a teacher if I can get pretty good feedback from GenAI",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Before submission"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "After submission"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Feedback from a teacher sometimes feels biased. I often feel like I have to or have had to write about certain topics depending on who was marking my work. There have been some assessments where I felt the teacher's feedback on an essay (subjective) had been an objective assessment of my work based on their views on the topic. \nGenAI is not biased however I feel like it does generate similar answers regardless of the work. Sometimes making me feel like its not actually reading my work and just giving me a 70-80. However, I find this problem is overcome if I ask for more specific advice about what parts of my essay do not align with the HD bracket of the criteria.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I get similar marks from both AI and teacher grades",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  }
+}

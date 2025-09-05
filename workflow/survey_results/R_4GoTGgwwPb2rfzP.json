@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4GoTGgwwPb2rfzP",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I am confident in my work. Furthermore, I prefer my own writing style to that of GenAI, and am quite distrustful of its quality. I have visibly seen it make errors.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

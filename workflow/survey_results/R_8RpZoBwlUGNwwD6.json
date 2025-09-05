@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_8RpZoBwlUGNwwD6",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Gen AI is not trustworthy as a tool for critical analysis of content. It can't offer a genuine critique of something put in front of it because it's output is pulled from disparate sources and based on a probabilistic algorithm not a rational answer from a thinking being.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

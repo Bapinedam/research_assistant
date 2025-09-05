@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_4M2x2bBaLFwZPxf",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 3,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Generative AI is more efficient at evaluating large amounts of text, so it was faster to get feedback from it, but its feedback tends to be too verbose, slowing negating some of the speed benefits.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Getting feedback from a teacher makes me feel like I'm being taught a valuable lesson, as I know they're pointing out the things that are most important. In contrast, feedback from generative AI feels very soulless and overly nitpicky, which doesn't leave me feeling any better about my work.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Generative AI rarely sees the whole picture, whereas a teacher is generally more aware of context without having to inform them.\n\nWhile a teacher knows what is most important, generative AI can struggle with this. Its verbosity seems to stem from the fact that it weighs most things equally, so tries to give feedback on everything. Meanwhile a teacher will focus on the things that matter most, being more or less forgiving depending on context.\n\nAdditionally, generative AI provides a lot of recommendations for how to make something fit within its own writing style and biases, which is a rough combination of everything it has seen on the Internet. In comparison, a teacher will provide feedback that is more balanced and better suited to the expectations of the society that the student & teacher reside in.\n\nThe machine will always come up with an improvement to be made, which can lead to an endless chase toward the best possible result, but that will likely end up worse than how it began. A teacher, on the other hand, knows how much feedback to give and when to stop making recommendations.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      }
+    ]
+  }
+}

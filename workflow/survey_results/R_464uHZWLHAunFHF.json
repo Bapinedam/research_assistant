@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_464uHZWLHAunFHF",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I do not trust it enough to provide valid, critical feedback that a human can, rather than just spouting out responses that it thinks are a good fit for what is written.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

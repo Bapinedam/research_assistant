@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4bGq7BpXn1rXJVn",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAi gives a sourced set of information as a response to my need for feedback. And though it sometimes offers good advice to improve my work, it doesn't compare to the experience my teachers have with the work and the subject itself. As they've actually gone through very similar tasks and have most likely been in the same boat as me in terms of problems and questions.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "the GenAi feedback made me feel more positive as it is a computer telling me problems which it is programmed to assess. Whereas receiving feedback from a teacher, despite sometimes being harsher, it offers a more personal and in depth analysis into what i've done good or bad, and what I can do to improve.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Sometimes GENAI's feedback has more information to refer me with as it is an intelligence programmed to offer as much information necessary to which I have asked for. Whereas sometimes for teachers feedback, they can lack the amount of information they can give me, whether they cant think of something on the spot, or if they can't actually help me to their full capability due to restrictions in the task itself.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      }
+    ]
+  }
+}

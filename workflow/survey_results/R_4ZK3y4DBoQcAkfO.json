@@ -1,0 +1,52 @@
+{
+  "ResponseId": "R_4ZK3y4DBoQcAkfO",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is readily available and does not require any wait time for response however it will never be 100% accurate to what we are learning in class so it can be used as another tool to aid you but I will always rely mostly on my teachers for help as they know exactly what it is I need to do to improve or get marks on an assignment. \n\nSo it has improved my learning somewhat but it does not replace a teacher.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Feedback from a teacher is much more personal and specific however I dont feel particularly different from either.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI is only able to provide with general feedback and feedback based on the parameters that I set so it will never be perfect, mostly just do gauge where I stand in terms of a grade\n\nA teacher will be very specific and personal giving exact details and to how I can improve to either get a better mark or improve a certain skill.",
+    "GoodQuote": ""
+  }
+}

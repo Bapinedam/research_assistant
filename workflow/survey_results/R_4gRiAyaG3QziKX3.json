@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4gRiAyaG3QziKX3",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I think the standard of evaluation between humans and GenAI is different, GenAI did produce or generate something, but it can't give feedback or judgment based on human standards. So I prefer to get feedback from a real person.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Personal"
+    ]
+  }
+}

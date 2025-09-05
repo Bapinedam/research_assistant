@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4fd1wx7clvb29k2",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Teachers can sometimes be vague or broad in their advice and feedback for assignments, which may leave things open to interpretation and creativity but is also  sometimes confusing to understand. I've used GenAI to work with writing or thoughts and prompts that I have input, it has been more specific in its response and I understand that I can choose to take onboard GenAI's feedback or not.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Understandable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Sometimes the feedback from my teacher has left me feeling more confused as they need to remain impartial and cannot give detailed or specific feedback. Whereas GenAI is giving specific feedback on my work which can prompt me to think further about my ideas and assignments.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I often ask for different kinds of feedback from each my teacher and GenAI. I might ask my teacher about specific assignment requirements, guidelines and expectations, whereas I might ask GenAI to provide feedback on writing / editing / proof reading.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "Utility"
+      }
+    ]
+  }
+}

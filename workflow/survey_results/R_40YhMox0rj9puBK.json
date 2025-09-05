@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_40YhMox0rj9puBK",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because I don’t think we should rely on GenAI. I would rather feedback from a human.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Personal"
+    ]
+  }
+}

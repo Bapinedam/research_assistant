@@ -1,0 +1,79 @@
+{
+  "ResponseId": "R_4CTm36d2OM756KY",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 2,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "The teacher's feedback was much more tailored to learning outcomes they knew I had, and I liked that it showed an understanding of who I am as a person and my broader circumstances. The GenAI feedback was somewhat useful in that teachers/staff can be very busy and sometimes leave feedback so vague that it's genuinely distressing or unhelpful (or in the worst of cases, suffers from a clear lack of attention to detail). Furthermore, GenAI feedback was always polite and constructive, but unfortunately I can't say the same about all teacher/staff feedback.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Generally I prefer teacher/staff feedback as I feel more valued and understood as a fellow person, and for me, solid, constructive feedback from teachers positively contributes to our professional relationship. However, in cases of vague, unclear, feedback and/or feedback with harsh, unhelpful wording from teachers/staff, this *also* had a greater impact on me emotionally. GenAI feedback feels pretty neutral by comparison, but also very frustrating when it's not properly tailored to the prompt and/or lacking depth.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negative"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI feedback more frequently lacks depth and/or ignores key details within the prompt. Teacher feedback tends to show greater understanding of student circumstances and my unique learning context beyond just the 1 assessment piece. GenAI can be a 'safer bet' in that it *always* takes on a polite and constructive tone, but feels much lower quality overall.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  }
+}

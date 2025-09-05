@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4YIrD1wnD5y2Lh7",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "From a teacher I know that I am receiving reliable information that I can use in my assignment to elevate my work, whereas GenAI can be less accurate and most of the time produces a different way of writing my assignments rather than adding to enhance it.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "From a teacher, I can get feedback that will help my work but it can be less accessible, especially in busy assignments times where there is a large class and less time to ask for help. Whereas GenAI can provide fast feedback from typing in the search bar, this is normally less rushed than feedback from a teacher.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "From a teacher is a credible source that can directly assist, GenAI uses the same responses in most cases based of key words which can get misunderstood and not represent the criteria of the assessment.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

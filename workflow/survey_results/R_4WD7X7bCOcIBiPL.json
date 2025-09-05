@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4WD7X7bCOcIBiPL",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Inputting assignments trains the AI. I didn't want my assignment material to be used in future student work",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4B9vw43AK4zR52E",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "My grades largely depend on what my tutor is looking for. I would rather receive feedback from the person whose standard I will be marked against, rather than a generative model that draws from an internet full of influences.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised",
+      "Trustworthy"
+    ]
+  }
+}

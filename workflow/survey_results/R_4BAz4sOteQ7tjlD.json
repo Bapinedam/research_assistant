@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4BAz4sOteQ7tjlD",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Most of my assignments are math and physics and half of the stuff AI comes up with is wrong.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised",
+      "Trustworthy"
+    ]
+  }
+}

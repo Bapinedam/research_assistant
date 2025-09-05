@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4AM1AZF65hnWI0x",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I generally don’t find it to be necessary. Usually I am doing math and physics problems so once I understand the method and get the correct answers, there’s no need for feedback really",
+    "GoodQuote": "",
+    "Reasons": [
+      "Need"
+    ]
+  }
+}

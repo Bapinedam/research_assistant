@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4IcU3s1IL0BZWnq",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I didn't think to do so. Even if I provided context to the GenAI engine, it cannot recreate exactly how my examiner or how the marker would assign marks for my work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Contextualised"
+    ]
+  }
+}

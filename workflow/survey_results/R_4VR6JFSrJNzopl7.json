@@ -1,0 +1,25 @@
+{
+  "ResponseId": "R_4VR6JFSrJNzopl7",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is capable of providing immediate feedback compared to a teacher who will take a few weeks. Additionally, GenAI can also provide feedback on whatever points we ask. For example, we can ask GenAI to provide feedback on our writing style and grammar, while teacher will only provide feedback in response to task. We can also initiate conversation with GenAI for whatever points we need additional explanation.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

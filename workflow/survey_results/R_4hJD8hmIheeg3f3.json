@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_4hJD8hmIheeg3f3",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I prefer to proofread and edit my own work, or peer-edit. I like the process and don't find it particularly difficult, and I get more out of self-editing then using AI for feedback. I've also found that AI doesn't do very well providing feedback on theoretical essays for niche, ultra-specific topics, which is most of my workload .",
+    "GoodQuote": "",
+    "Reasons": [
+      "Preference",
+      "Less effort",
+      "In-depth"
+    ]
+  }
+}

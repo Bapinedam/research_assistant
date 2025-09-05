@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4RsmbcEbvwPip1f",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Only used it to generate ideas for assignments, not to check work that was already done",
+    "GoodQuote": "",
+    "Reasons": [
+      "Preference"
+    ]
+  }
+}

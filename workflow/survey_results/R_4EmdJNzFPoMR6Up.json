@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4EmdJNzFPoMR6Up",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "They often present themselves to be incorrect most of the times and are often subjected to database as opposed to experience.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

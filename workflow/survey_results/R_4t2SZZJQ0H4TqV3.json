@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4t2SZZJQ0H4TqV3",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "It gave me thorough explanations on what I needed to improve and why these needed to be met (what was the importance of these changes). While teachers majority of the time just write a few words here and there and do not give context as to why you were marked down for something in your writing, or why it is important to change it.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "The feedback from teachers tends to make me irritated and I don't bother reading the feedback much anymore because it doesn't seem like they care enough to write full dot points on what and why things needs to be improved or changed in a helpful way.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negative"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Understanding"
+      }
+    ]
+  }
+}

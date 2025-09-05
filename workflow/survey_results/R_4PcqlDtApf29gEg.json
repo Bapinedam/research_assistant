@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4PcqlDtApf29gEg",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "It doesn't have a rubric. It can't even comprehend my work",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

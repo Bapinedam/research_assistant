@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4xRcnx3LRMJ3pE5",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I did not believe that GenAI would give feedback that would be appriopriate and applicable to the assignment criteria that I had to meet. I was under the impression it would not provide correct and specific feedback that I could use to improve my work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised",
+      "Trustworthy"
+    ]
+  }
+}

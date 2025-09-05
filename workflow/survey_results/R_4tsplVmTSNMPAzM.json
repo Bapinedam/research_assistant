@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_4tsplVmTSNMPAzM",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I think the very common difference is how we can easily get a fast response through using AI since we can just ask them online and directly get a response. Sometimes when we are in need of fast response, i think that is how AI sort of became the solution. However, the difference is that answers that AI give may be unaccurate while the teacher may have answers that are more credible.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "In terms of AI, we can ask them repeatedly or even ask if our answers are already good. As for teachers, we sort of have to give them a direct complete question since it may take time for them to answer and it is sort of difficult to ask for continuous questions since other students may want to ask questions as well.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "The feedback from AI may be incorrect or sometimes if we ask them to say that our essay or work is great, they would. While for teachers, they are honest and clear about their feedback and wants to help the student in the right way even though students may sometimes have to fix their work.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  }
+}

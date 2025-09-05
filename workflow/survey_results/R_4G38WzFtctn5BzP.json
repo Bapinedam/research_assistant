@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4G38WzFtctn5BzP",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "i have some pretty significant security concerns with generative AI, especially in the wake of the discovery that AI models have been trained on large swathes of YouTube videos and news articles without permission, along with the monetisation of websites like Reddit through the sale of user-generated content to AI companies.\nI don't particularly want my work to become part of a dataset used to train AI.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy"
+    ]
+  }
+}

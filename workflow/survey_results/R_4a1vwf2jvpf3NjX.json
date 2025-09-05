@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4a1vwf2jvpf3NjX",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I have concerns and reservations on my intellectual IP, I can see in many of the GenAI Terms and Conditions they own any input that is placed into a GenAI system, and own outputs created by them. I do not trust them.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy",
+      "Trustworthy"
+    ]
+  }
+}

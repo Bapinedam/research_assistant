@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4VOUeZdLg8cKAf4",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't trust it can judge subjective content to this extent. While it may have some ability based on the data it was trained on, I still don't believe this is proven.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

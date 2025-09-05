@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4DLUBF1TtcPbe4x",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I wasn't sure whether it would be good, relevant feedback. I have a certain understanding of what my markers expect, therefore i usually proofread by myself and make changes accordingly.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Expert"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4vOS6Phqwh4mEuZ",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Not allowed. University has systems in place which can pick up on this.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity"
+    ]
+  }
+}

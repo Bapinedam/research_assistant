@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4HULL2uxrbj7mbY",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't fully trust GenAI for purposes of proof-reading esoteric or niche content as information regarding it may be incorrect from the perspective of the GenAI.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

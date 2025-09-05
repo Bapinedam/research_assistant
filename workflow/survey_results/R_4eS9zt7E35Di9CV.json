@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4eS9zt7E35Di9CV",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I have encounteres outputs from Gen AI with error, biase and limited knowledge. I doo not trust the judgement of Gen AI generally for anything serious like academic work. for general knowledge, i can use because i could fact check.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

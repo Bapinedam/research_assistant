@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4pGAlgXIOmeyyad",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Sometimes we need to make our thoughts clear on something or to show/send/get some formal/informal informations related to our work and learning, so GenAI sometimes can help us make our thoughts and writing clear.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I think a teacher will always be honest with you whether to give a appreciation or to positively criticise you about what you are doing but I feel GenAI will always try to make you feel better about your input and that can be a bit problematic if you are too dependent on this. One has to always keep his/her mind clear on their own and should not rely all over on GenAI",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "If I may recall a incident about an assessment that I was given , so I checked it up with my GenAI and I received a feedback and examples that I didn’t find relevant but my teacher made my thoughts clear on that. But on the other side, once I was not satisfied with my teacher on how he wants us to express ourselves in our assessment but GenAI helped me more on that case . So I think there’s always two sides of a coin so we have to make a clear side on our own that what is better for us and should act accordingly.",
+    "GoodQuote": ""
+  }
+}

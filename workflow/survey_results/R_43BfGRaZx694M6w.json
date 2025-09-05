@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_43BfGRaZx694M6w",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I believe that GenAI has limitations in how it understands certain turns of phrase and so may miss sub-context that the phrase carries in human language, it also does not discriminate between what sources of information it uses, unless specifically asked to exclude certain kinds of sources it will treat tabloid journalism the same as peer-reviewed journal articles, potentially spreading misinformation that was formed through opinion rather than research. Any feedback that it provides on essay or research will always be suspect unless you can prove that all invalid sources of information were excluded from the sources the GenAI could access.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

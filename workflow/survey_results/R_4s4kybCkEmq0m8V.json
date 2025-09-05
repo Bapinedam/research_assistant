@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4s4kybCkEmq0m8V",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because I dont think It is a good practice. My own created data will be in GenAi databse, which I dont want.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy"
+    ]
+  }
+}

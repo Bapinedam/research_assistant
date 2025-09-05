@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_42VX8GynmUyX8k0",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "For GenAI, i can ask more follow-up questions after recieving the comment or feedback. Hence, i learn more from GenAI's feedback as GenAI can actually provide me with example (i.e. generate a new work with modification) of how my work can be improved. Teacher would simply tell me which part should change but not telling me how to change.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I have a better feeling when receiving GenAI's feedback as I can keep on asking clarifying and follow-up questions to make sure i understand its feedback. Yet, teacher give feedback either on the online platform (no question can be asked by us after recieving their comment) or in person (where I am always afraid to ask too many follow-up questions as i feel so stupid and afraid the teacher might think i am stupid)",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Risky"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI's feedback is more factual as it does not know us and simply commenting on our work. However, our teachers know us and know our study progress. Teachers' feedback might say something like \"you should have learned this in last semester\", which could really make us embarrassed or hurt our feelings.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  }
+}

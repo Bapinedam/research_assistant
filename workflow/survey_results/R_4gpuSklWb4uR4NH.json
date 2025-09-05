@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4gpuSklWb4uR4NH",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "GenAI didn't teach me the work, so I don't think it's in a position to give me feedback that I don't feel will be specific enough (and I trust myself more)",
+    "GoodQuote": "",
+    "Reasons": [
+      "Expert",
+      "Trustworthy"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_41gQd1qoWfd4qgI",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAi tends to follow this general format when providing feedback so it’s usually a hit and miss. I usually use it to edit and improve my writing and sometimes to help me understand my lessons by using my favorite prompt, “Explain to me like I’m five years old.”\nTeachers are invaluable, of course. Especially in my field of study which is in health, GenAi can never compare to the experience and skills of real human teachers.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Expert"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "It depends what kind of teacher you have, if they’re kind or strict.\nAs for GenAi, you can also ask it to give you feedback in a kind manner so it really depends.\nI guess in terms of how I felt, GenAi (during the times it gave good feedback), was really helpful because it’s objective and anonymous, unlike getting feedback from teachers.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negative"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Feedback from teachers are more personalised because they know you as a person, whereas GenAi only knows what you input.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  }
+}

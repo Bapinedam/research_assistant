@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_4W47zCjlUbl890Z",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I think the one negative impact of gen ai is how it has made me and many other students antisocial and shy to ask teachers the tough questions that gen AI can now tackle. This has caused more of what i feel is a disconnect between teacher and student. However this is contrasted by how well gen AI is for self guided learning as there is unlimited availablity from these programs and in some cases well auto-generated follow up questions which does improve in the search for greater human knowledge",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "There is an intimacy in a teacher student contact that you cannnot get with AI, however most of these AI programs are very malleable in the sense that if you think it is wrong and say it is wrong it will change the answer to your liking (wanting a postive interaction to happen is better for these products) this is opposed to the teacher student relationship in which uncomfortable conversations can arise and there is what seems much more certainty in these individuals (teachers) for telling students off. I think that these ‘negative’ interactions are needed for learning and being wrong infront of a teacher is academically humbling",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Depending on the GEN AI program there is many ways for it to be wrong but when giving feedback it is great at finding spelling and gramatical errors however cannot always find logical errors within texts that are usually crucial for marks.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

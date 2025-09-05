@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4UO6jadzoZKxPBn",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't trust that it will accurately assess the work, or that it will actually understand what I've written in maths assignments — when I've typed an assignment, maybe it would work, but it wouldn't make sense to me to type up a handwritten assignment just to have AI look at it, especially when I've found it does very poorly at following logical reasoning.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

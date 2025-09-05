@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_414d3VfuTn8Jqjs",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I understand a lot about the models used currently, prior to a few months ago the ChatGPT and Gemini models were very inaccurate especially in the domains of writing, researching, prior knowledge and math. I didn't trust it to edit my work especially on a large scale as it would often hallucinate and change inputs randomly and so there's no real use of those models for providing feedback. The newest GPT model for free use, GPT 4-O it's a lot more accurate and has connection to the internet  so I might try to use it to provide me feedback in my future studies.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

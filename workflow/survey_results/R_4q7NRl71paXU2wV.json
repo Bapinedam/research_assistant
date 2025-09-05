@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4q7NRl71paXU2wV",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I think I am good at editing my own work and identifying issues in my work. I know the assignment criteria so can make those edits myself.",
+    "GoodQuote": "Y",
+    "Reasons": [
+      "Need"
+    ]
+  }
+}

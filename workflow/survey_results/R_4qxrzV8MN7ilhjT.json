@@ -1,0 +1,69 @@
+{
+  "ResponseId": "R_4qxrzV8MN7ilhjT",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI offers instant feedback and can engage in a conversational manner, making it a useful tool for learning at any time and allowing for a deeper exploration of ideas through follow-up questions. This flexibility helps me reinforce concepts when I need it, without waiting for scheduled meetings or office hours. On the other hand, feedback from university teachers often provides more tailored, personalized guidance based on their expertise and understanding of my progress. While the interaction with teachers is time-constrained, their feedback can be more specific to my academic needs and can incorporate a deeper contextual understanding of my work. Both forms of feedback have positively impacted my learning, with GenAI offering convenience and broad accessibility, while my teachers provide more structured and insightful critique, particularly in areas where human expertise is key.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "The feedback from GenAI tends to feel neutral and less personal, as it is delivered in a non-judgmental, objective manner. This makes me feel comfortable asking any questions, no matter how basic, without fear of judgment. However, feedback from my university teachers can evoke more emotional responses, since it often feels more personal and directly linked to my academic progress.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Positive feedback from a teacher feels more rewarding and motivating because I know it comes from someone who understands my individual growth and challenges. On the other hand, critical feedback from a teacher can sometimes feel more intense, as it’s tied to expectations within a structured academic environment. Both forms of feedback have value, but the emotional connection and personal understanding I get from teachers is often more impactful in the long run.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  }
+}

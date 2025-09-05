@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_4nxE4A9gDqjon17",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 5,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "The main difference between feedback from GenAI and teachers was accessibility.\n\nFor instance, I'm able to instantly get feedback on my work even at 1am, which is something teachers cannot do, to no fault of their own obviously. The structure in which ChatGPT gives feedback is also very useful; its typically broken down (or you can ask it to break it down), and very clear. Personally I am someone who is more visual, so being able to see the feedback with my eyes and read it over as many times as I'd like, is more useful than say, feedback by teachers in class thats not written. \n\nBecause of this accessibility, it has positively impacted my learning.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I sometimes start to feel bad if I have to ask a teacher to provide more feedback, or dumb it down further for me, as I feel like I'm being annoying or that the teacher may think I was not paying attention (I am always paying attention). Additionally, I know I am not the only student in the class, and it may be that the teacher just doesn't have that much feedback for me which is fine, and I sometimes don't ask for more to avoid making teachers feel like they weren't doing a good job.\n\nGenAI is very helpful in these instances for students who have people pleasing tendancies like myself, and I'm able to ask as many clarifying questions or ask for as much feedback as possible without feeling like a burden. Moreover, you can ask GenAI to be as gentle or has harsh as you would like with the feedback, meaning I always feel good with whatever I receive, since it'll be what I ask for.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI's feedback is usually more specific, as compared to teachers' feedback which can at times be a bit broad and therefore difficult to implement.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

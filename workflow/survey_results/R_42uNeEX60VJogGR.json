@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_42uNeEX60VJogGR",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I haven't thought of it, have had better options for feedback (e.g tutors, family, friends), and also don't trust it to have a non-partisan response given how it\na) trawls the internet regardless of quality, and\nb) has been artificially altered to favor a certain ideology.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Personal",
+      "Trustworthy"
+    ]
+  }
+}

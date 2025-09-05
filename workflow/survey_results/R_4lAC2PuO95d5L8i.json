@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4lAC2PuO95d5L8i",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Did not need it. Didn't consider it as an option. Probably, wouldn't trust GenAI's judgement at this point, on creative explorations, at least.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Need",
+      "Trustworthy"
+    ]
+  }
+}

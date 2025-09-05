@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4EdbewLVw0pHpdU",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Using GenAI for feedback is just a quick way to get some feedback to help me reconsider my answers or what I could do better, however some of the feedback I've been given doesn't align with the exact task. Using a teacher for feedback is more personalised and can be more specific to how the task will be marked and should specifically be completed. Because of this a teachers feedback is more impactful and helpful whereas GenAI just makes me rethink different parts of the task and try and come up with a solution suited to the task,",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Getting feedback from a teacher makes me feel more confident in what I am doing as they provide support and helpful solutions and advice whereas feedback from AI doesn't have the personal aspect of talking to a real educator.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Teachers often can help you seek other resources provided by the university and help you to find what you need to improve in the rest of the unit whereas AI can't really help with feedback not relating to the specific task you are asking for advice on.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

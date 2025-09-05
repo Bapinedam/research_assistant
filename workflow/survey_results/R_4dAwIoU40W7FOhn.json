@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4dAwIoU40W7FOhn",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 5,
+  "Q39_2_feedback_trust_teacher": 3,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I ask GenAI for feedback using different \"hats\" (i.e., provide me feedback as an x reviewing this writing in y context). I would say it's helped me to gain perspective on the work I produce and put it through more rigorous editing as I'm able to more easily see how others might see my work. This has helped me to adapt my writing to different audiences more effectively and because I can easily ask follow up questions I find it much more useful than feedback from a tutor/teacher. Also, AI is not limited by a single-person's lived experiences or their time, which is often limited for tutors.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes absolutely, I don't take GenAI's feedback personally at all because it gives me a direct opportunity to modify my work and get immediate feedback again. It's more personalised, and helps me to feel like I'm learning rather than being judged.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI is able to give feedback in a way that I can understand. I have ADHD and sometimes find the feedback of tutors to be confusing or non-actionable. I like the way that GenAI gives feedback as it is constructive and actionable.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      }
+    ]
+  }
+}

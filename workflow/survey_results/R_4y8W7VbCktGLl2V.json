@@ -1,0 +1,74 @@
+{
+  "ResponseId": "R_4y8W7VbCktGLl2V",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "The biggest difference is the accessibility, you can always ask genai for feedback where you are restricted in time and availability with teachers. I always double check what ai says because maybe 5% of the time it will suggest something that sounds like good feedback but actually is not helpful and about 30% of the time it will make boring basic suggestions that won't improve the writing. But the other 65% of the time makes up for it. Teachers feedback is always more insightful because you get to understand what the markers are specifically wanting in your task. The higher level professional knowledge of the teachers are by far the best when you get the chance to ask but this time is very limited.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Expert"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Sometimes I can feel hesitant to share my work with another person because of their judgement, I think they might think its bad and i would find that embarrassing. I sometimes also feel like I don't want to take up too much of the teachers time so I won't necessarily ask all the questions I have to them. But usually the answers I get from teachers give so much more clarity. There have been several occasions where the tutor gave incorrect information by accident usually through communication errors with the subject coordinators but most of the time I feel much more confident after talking with the teacher whereas the genai you are always suspicious of just in case it decides to make something up. But theres no risk of judgement with genai so i feel less vulnerable asking for feedback.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "AI doesn't know everything your studying and what you specifically need to succeed in the subject. The teachers generally do.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "ResponseId": "R_47NVKBSXvrJ4wsl",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I think teachers tend to spend much less personal time/effort when giving feedback to students while GenAI can be quite thorough when asking it the right questions to trigger feedback. The thorough feedback consistenly helps me improve, while with the teacher's feedback would depend on the day and how much time and effort they're willing to provide me",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Feedback from GenAI usually help me feel at least somewhat confident about myself as it always gives feedback in a positive way (constructive criticism with improvement suggestions as well as compliments). I think only some teachers are capable of this.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I guess the teacher's feedback would be much more specific to the rubric and relevant to the unit.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

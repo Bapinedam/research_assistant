@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4R9kCN2uK65Bgan",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "never tried, would assume feedback from genAI is not effective compared to markers.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Contextualised"
+    ]
+  }
+}

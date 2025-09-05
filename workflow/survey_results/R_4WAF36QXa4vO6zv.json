@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4WAF36QXa4vO6zv",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI was useful for picking up issues with grammar and syntax, but only the teacher's feedback was useful in providing suggestions for improving the content of my writing and how closely it met industry standards.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI feedback makes me feel very little - it has little more weight than a spell-check in terms of personalisation. Teachers' feedback makes me feel both stronger positive and negative emotions due to the personal and detailed nature of the delivery. A note on something I can improve on feels initially disappointing, then motivating. A note on something well done makes me feel positive emotions. The care and time taken also makes me feel more trusting of the feedback itself.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "The GenAI feedback isn't tailored to the assessment criteria, or at least I don't know how to make it so - so the feedback may not actually gain someone any additional marks or improve their work towards what the assessor is looking for.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

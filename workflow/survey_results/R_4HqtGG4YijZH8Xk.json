@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4HqtGG4YijZH8Xk",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't trust where the AI is storing my data. As a writer, I don't want algorithms to be learning off my work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

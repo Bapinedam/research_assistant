@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4eUAkXOmissSq3L",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I have, I find my work is a bit too niche for it to be useful. However, if I was learning something relatively rudimentary (calculus, linear algebra, etc.) I would probably use it then.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Utility"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "ResponseId": "R_4YJxzNFZc4hBEC8",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Teachers know their field well and they may know you well in a small class size, whereas GenAI does not actually know what it is doing and it does not tell any users how it has decided to say what it does. Outputs from GenAI do need lots of editing from me to make it trustworthy and sound right to me. When talking to teachers, the discussion can help discover any misconceptions quite quickly. GenAI is good at sounding talkative, but it is difficult to know that it has good knowledge about the particular area and that it is not leading you astray, which human beings can also do sometimes by accident.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI is very nice all the time whereas teachers can come across as nice and supportive or a bit too negative on occasion. I can understand when a teacher is being critical, it just hurts my feelings sometimes.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "There is only so much that each human being can know and contain in their minds. The teachers are not as completely comprehensive and detailed about everything, but they have the human relatable perspective. Compared to just a collection of everything from the human digital footprint.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4zoLi2AsnvypfZL",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I didn't know GenAI does feedback on my work. However, I'd rather get feedback from my educator.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Expert"
+    ]
+  }
+}

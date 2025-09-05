@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4rInsNIvUETimRl",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't think it will be able to help me accurately. If I asked if my work was \"good\" or \"informative\" I don't trust it to actually know what the marker wants or if it's either of those 2 things.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

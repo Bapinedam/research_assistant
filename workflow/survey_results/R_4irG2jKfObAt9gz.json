@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4irG2jKfObAt9gz",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Privacy/plagiarism issues",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy",
+      "Integrity"
+    ]
+  }
+}

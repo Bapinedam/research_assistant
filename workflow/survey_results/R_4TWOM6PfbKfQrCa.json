@@ -1,0 +1,25 @@
+{
+  "ResponseId": "R_4TWOM6PfbKfQrCa",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "when i ask a teacher to re-explain something i get insecure that it's just me and I didn't understand the content or that the question would come across as if I had not done the readings or pre-class work. with genAI i obviously dont have to worry about the perception of myself when asking to explain a concept or text.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  }
+}

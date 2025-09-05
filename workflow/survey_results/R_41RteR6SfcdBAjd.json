@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_41RteR6SfcdBAjd",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Sometimes, GenAI was out of line or wanted to include a lot more than needed so it was obvious it will point that out, which will result in feedback being hampered.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

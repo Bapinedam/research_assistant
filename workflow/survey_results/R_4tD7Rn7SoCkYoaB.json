@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4tD7Rn7SoCkYoaB",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "In general I just find it easier to avoid using GenAI so I don't have to declare anything when submitting the assignment",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity",
+      "Preference"
+    ]
+  }
+}

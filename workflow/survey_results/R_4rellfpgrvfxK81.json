@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_4rellfpgrvfxK81",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I think the difference in learning is minimal, and I feel the same way that solving problems in the instructor's class is the same as using AI to solve problems.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "AI is instant for me, and I can get immediate feedback from any question I need – whether it's what I want or not. The lecturers are a bit far away from me, they also have their own jobs, for example, sometimes I need to solve some important problems in the middle of the night. It's impossible for me to bother my teacher at such times.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I always feel very inhibited when I receive feedback from my lecturers, because I am afraid that the questions I ask will appear ignorant, but I don't have this kind of trouble in the face of AI, and I can easily ask even stupid questions.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  }
+}

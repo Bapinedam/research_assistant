@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4P15yYgjzIdE1MP",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "In my experience, these sort of requests tend to give very generic responses that do not speak to the particulars of the prompt. additionally, GenAI often tends to favour agreeing with the input prompt even when wrong.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_4w1riZL6vyC1srz",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "As a machine learning major, i undestand how the model of chatGPT works (Transformer model). I only use it as a tutor rather than watching youtube videos etc.. It 10x my ability to learn quicker than usual, making my time effective.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "The feedback from GenAI has been statiscally been predicted to tell me what i want to hear without me telling it to explain to me the explicit and intricate details of what i would like it to elucidate whereas my lecturer could give me a much more concise and relevant answer in a heartbeat. Students like me use chatGPT very different to what other people in a different degree would such as (arts, philosophy, doctor etc.. (just wanted to point that out).",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Relevance"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "ChatGPT likes to talk a lot.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      }
+    ]
+  }
+}

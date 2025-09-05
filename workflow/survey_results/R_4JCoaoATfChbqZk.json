@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_4JCoaoATfChbqZk",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "When I was practicing for my medical interview OCE, I received feedback on my technique from my tutor (in class) and from ChatGPT (doing practice using the voice chat functionality & a well-designed prompt). The issue with ChatGPT's feedback is that it didn't really put me at ease because it had no idea of what my examiner was actually looking for. When there are so many different ways of doing something, it is hard to trust that ChatGPT is giving comprehensive feedback that aligns with what the university is trying to teach.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Not really - the tone of feedback was very similar. That said, it is much nicer and much more engaging to receive feedback from a real person, especially when it relates to practical exam technique.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Generative AI feedback usually feels very thorough, and it is nice to be able to keep asking \"do you have any more feedback?\" and have access to an endless stream of ideas. The feedback from my tutor, on the other hand, was far more concise and targeted, and perhaps a bit easier to digest.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      }
+    ]
+  }
+}

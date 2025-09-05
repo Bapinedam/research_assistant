@@ -1,0 +1,74 @@
+{
+  "ResponseId": "R_4UcsWMy1eDul44N",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 2,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is a very quick and easy way to get ideas or feedback, it is instant and there is no shame in telling/asking it whatever you want, or even asking for clarification on the same idea several times. GenAI can be good for this, but I find it is best used in a sort of \"rubber-ducky\" way, bouncing my own ideas off of it and having a conversation with myself, really only relying on GPT to tell me if my ideas are obviously factually wrong.\n\nThis is because I consider GPT to be very untrustworthy. Again, I feel as though it is a good tool in certain situations, especially with how instantaneous it is, and how much attention it can give you, but in terms of factual correctness, and how confident I feel in the information it gives me, especially with mnore technical and obscure subjects a real tutor can't be beat.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Reflection"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "My teachers feedback is much more meaningful than GenAI's because I know that GenAI is prompted to provide very docile and agreeable responses, and that it also doesn't really know the criteria or the information. I find GPT to be very suggestible, that I can even change its mind if it disagrees with me about a fact, which makes me much less likely to believe what it is saying, or think that its feedback is honest and meaningful.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Teachers can be harder to get ahold of, and I often feel bad asking for too much clarification, or taking up too much time, but their feedback is much more meaningful and often correct than that of GenAI.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4EFvYkaPduR85xm",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't trust that the program won't store my work and later recycle it elsewhere. It cannot replicate my creativity and is not sensitive to meaning.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Privacy"
+    ]
+  }
+}

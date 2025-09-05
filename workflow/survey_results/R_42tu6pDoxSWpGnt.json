@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_42tu6pDoxSWpGnt",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 2,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI has little to no impact on my learning overall. Because, I just cannot trust the AI feedback to be accurate as it misses contexts often. Teacher on the other hand, can point out things you got wrong in the proper context. After all, it was them that gave you the assignment. Of course, if teacher goes 'I don't know' or 'for you to figure out' then you are doomed.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI at this point feel still imperfect. Cannot seem to accurately assess the context. Feedback from teacher does make me feel that I have much to learn yet. Sometimes, though, what they take off the points for doesn't make sense.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI is alright at generating some sort of guidance. Otherwise, it's just too dumb and mixes up a lot of facts to create inaccurate result. As long as the teacher doesn't just hate you or let their personal distaste for your writing style take them over, teachers would probably be better.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Objective"
+      }
+    ]
+  }
+}

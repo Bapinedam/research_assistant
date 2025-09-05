@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4k5OVRAAYjwLP0i",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Within my major assessments, the allocation of marks are typically given towards rubric descriptions such as \"comprehensive and detailed description\", or \"engaging presentation\". These terms' requirements are difficult to translate to a GenAI to produce an accurate response.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

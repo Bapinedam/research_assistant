@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4pQOoSmc99k5c7C",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Monash has a very specific way of structuring their marking guides and assignment marking which does would not benefit from AI review. Often markers are looking for inclusion of specific information that was mentioned within a live class or lecture which would be unknown to AI.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

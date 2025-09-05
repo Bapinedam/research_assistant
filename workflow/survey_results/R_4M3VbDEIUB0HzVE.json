@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4M3VbDEIUB0HzVE",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "The generative AI does not truly understand the work that is provided to it and is merely writing a response that it the most likely/closely related to what I provided it. It has no understanding of the criteria or the implications.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

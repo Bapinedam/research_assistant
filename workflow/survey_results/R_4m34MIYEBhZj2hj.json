@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_4m34MIYEBhZj2hj",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 3,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Generative models appear to be more individual focussed, greater body of text with which to draw feedback from. Teachers are only human and can't provide a critical essay on the fine details of an assignment for each and every student, that I understand. Learning wise, generative models were only slightly more effective, and only because they elaborated more on the same points raised by the teacher",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Not really, both felt robotic in prose, but I dont give a shit about the tone, simply the content, so light work, no reaction",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "Negative"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Sometimes generative models would pick up on more minutia, but broad strokes were essentially the same, with perhaps some enhanced prose and detail to explanations by generative models. Models can also be asked what they meant by something at any time, as many times as needed, and can re word essentially an infinite amount of times so the understanding of feedback was usually easier from models",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  }
+}

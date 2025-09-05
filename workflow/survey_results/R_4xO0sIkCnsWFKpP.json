@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4xO0sIkCnsWFKpP",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because is generative, for fun and curiosity I may play sometimes with chatGPT, but I do not really trust it. Once I was looking for a title book that I read in Italy ages ago. The answer was a random title linked to an Italian author. I check if the author wrote that book and the answer was no.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

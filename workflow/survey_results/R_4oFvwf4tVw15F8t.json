@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4oFvwf4tVw15F8t",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because I dont want to feed my work to genAI as additional data, that is my copyright or idea.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4Ea5ie8szaWV7xN",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI and my teacher impact my learning in different ways. While my teacher offers feedback, it tends to be less frequent and can take time, and not all teachers provide equally accurate feedback. On the other hand, GenAI is fast, efficient, and often gives more precise feedback, helping me improve more quickly. However, a teacher’s feedback can be more personalized and considerate of my learning style, while GenAI is more about quick, accurate responses. Both have their strengths, and together, they can complement each other in enhancing my learning experience.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "The feedback from my teacher tends to make me feel more pressured because it significantly affects my grades and performance in school. In contrast, feedback from GenAI feels less stressful, as it’s more focused on helping me improve without the same high-stakes pressure. While both types of feedback are valuable, the teacher's feedback carries more weight and can be more anxiety-inducing due to its impact on my academic results.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Risky"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Using AI helps me become more self-directed and disciplined in my learning, as it encourages me to take more control over my studies. In contrast, the quality of teaching can vary from one teacher to another, which can impact how effectively I learn. AI provides consistent support, making it easier for me to develop good study habits and improve on my own.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  }
+}

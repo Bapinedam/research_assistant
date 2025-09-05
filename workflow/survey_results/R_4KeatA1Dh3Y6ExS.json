@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4KeatA1Dh3Y6ExS",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I have used it for feedback in the past and found that the feedback was too general and not directly related to the context.  Currently, helpful feedback is strongly dependent on relating to the context of the assignement which is best sourced from tutors, lecturers, and classmates, people who understand the context of the assignments without needing a detailed explanation.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

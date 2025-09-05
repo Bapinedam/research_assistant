@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_4cV3YKk9mLUqFMb",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I only use it to get feedback on my recreational writing, not academic writing. This is because I believe that professors and peers are better at providing personalised and specific feedback, that reflects the requirements of the assessment. I believe that GenAI can often be unreliable at providing feedback for things such as university assignments and projects.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Expert",
+      "Contextualised",
+      "Trustworthy"
+    ]
+  }
+}

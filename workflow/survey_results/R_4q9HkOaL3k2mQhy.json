@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4q9HkOaL3k2mQhy",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "GenAI often does not understand criteria for assessments the same way university assessors do, so the feedback is not as valid.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

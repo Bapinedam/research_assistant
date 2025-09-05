@@ -1,0 +1,69 @@
+{
+  "ResponseId": "R_1JrrFGs6JO1VzH2",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 3,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenIA impacted my learning by explaining to me things in a more understandable way, since I can ask it to explain me something in a certain way that I want. Teachers, however, are more relatable. With teachers I tend to trust them more, even though sometimes it's hard to understand their explanation but at least they know how to show me the ways in detailed right in front of me.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Feedbacks from GenAI didn't do much. I just look at it and not think much about it. It's only good for obvious errors in my assignments. With teachers however, I tend to feel a lot better, especially when they try to understand how I did my assignment.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Feedback from GenAI, like I said are only useful in terms of awareness. With GenAI, I am able to take a quick look on my errors but other than that I don't think GenAI is useful in terms of fixing my errors. Feedback from teachers are a lot more easy to understand since they are the ones who made the assignments and therefore, know the exact ways on how to work on them.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

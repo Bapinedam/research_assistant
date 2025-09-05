@@ -1,0 +1,57 @@
+{
+  "ResponseId": "R_4xWwej30wYPaxfb",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 5,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Both GenAI and teacher's feedback are constructive and very useful for my learning. Teacher's feedbacks are great for improving, but they only provide actual feedbacks on your work after the result is returned. This doesn't really help students in improving their final marks. Besides, speaking about learning new knowledge, their feedbacks do provide very useful skills for future improvement, but most of the time, students don't really got a chance to apply them because it's not that usual that they will face similar task again.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "After submission"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Asking a teacher for advice might take time for response, sometimes it takes too long and creates a lot of stress. A teacher's feedback is very limiting. They also can't provide actual feedback to students' work before the due date, which I find not as useful comparing to GenAI. GenAi provide detail feedbacks and you can ask for it to elaborate and explain further on those feedbacks that you don't understand. You can ask more and would still get those explanations fast.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Can't really think of any for now",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  }
+}

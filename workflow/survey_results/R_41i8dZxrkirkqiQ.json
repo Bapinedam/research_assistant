@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_41i8dZxrkirkqiQ",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Overall I use AI as my study buddy. I am not a native english speaker so I use it to help me understand readings material and writting professionaly and academicaly efficiently (which something I dont need and use when I am working in my native language).\nMeanwhile teachers, when they share they knowledge, they also give me vision of the future, so that I can foresee what path do I have to take.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Progress"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Getting feedback from AI is faster, and I am not afraid to write prompt in a bad grammar or ask the most stupid thing, since I can improve the prompt in the next conversation. \nWhile getting feedback from teacher for me personally is when I have to ask crucial things. I have to provide with clear way of thinking and explanation that can help them understand my pain point. If i were asking stupid question to my teacher via email, I feel like I am wasting his/her time, So I better use other resource, like asking teacher is supposed to be the last option.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "In terms of generating idea or brainstorming. AI feedback is only good as my prompt. So I need to have adequate source in me, like readings and creativity to tweak the output of AI using my prompt.\nWhile teachers, mostly they give me direction in how can I do the assignment, what is the end goal of this assignment, something that is more purposeful of my learning experience, also give me realistic perspective about the trend in let say environmental problems, like their feedback can determine what has worked and what has not yet work.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  }
+}

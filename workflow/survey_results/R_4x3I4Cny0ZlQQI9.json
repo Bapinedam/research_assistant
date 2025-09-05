@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_4x3I4Cny0ZlQQI9",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 2,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI will never give you any context-based responses that delves deep into the course materials, which is pretty bad in terms of feedback. The teacher, when available and in a good mood, could more or less provide more of a course-oriented and just feedback.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Judgement is more or less based on affect and the human experience. This is the case with all human responses, as one's emotion would usually influence one's critique on the other's work. As a result of this, the feedback I had in the past were all somewhat related to the relationship I had with the teacher. While GenAI would never make such emotional judgement, it lacks personality and 'self' which are also crucial in making judgements. Sure, if I had a teacher who hated me, the bad responses one had for me is still somewhat justified. I could still learn a huge ton from the person, regardless. The case of AI is that its fear of affect in the response takes hold of its calculations, so that it could not formulate a response that is more helpful when it comes to human-learning. There should be a conjunction of both human and AI judgements in the marking process, I suppose.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      }
+    ]
+  }
+}

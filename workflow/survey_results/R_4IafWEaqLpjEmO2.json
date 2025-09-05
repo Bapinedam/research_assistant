@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4IafWEaqLpjEmO2",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "genAI 'plays it safe' by not providing objective opinions.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware"
+    ]
+  }
+}

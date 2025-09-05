@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4v9fLSvXxd59Gac",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I found there was no correlation between the feedback that I was getting from tutors, compared to the GenAI tool, this included the fact that both must have had different indications of success on a task, so it was hard to understand what could have been done differently if I had used GenAI as a feedback tool",
+    "GoodQuote": "Y",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

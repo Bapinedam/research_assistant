@@ -1,0 +1,40 @@
+{
+  "ResponseId": "R_4uy2TSKTX4zCFqF",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "AI is like having a private tutor on 24/7 standby, while teachers are useful for explain content and answering questions, they do not help you complete the assignment to the best of your ability",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Less effort"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I care about what my teacher says and not so much GenAI.",
+    "GoodQuote": ""
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI is a better marker - while teachers try their best to remain unbiased and mark according to the rubric, they are only human; AI is not - it marks strictly based on the rubric, and there is no chance of bias between assignment's (ie AI can't get a headache from marking 20 assignments in a row).",
+    "GoodQuote": ""
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_40Q9oOxxbtXEtgJ",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I have never thought to use it this way but I do have concerns around confidentiality of the information being input as I work in the health space.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Privacy"
+    ]
+  }
+}

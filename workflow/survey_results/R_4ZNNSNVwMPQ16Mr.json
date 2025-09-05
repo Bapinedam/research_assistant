@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4ZNNSNVwMPQ16Mr",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I find that my natural speech and writing patterns are already quite robotic in nature, and utilising AI would either make my writing more robotic than it already is or change the intention of what I am writing.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Preference"
+    ]
+  }
+}

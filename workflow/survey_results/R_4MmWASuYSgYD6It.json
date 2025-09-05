@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4MmWASuYSgYD6It",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because I am afraid GenAI will upload my assignment online, my TURNITIN result will be 100%.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy"
+    ]
+  }
+}

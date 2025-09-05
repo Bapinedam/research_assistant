@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4IyJHnhayVYowIH",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 3,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "In courses where I've had lecturers that are difficult to understand, or explain concepts in a subpar manner, I've used GenAI to explain content in a clearer way. In these cases, I've supplied the AI with Lecture Slides and Notes directly in order to form a reasonably reliable knowledge base for its explanations.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes, feedback from teachers have typically been quite curt and brief, whereas feedback from AI has been clear and sufficient, so I tend to view the AI output as being more understanding and a better guide.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "When I need feedback on uni work, or have a question about the content, I feel that I can always have GenAI there as a personal tutor, and at my fingertips. Teachers, on the other hand, can take some time to reply to emails and edStem questions. It's much easier and more productive for me to have a back and forth with GenAI in the moment than it is to exchange emails or discussion board replies over the space of a week.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_41sBjzkTzXIJAeZ",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "It didn't impact my learning in any significant way as I always weighed the feedback from my tutors and lecturers above an AI.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Importance"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I try to be very critical when I use to get feedback from an AI and try as much it can to give me unbiased feedback and so my assessment ends being much better as I would have improved certain areas and this makes the feedback from tutors and lecturers mostly positive as there's nothing to very little to improve thus giving me a much happier feeling but also due to the fact that it was coming from a real human.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "AI is not very critical and most of the time the feedback I got back heavily was dependent on how good the prompt was and sometimes I find myself going back and forth several times in a long thread of texts for it act exactly like how I wanted it to.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Reflection"
+      }
+    ]
+  }
+}

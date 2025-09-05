@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_40vMsL7sloXQAto",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I cannot explain all the context of my work that is effective enough for the AI to give feedback to same degree of quality as my assessors",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised",
+      "Expert"
+    ]
+  }
+}

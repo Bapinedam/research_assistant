@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_4CTECgdKrsJvnws",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "In a brand new course, I hardly recognize most of the academic vocabulary in the literature (I know the meaning, but not the specific concept of this thing and the practical examples in academia). Compared with the scattered use of YouTube and Google, I chose to use multiple instructions to shape a GPT that can help me understand and automatically recommend literature, videos, and news reports to me to help me understand these new concepts.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "AI has increased my efficiency in learning new things by more than 2 times. For example, I used to need several days to read literature, look up concepts I didn’t understand, and try to understand them. But now, when I’m doing my preview reading, I pick out sentences or concepts I don’t understand, and then I will directly give the literature to AI, and use instructions to let GPT explain these things to me in different ways.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GPT can immediately understand my confusion and answer it through instructions, but the teacher often doesn’t understand (or it takes me a long time to communicate)",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  }
+}

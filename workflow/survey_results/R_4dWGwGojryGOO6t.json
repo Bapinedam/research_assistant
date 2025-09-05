@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4dWGwGojryGOO6t",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because I don't like relying on AI for work, it feels like cheating (even when it is allowed).",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Integrity"
+    ]
+  }
+}

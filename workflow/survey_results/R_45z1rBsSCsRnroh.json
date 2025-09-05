@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_45z1rBsSCsRnroh",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Scared to put my work through AI in case my final assignment is put through an AI checker post-submission. I'm worried my work will say it's written by AI if AI claims the rights to the work i submitted into its platform.\n\nAlso don't know how to provide the rubric and instructions into AI so that it can provide accurate and appropriate feedback.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity",
+      "Contextualised"
+    ]
+  }
+}

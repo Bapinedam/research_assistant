@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_44FZGuEBe62yQ4E",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I predominantly use GenAI to assist with code generation and debugging. Feedback is not required for this purpose. At this point in time, I don't think GenAI is advanced enough to provide useful feedback on my written work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

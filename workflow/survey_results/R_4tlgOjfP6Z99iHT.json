@@ -1,0 +1,57 @@
+{
+  "ResponseId": "R_4tlgOjfP6Z99iHT",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "In situations where I asked GenAI for feedback, it was because the feedback given by my teacher was limited or didn't make sense. \n\nWhen I'm faced with feedback that is limited or doesn't make sense I just assume that the teacher will probably give me limited answers or answers that don't make sense if I followed up with them about my feedback. This is where I turn to GenAI because it allows me to ask as many specific questions about what I could've done better with clarity.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "A lot of teachers won't write mounds of feedback because of the amount of assignments they need to mark, so the feedback (when done well), is usually a lot of small comments that point out the mistake but not really correct it. When I use GenAI to provide feedback, it can provide what I did wrong, and how I can improve it. \n\nThis makes me feel more knowledgable because I know what I can do to improve.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

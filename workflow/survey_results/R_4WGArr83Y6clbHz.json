@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4WGArr83Y6clbHz",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't trust its analysis. Because GenAI works based on predictive models, it can't determine if a piece of work is good, it can only tell if it's the sort of thing other people would produce. On the most basic level, I've seen AI spell checks recommend someone introduce errors into their document because the incorrect spelling was more common than the correct version. I always strive to produce the very best work I can, and as a result I don't want to take advice from a source that isn't reliable.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

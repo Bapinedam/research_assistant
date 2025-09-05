@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4CqZJWsYyEgZuaL",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "The feedback provided is normally incorrect for my area of study, although it can be used as an internal monologue tool well.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4XoGxG6KpgR59gu",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "To Get a feedback from GenAI, Firstly it need to understand the requirement completely. Unless GEnAI has sat in the lecture or is trained properly with notes Rubric or the assignment requirement it will not give you a perfect feedback.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "There is a lot of difference here, GenAI will always give you generic answers or stuff related to rubric if you provide it with one. \nTeachers feedback is more like real world feedback, they know the in's and out's of the assignment so they are able to help in a better way.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

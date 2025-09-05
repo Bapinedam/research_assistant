@@ -1,0 +1,30 @@
+{
+  "ResponseId": "R_40j9RWda8RZa86t",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "It told me what I got wrong in particular when at times grading just says what I need to work on in general.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI feedback felt less personal, and I could choose not to listen to it if I wanted. Teacher feedback feels more impactful and important.",
+    "GoodQuote": ""
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Teacher feedback can identify mistakes in reference format or structure relating to the assessment's criteria, GenAI can only give feedback based on general rules of thumb.",
+    "GoodQuote": ""
+  }
+}

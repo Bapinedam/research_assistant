@@ -1,0 +1,233 @@
+{
+  "ResponseId": "R_1VQ5hmwtdpRmnmu",
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is helpful for finding technical errors and finding understandable overvies of specific topics. Teachers on the other hand search for more implicit reasonigns when providing feedback",
+    "iteration_codings": {
+      "Iteration1": {
+        "codes": [
+          {
+            "actor": "A",
+            "comparator": "More",
+            "theme": "Information",
+            "sub_theme": "Quality",
+            "code": "Specificity",
+            "reasoning": "The phrase 'helpful for finding technical errors and finding understandable overviews of specific topics' indicates that GenAI provides detailed and specific information. This aligns with the Specificity code, which captures feedback that is precise and detailed."
+          },
+          {
+            "actor": "T",
+            "comparator": "More",
+            "theme": "Information",
+            "sub_theme": "Quality",
+            "code": "In-depth",
+            "reasoning": "The phrase 'search for more implicit reasonings when providing feedback' suggests that teachers focus on deeper, more nuanced aspects of reasoning. This aligns with the In-depth code, which captures feedback that is thorough and nuanced."
+          }
+        ]
+      },
+      "Iteration2": {
+        "codes": [
+          {
+            "actor": "A",
+            "comparator": "More",
+            "theme": "Information",
+            "sub_theme": "Quality",
+            "code": "Reliable",
+            "reasoning": "The phrase 'helpful for finding technical errors' suggests that GenAI provides accurate and precise feedback, which aligns with the Reliable code under the Quality sub-theme."
+          },
+          {
+            "actor": "A",
+            "comparator": "More",
+            "theme": "Information",
+            "sub_theme": "Quality",
+            "code": "Understandable",
+            "reasoning": "The mention of 'finding understandable overviews of specific topics' directly maps to the Understandable code, as it highlights the clarity and digestibility of the information provided by GenAI."
+          },
+          {
+            "actor": "T",
+            "comparator": "More",
+            "theme": "Information",
+            "sub_theme": "Quality",
+            "code": "In-depth",
+            "reasoning": "The phrase 'search for more implicit reasonings' indicates that teachers provide deeper, more nuanced feedback, which aligns with the In-depth code under the Quality sub-theme."
+          }
+        ]
+      },
+      "Iteration3": {
+        "codes": [
+          {
+            "actor": "A",
+            "comparator": "More",
+            "theme": "Information",
+            "sub_theme": "Quality",
+            "code": "Specificity",
+            "reasoning": "The phrase 'helpful for finding technical errors and finding understandable overviews of specific topics' indicates that GenAI provides detailed and specific information. This aligns with the Specificity code, which captures feedback that is precise and detailed."
+          },
+          {
+            "actor": "T",
+            "comparator": "More",
+            "theme": "Information",
+            "sub_theme": "Quality",
+            "code": "In-depth",
+            "reasoning": "The statement 'search for more implicit reasonings when providing feedback' suggests that teachers focus on deeper, more nuanced aspects of reasoning. This aligns with the In-depth code, which captures feedback that is thorough and nuanced."
+          }
+        ]
+      }
+    }
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "A teachers feedback will impact you more than an AI as GenAI is designed to be neutral, and provides code generated feedback, however, a teachers feedback is far more impactful as it is a human makign judgements on your work, thus your feelings of reward and disappointment will be greater",
+    "iteration_codings": {
+      "Iteration1": {
+        "codes": [
+          {
+            "actor": "T",
+            "comparator": "More",
+            "theme": "Feeling",
+            "sub_theme": "Feeling",
+            "code": "Positive",
+            "reasoning": "The statement 'a teacher's feedback will impact you more' and 'your feelings of reward... will be greater' indicates that teacher feedback elicits stronger positive emotional responses compared to AI feedback. The Positive code captures feelings of encouragement or reward, which the student attributes to teacher feedback."
+          },
+          {
+            "actor": "T",
+            "comparator": "More",
+            "theme": "Feeling",
+            "sub_theme": "Feeling",
+            "code": "Negative",
+            "reasoning": "The phrase 'your feelings of... disappointment will be greater' explicitly highlights stronger negative emotional responses to teacher feedback. The Negative code captures discouraging or frustrating emotions, which the student associates more with teacher feedback than AI."
+          },
+          {
+            "actor": "A",
+            "comparator": "Less",
+            "theme": "Information",
+            "sub_theme": "Tone",
+            "code": "Positivity",
+            "reasoning": "The description 'GenAI is designed to be neutral' implies a lack of emotional tone, contrasting with the emotional impact of teacher feedback. The Positivity code applies here as the student suggests AI feedback is less emotionally uplifting or supportive."
+          }
+        ]
+      },
+      "Iteration2": {
+        "codes": [
+          {
+            "actor": "T",
+            "comparator": "More",
+            "theme": "Feeling",
+            "sub_theme": "Feeling",
+            "code": "Positive",
+            "reasoning": "The statement 'a teacher's feedback is far more impactful' and 'your feelings of reward... will be greater' indicates that teacher feedback elicits stronger positive emotional responses compared to AI."
+          },
+          {
+            "actor": "T",
+            "comparator": "More",
+            "theme": "Feeling",
+            "sub_theme": "Feeling",
+            "code": "Negative",
+            "reasoning": "The phrase 'your feelings of... disappointment will be greater' explicitly highlights that teacher feedback also evokes stronger negative emotional responses compared to AI."
+          },
+          {
+            "actor": "A",
+            "comparator": "Less",
+            "theme": "Feeling",
+            "sub_theme": "Feeling",
+            "code": "No impact",
+            "reasoning": "The description 'GenAI is designed to be neutral' implies that AI feedback has a lesser emotional impact, aligning with the No impact code which captures indifference or lack of emotional response."
+          }
+        ]
+      },
+      "Iteration3": {
+        "codes": [
+          {
+            "actor": "T",
+            "comparator": "More",
+            "theme": "Feeling",
+            "sub_theme": "Feeling",
+            "code": "Positive",
+            "reasoning": "The statement 'a teacher's feedback will impact you more' and 'your feelings of reward... will be greater' indicates that teacher feedback elicits stronger positive emotional responses compared to AI."
+          },
+          {
+            "actor": "T",
+            "comparator": "More",
+            "theme": "Feeling",
+            "sub_theme": "Feeling",
+            "code": "Negative",
+            "reasoning": "The phrase 'your feelings of... disappointment will be greater' explicitly highlights that teacher feedback also evokes stronger negative emotional responses compared to AI."
+          },
+          {
+            "actor": "A",
+            "comparator": "Less",
+            "theme": "Feeling",
+            "sub_theme": "Feeling",
+            "code": "No impact",
+            "reasoning": "The description of GenAI as 'designed to be neutral' and providing 'code-generated feedback' suggests that AI feedback has less emotional impact, aligning with the No impact code."
+          }
+        ]
+      }
+    }
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "teachers search more for the greater meaning of a piece of work, and attempt to understand the ideology and thought process behind the work",
+    "iteration_codings": {
+      "Iteration1": {
+        "codes": [
+          {
+            "actor": "T",
+            "comparator": "More",
+            "theme": "Information",
+            "sub_theme": "Quality",
+            "code": "In-depth",
+            "reasoning": "The phrase 'teachers search more for the greater meaning of a piece of work' indicates a deeper level of analysis and understanding, which aligns with the In-depth code that captures nuanced and detailed feedback."
+          },
+          {
+            "actor": "T",
+            "comparator": "More",
+            "theme": "Relational",
+            "sub_theme": "Relational",
+            "code": "Personal",
+            "reasoning": "The statement 'attempt to understand the ideology and thought process behind the work' reflects an effort to engage with the student's personal ideas and reasoning, which aligns with the Personal code that captures relational and supportive feedback."
+          }
+        ]
+      },
+      "Iteration2": {
+        "codes": [
+          {
+            "actor": "T",
+            "comparator": "More",
+            "theme": "Information",
+            "sub_theme": "Quality",
+            "code": "In-depth",
+            "reasoning": "The phrase 'teachers search more for the greater meaning of a piece of work' indicates a deeper level of analysis and understanding, which aligns with the In-depth code that captures nuanced and detailed feedback."
+          },
+          {
+            "actor": "T",
+            "comparator": "More",
+            "theme": "Relational",
+            "sub_theme": "Relational",
+            "code": "Personal",
+            "reasoning": "The statement 'attempt to understand the ideology and thought process behind the work' reflects an effort to engage with the student's personal ideas and reasoning, which aligns with the Personal code capturing relational and supportive feedback."
+          }
+        ]
+      },
+      "Iteration3": {
+        "codes": [
+          {
+            "actor": "T",
+            "comparator": "More",
+            "theme": "Sense-making",
+            "sub_theme": "Sense-making",
+            "code": "Understanding",
+            "reasoning": "The phrase 'teachers search more for the greater meaning of a piece of work' indicates that teachers focus on comprehending the deeper aspects of the work. This aligns with the Understanding code, which captures efforts to help make sense of or grasp the meaning of something."
+          },
+          {
+            "actor": "T",
+            "comparator": "More",
+            "theme": "Relational",
+            "sub_theme": "Relational",
+            "code": "Personal",
+            "reasoning": "The statement 'attempt to understand the ideology and thought process behind the work' reflects a relational effort to connect with the student's perspective and thought process. This aligns with the Personal code, which captures relational and supportive feedback that considers the individual's context."
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4FWYW0jVotEYG3I",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Although I think GenAI can be a great resource, it's also notoriously unreliable. Most GenAI right now also uses American spelling and grammar so I don't think it would make sense to use it to produce or edit text from an Australian English perspective. Using AI to brainstorm lets me sift through the ideas I think are helpful and those that are misguided rather than blindly trusting the text it produces.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

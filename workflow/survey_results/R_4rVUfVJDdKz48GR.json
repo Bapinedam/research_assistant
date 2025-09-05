@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4rVUfVJDdKz48GR",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "because I understand what I am being assessed on, and the AI would only give me general feedback that I am already confident in that I dont need, nor want my content being used to train the AI",
+    "GoodQuote": "",
+    "Reasons": [
+      "Need",
+      "Privacy"
+    ]
+  }
+}

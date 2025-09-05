@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4FrGB19WblZTFE5",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't believe it would be helpful as it doesn't know what rubric I'm being marked against, the specific content we've covered in class, etc.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ResponseId": "R_4qyLodtDFB2ZAJI",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 3,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 3,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "The teaching methods employed by the university's faculty in the event management program appear to be inadequate, as the models and tasks provided during the learning process are relatively basic and do not align with the complex expectations set for assignments and exams. This disconnect between what is taught and what is expected creates significant challenges for students, hindering their ability to perform well and effectively learn the material. It is crucial for the university to address this issue by reevaluating their teaching strategies, ensuring that they effectively prepare students for the demands of assessments and real-world applications in the field of event management.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Not necessarily",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "nil"
+      }
+    ]
+  }
+}

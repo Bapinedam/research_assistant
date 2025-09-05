@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_4cHy4YKiBpSxUOt",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Most feedback I get from a teacher often is only provided after my assignments have been submitted, whereas AI feedback is almost instantaneous, allowing me to edit my writing before I have to submit it. Another way this has impacted learning is that sometimes when a teacher tries to explain content, they may end up making students even more confused and AI has the ability to rephrase content in various ways to make it more easily understandable.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "After submission"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Feedback from teachers generally makes me more vulnerable, knowing that another person is judging my work and ability. However with AI, it isn't personal and I'm easily able to bounce ideas without care of judgment.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Risky"
+      }
+    ]
+  }
+}

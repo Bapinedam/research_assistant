@@ -1,0 +1,1853 @@
+[
+  {
+    "ResponseId": "R_4C4j4KNUq9N3VGC",
+    "Question 40": {
+      "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+      "Response": "GenAI gives instant answers anytime. while a teacher offers personalized feedback and better interaction for deeper understanding.",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The phrase 'gives instant answers anytime' directly maps to the Speed code, as it highlights the immediacy and time-efficiency of GenAI feedback."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The phrase 'offers personalized feedback' explicitly refers to the teacher providing feedback that is tailored and supportive, which aligns with the Personal code under the Relational theme."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Sense-making",
+              "sub_theme": "Sense-making",
+              "code": "Understanding",
+              "reasoning": "The phrase 'better interaction for deeper understanding' indicates that teacher feedback facilitates comprehension, which aligns with the Understanding code under the Sense-making theme."
+            }
+          ]
+        },
+        "Iteration2": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The phrase 'gives instant answers anytime' directly maps to the Speed code, as it highlights the immediacy and time-efficiency of GenAI feedback."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The phrase 'offers personalized feedback' explicitly refers to the teacher providing feedback that is tailored and supportive, aligning with the Personal code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Sense-making",
+              "sub_theme": "Sense-making",
+              "code": "Understanding",
+              "reasoning": "The phrase 'better interaction for deeper understanding' indicates that teacher feedback facilitates comprehension, which aligns with the Understanding code."
+            }
+          ]
+        },
+        "Iteration3": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The phrase 'gives instant answers anytime' directly maps to the Speed code, as it highlights the immediacy and time-efficiency of GenAI feedback compared to teachers."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The phrase 'offers personalized feedback' explicitly refers to the teacher providing feedback that is tailored and supportive, which aligns with the Personal code under the Relational theme."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Sense-making",
+              "sub_theme": "Sense-making",
+              "code": "Understanding",
+              "reasoning": "The phrase 'better interaction for deeper understanding' indicates that teacher feedback facilitates comprehension and deeper learning, which aligns with the Understanding code."
+            }
+          ]
+        }
+      }
+    },
+    "Question 41": {
+      "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+      "Response": "The feedback from GenAI felt more neutral and efficient while my teacher's feedback was more personal and encouraging.",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Tone",
+              "code": "Objective",
+              "reasoning": "The phrase 'felt more neutral' indicates that the feedback from GenAI was perceived as less emotionally charged or biased, aligning with the Objective code which captures neutrality in feedback."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The term 'efficient' suggests that GenAI feedback was perceived as time-efficient or fast, which directly maps to the Speed code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The phrase 'more personal' explicitly highlights the relational quality of the teacher's feedback, aligning with the Personal code which captures supportive and relational aspects."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "Positive",
+              "reasoning": "The term 'encouraging' directly indicates a positive emotional impact, which aligns with the Positive code capturing feelings of motivation or encouragement."
+            }
+          ]
+        },
+        "Iteration2": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "No impact",
+              "reasoning": "The phrase 'felt more neutral' indicates that the feedback from GenAI did not evoke strong emotional responses, aligning with the No impact code which captures indifference or lack of emotional impact."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The term 'efficient' suggests that GenAI feedback was time-efficient or fast, which directly maps to the Speed code under the Access sub-theme."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The phrase 'more personal' explicitly highlights the relational quality of the teacher's feedback, aligning with the Personal code which captures supportive and relational aspects."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "Positive",
+              "reasoning": "The term 'encouraging' directly indicates a positive emotional impact, which aligns with the Positive code capturing feelings of motivation or encouragement."
+            }
+          ]
+        },
+        "Iteration3": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Tone",
+              "code": "Objective",
+              "reasoning": "The phrase 'felt more neutral' suggests that GenAI feedback is perceived as less emotionally charged or biased, aligning with the Objective code which captures neutrality in tone."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The term 'efficient' implies time-saving or immediacy, which directly maps to the Speed code under the Access sub-theme."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The phrase 'more personal' explicitly highlights a relational quality of teacher feedback, aligning with the Personal code which captures supportive and relational aspects."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "Positive",
+              "reasoning": "The term 'encouraging' directly indicates a positive emotional impact, which aligns with the Positive code capturing feelings of motivation or encouragement."
+            }
+          ]
+        }
+      }
+    },
+    "Question 42": {
+      "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+      "Response": "GenAI feedback was quicker and focused on facts while my teacher provided more detailed explanations and emotional support.",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The phrase 'GenAI feedback was quicker' directly maps to the Speed code, as it highlights the immediacy and time-efficiency of AI feedback compared to the teacher."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Objective",
+              "reasoning": "The phrase 'focused on facts' suggests that GenAI feedback is more objective, aligning with the Objective code which captures feedback that is unbiased and fact-based."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The phrase 'provided more detailed explanations' indicates that teacher feedback is more in-depth, aligning with the In-depth code which captures detailed and nuanced information."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The phrase 'emotional support' suggests that teacher feedback is more personal and supportive, aligning with the Personal code which captures relational and supportive aspects of feedback."
+            }
+          ]
+        },
+        "Iteration2": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The phrase 'GenAI feedback was quicker' directly maps to the Speed code, as it highlights the immediacy and time-efficiency of AI feedback compared to the teacher."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Objective",
+              "reasoning": "The phrase 'focused on facts' suggests that GenAI feedback is more objective, aligning with the Objective code which captures feedback that is factual and unbiased."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The phrase 'provided more detailed explanations' indicates that teacher feedback is more comprehensive, aligning with the In-depth code which captures detailed and nuanced information."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The phrase 'emotional support' suggests a relational and supportive aspect of teacher feedback, aligning with the Personal code which captures relational and supportive interactions."
+            }
+          ]
+        },
+        "Iteration3": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The phrase 'GenAI feedback was quicker' directly maps to the Speed code, as it highlights the immediacy and time-efficiency of AI feedback compared to the teacher."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Objective",
+              "reasoning": "The phrase 'focused on facts' suggests that GenAI feedback is more objective and fact-based, aligning with the Objective code which captures unbiased and factual feedback."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The phrase 'provided more detailed explanations' indicates that teacher feedback is more comprehensive and nuanced, which aligns with the In-depth code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The phrase 'emotional support' suggests that teacher feedback is more relational and supportive, aligning with the Personal code which captures relational and empathetic interactions."
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ResponseId": "R_4CKOoHgU8hp01rg",
+    "Question 40": {
+      "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+      "Response": "Immediate Accessibility vs. Depth of Understanding:\nGenAI: Provides instant feedback, which is great for quick answers, revision, or clarification of simple concepts. This immediate response helps with surface-level learning and understanding new topics quickly. However, it may not delve deeply into why something is correct or incorrect, which can limit deeper conceptual learning.\nTeacher: While teacher feedback might take longer, it often fosters a deeper understanding. Teachers provide context, explain thought processes, and focus on correcting misunderstandings in a more thorough manner. This depth helps with mastering difficult topics and long-term retention.\nAdaptability to Learning Styles:\nGenAI: Can adapt to different inputs and provide general explanations, but lacks the nuanced understanding of your individual learning preferences. It often presents information in a neutral, one-size-fits-all manner, which might not always align with your learning style.\nTeacher: Can tailor feedback to your personal learning preferences and adjust explanations based on your strengths and weaknesses. This personalized guidance can be more effective in addressing gaps in your knowledge.\nSelf-Learning vs. Guided Learning:\nGenAI: Encourages a degree of self-learning and exploration. Since you often have to interpret and apply the feedback yourself, it can build self-reliance and problem-solving skills. However, this may sometimes leave you without the clarity or support you need for more complex issues.\nTeacher: Offers a more guided learning experience, ensuring you understand each step of the process. They can break down complicated problems, helping you connect concepts in ways you might not have thought of independently.\nMotivation and Confidence:\nGenAI: Provides neutral, objective feedback, which can be helpful, but it lacks emotional encouragement or personalized support. While it may clarify doubts, it doesn’t necessarily boost motivation or confidence as much.\nTeacher:",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The phrase 'Provides instant feedback' directly maps to the Speed code, as it highlights the immediacy and time-efficiency of GenAI feedback."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The statement 'it may not delve deeply into why something is correct or incorrect' explicitly indicates a lack of depth in GenAI feedback, aligning with the In-depth code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The description 'fosters a deeper understanding' and 'provides context, explain thought processes' highlights the thoroughness and depth of teacher feedback, which matches the In-depth code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Contextualised",
+              "reasoning": "The phrase 'provides context' directly refers to feedback that is adapted to the situation, aligning with the Contextualised code."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The statement 'lacks the nuanced understanding of your individual learning preferences' indicates that GenAI feedback is less personalized, aligning with the Personal code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The statement 'can tailor feedback to your personal learning preferences' explicitly highlights the personalized nature of teacher feedback, aligning with the Personal code."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Effort",
+              "code": "Less effort",
+              "reasoning": "The statement 'encourages a degree of self-learning and exploration' implies that GenAI requires less direct effort from the teacher, aligning with the Less effort code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Effort",
+              "code": "Before submission",
+              "reasoning": "The statement 'offers a more guided learning experience' suggests that teacher feedback involves more effort in guiding students through the learning process, aligning with the Before submission code."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "Positive",
+              "reasoning": "The statement 'lacks emotional encouragement or personalized support' indicates that GenAI feedback provides less positive emotional impact, aligning with the Positive code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "Positive",
+              "reasoning": "The statement 'personalized guidance can be more effective in addressing gaps in your knowledge' implies that teacher feedback provides more emotional encouragement and support, aligning with the Positive code."
+            }
+          ]
+        },
+        "Iteration2": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The phrase 'Provides instant feedback' directly maps to the Speed code, as it highlights the immediacy and time-efficiency of GenAI feedback."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The statement 'it may not delve deeply into why something is correct or incorrect' explicitly indicates a lack of depth in GenAI feedback, aligning with the In-depth code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The description 'fosters a deeper understanding' and 'provides context, explain thought processes' highlights the thoroughness and depth of teacher feedback, which matches the In-depth code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Contextualised",
+              "reasoning": "The phrase 'provides context, explain thought processes' indicates that teacher feedback is adapted to the context of the learning material, aligning with the Contextualised code."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The statement 'lacks the nuanced understanding of your individual learning preferences' suggests that GenAI feedback is less personalized, aligning with the Personal code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The statement 'can tailor feedback to your personal learning preferences' explicitly highlights the personalized nature of teacher feedback, aligning with the Personal code."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Effort",
+              "code": "Less effort",
+              "reasoning": "The statement 'encourages a degree of self-learning and exploration' implies that GenAI reduces the effort required for guided learning, aligning with the Less effort code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Effort",
+              "code": "Before submission",
+              "reasoning": "The statement 'offers a more guided learning experience, ensuring you understand each step' indicates that teacher feedback involves more effort in guiding students through the learning process, aligning with the Before submission code."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "Positive",
+              "reasoning": "The statement 'lacks emotional encouragement or personalized support' suggests that GenAI feedback has less positive emotional impact, aligning with the Positive code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "Positive",
+              "reasoning": "The statement 'personalized guidance can be more effective in addressing gaps in your knowledge' implies that teacher feedback provides more emotional encouragement and support, aligning with the Positive code."
+            }
+          ]
+        },
+        "Iteration3": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The phrase 'Provides instant feedback' directly maps to the Speed code, as it highlights the immediacy and time-efficiency of GenAI feedback."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The statement 'it may not delve deeply into why something is correct or incorrect' explicitly indicates a lack of depth in GenAI feedback, aligning with the In-depth code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The description 'fosters a deeper understanding' and 'provides context, explain thought processes' highlights the thoroughness of teacher feedback, which aligns with the In-depth code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Contextualised",
+              "reasoning": "The phrase 'provides context' directly maps to the Contextualised code, as it emphasizes the adaptation of feedback to specific learning situations."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The statement 'lacks the nuanced understanding of your individual learning preferences' indicates that GenAI feedback is less personalized, aligning with the Personal code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The statement 'can tailor feedback to your personal learning preferences' explicitly highlights the personalized nature of teacher feedback, aligning with the Personal code."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Effort",
+              "code": "Less effort",
+              "reasoning": "The phrase 'encourages a degree of self-learning and exploration' implies that GenAI requires less direct effort from the teacher, aligning with the Less effort code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Effort",
+              "code": "Less effort",
+              "reasoning": "The statement 'offers a more guided learning experience' suggests that teachers reduce the effort required by students to understand complex topics, aligning with the Less effort code."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "Positive",
+              "reasoning": "The statement 'lacks emotional encouragement or personalized support' indicates that GenAI feedback provides less positive emotional impact, aligning with the Positive code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "Positive",
+              "reasoning": "The statement 'personalized guidance can be more effective' implies that teacher feedback provides more emotional encouragement and support, aligning with the Positive code."
+            }
+          ]
+        }
+      }
+    },
+    "Question 41": {
+      "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+      "Response": "No",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": []
+        },
+        "Iteration2": {
+          "codes": []
+        },
+        "Iteration3": {
+          "codes": []
+        }
+      }
+    },
+    "Question 42": {
+      "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+      "Response": "Depth of Feedback:\nGenAI: Provides general and broad feedback based on the information it has been trained on, with a focus on a variety of subjects and technical accuracy. It may offer suggestions for improving clarity, structure, and logic, but sometimes lacks detailed, personalized insight.\nTeacher: Offers more specific, individualized feedback. A teacher can pinpoint exactly where your misunderstandings lie and offer tailored advice based on your learning history, class discussions, and personal strengths/weaknesses.\nInteraction and Clarification:\nGenAI: While it can provide immediate responses, any clarification requests might lead to further iterations that don’t fully address specific nuances or educational standards.\nTeacher: Can provide real-time interaction, and their feedback can evolve during a conversation. Teachers can adapt their feedback based on your immediate questions and guide you through complex concepts interactively.\nPersonal Context:\nGenAI: Offers neutral and objective responses, not necessarily aware of your personal goals, context, or progress unless you provide that background explicitly.\nTeacher: Knows your academic history, learning style, and class performance, allowing them to give feedback that aligns with your personal development and educational goals.\nFocus on Practical Application:\nGenAI: May provide theoretical advice and focus on ideal answers. It doesn’t always account for real-world applications or specific academic contexts unless explicitly prompted.\nTeacher: Can emphasize the practical application of knowledge, often linking feedback to how concepts will be tested, used in projects, or applied in professional settings.",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The statement 'GenAI... sometimes lacks detailed, personalized insight' explicitly indicates that AI feedback is less in-depth compared to teacher feedback."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Specificity",
+              "reasoning": "The phrase 'offers more specific, individualized feedback' directly highlights that teacher feedback is more specific than AI feedback."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Personal",
+              "code": "Personal",
+              "reasoning": "The statement 'a teacher can pinpoint exactly where your misunderstandings lie and offer tailored advice based on your learning history, class discussions, and personal strengths/weaknesses' emphasizes the personal and relational nature of teacher feedback."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The phrase 'GenAI... can provide immediate responses' directly indicates that AI feedback is faster compared to teacher feedback."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Processes",
+              "sub_theme": "Effort",
+              "code": "Less effort",
+              "reasoning": "The statement 'any clarification requests might lead to further iterations that don't fully address specific nuances or educational standards' suggests that using AI requires more effort to achieve clarity compared to teacher feedback."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Effort",
+              "code": "Less effort",
+              "reasoning": "The statement 'teachers can adapt their feedback based on your immediate questions and guide you through complex concepts interactively' implies that teacher feedback requires less effort to understand and engage with compared to AI feedback."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Objective",
+              "reasoning": "The statement 'GenAI... offers neutral and objective responses' explicitly highlights the objective nature of AI feedback."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Personal",
+              "code": "Personal",
+              "reasoning": "The statement 'knows your academic history, learning style, and class performance' emphasizes the personal and contextualized nature of teacher feedback."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Information",
+              "sub_theme": "Contextualised",
+              "code": "Contextualised",
+              "reasoning": "The statement 'not necessarily aware of your personal goals, context, or progress unless you provide that background explicitly' indicates that AI feedback is less contextualized compared to teacher feedback."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Contextualised",
+              "code": "Contextualised",
+              "reasoning": "The statement 'allowing them to give feedback that aligns with your personal development and educational goals' highlights that teacher feedback is more contextualized and tailored to the student's specific needs."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Relevance",
+              "reasoning": "The statement 'doesn't always account for real-world applications or specific academic contexts unless explicitly prompted' suggests that AI feedback is less relevant to practical or academic contexts compared to teacher feedback."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Relevance",
+              "reasoning": "The statement 'can emphasize the practical application of knowledge, often linking feedback to how concepts will be tested, used in projects, or applied in professional settings' indicates that teacher feedback is more relevant to real-world and academic applications."
+            }
+          ]
+        },
+        "Iteration2": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The statement 'GenAI... sometimes lacks detailed, personalized insight' explicitly contrasts AI's feedback as less detailed and personalized, aligning with the In-depth code which captures depth and nuance."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Specificity",
+              "reasoning": "The phrase 'offers more specific, individualized feedback' directly indicates that teacher feedback is more specific, aligning with the Specificity code which captures detailed and precise information."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The statement 'a teacher can pinpoint exactly where your misunderstandings lie and offer tailored advice based on your learning history, class discussions, and personal strengths/weaknesses' highlights the teacher's ability to provide personalized feedback, aligning with the Personal code."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The phrase 'GenAI... can provide immediate responses' directly indicates faster access to feedback, aligning with the Speed code which captures immediacy and time efficiency."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The statement 'GenAI... not necessarily aware of your personal goals, context, or progress unless you provide that background explicitly' indicates a lack of personal connection, aligning with the Personal code in a negative comparative sense."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The statement 'Teacher... knows your academic history, learning style, and class performance' highlights the teacher's ability to provide feedback that is relational and personalized, aligning with the Personal code."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Information",
+              "sub_theme": "Contextualised",
+              "code": "Contextualised",
+              "reasoning": "The statement 'GenAI... doesn't always account for real-world applications or specific academic contexts unless explicitly prompted' indicates a lack of contextual adaptation, aligning with the Contextualised code in a negative comparative sense."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Contextualised",
+              "code": "Contextualised",
+              "reasoning": "The statement 'Teacher... can emphasize the practical application of knowledge, often linking feedback to how concepts will be tested, used in projects, or applied in professional settings' highlights the teacher's ability to provide contextually adapted feedback, aligning with the Contextualised code."
+            }
+          ]
+        },
+        "Iteration3": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The statement 'GenAI... sometimes lacks detailed, personalized insight' explicitly contrasts AI's feedback as less detailed and personalized compared to teacher feedback, aligning with the In-depth code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Specificity",
+              "reasoning": "The phrase 'Offers more specific, individualized feedback' directly indicates that teacher feedback is more specific, which aligns with the Specificity code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The statement 'A teacher can pinpoint exactly where your misunderstandings lie and offer tailored advice based on your learning history, class discussions, and personal strengths/weaknesses' highlights the teacher's ability to provide personalized feedback, which aligns with the Personal code."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The phrase 'While it can provide immediate responses' explicitly highlights the speed of GenAI feedback, which aligns with the Speed code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Effort",
+              "code": "Less effort",
+              "reasoning": "The statement 'Teachers can adapt their feedback based on your immediate questions and guide you through complex concepts interactively' suggests that teacher feedback reduces the effort required to understand complex concepts, aligning with the Less effort code."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Objective",
+              "reasoning": "The statement 'GenAI... offers neutral and objective responses' explicitly describes AI feedback as objective, which aligns with the Objective code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The statement 'Teacher... knows your academic history, learning style, and class performance' highlights the teacher's relational knowledge, which aligns with the Personal code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Contextualised",
+              "reasoning": "The statement 'Teacher... allows them to give feedback that aligns with your personal development and educational goals' indicates that teacher feedback is adapted to the student's specific context, aligning with the Contextualised code."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Theoretical",
+              "reasoning": "The statement 'GenAI... may provide theoretical advice and focus on ideal answers' explicitly describes AI feedback as theoretical, which aligns with the Theoretical code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Utility",
+              "reasoning": "The statement 'Teacher... can emphasize the practical application of knowledge' highlights the utility of teacher feedback in linking concepts to real-world applications, aligning with the Utility code."
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ResponseId": "R_43e00PZDT3YYIZ2",
+    "Question 43": {
+      "Question": "Why didn’t you use GenAI for feedback on your work?",
+      "Response": "I didn't know how / if gen AI would know about how to improve my work from a Nursign perspective. I m also very new to this so i Didn't even think about it",
+      "iteration_codings": {
+        "Iteration1": {
+          "reasons": [
+            {
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Unaware",
+              "reasoning": "The student states 'I didn't know how / if gen AI would know about how to improve my work from a Nursing perspective' and 'I m also very new to this so i Didn't even think about it,' which indicates a lack of awareness about GenAI's capabilities and how to use it. This aligns with the Unaware code under Processes → Access."
+            }
+          ]
+        },
+        "Iteration2": {
+          "reasons": [
+            {
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Unaware",
+              "reasoning": "The clause 'I didn't know how / if gen AI would know about how to improve my work from a Nursing perspective' indicates a lack of knowledge about GenAI's capabilities in providing feedback specific to their field. This aligns with the Unaware code, which captures respondents not knowing how to use GenAI or its potential applications."
+            },
+            {
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Unaware",
+              "reasoning": "The clause 'I'm also very new to this so I didn't even think about it' reflects a lack of awareness or consideration of GenAI as an option. This directly maps to the Unaware code, which includes not thinking of using GenAI."
+            }
+          ]
+        },
+        "Iteration3": {
+          "reasons": [
+            {
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Unaware",
+              "reasoning": "The clause 'I didn't know how / if gen AI would know about how to improve my work from a Nursing perspective' indicates a lack of knowledge about GenAI's capabilities in providing feedback specific to their field. This aligns with the Unaware code, which captures respondents not knowing how to use GenAI or its potential applications."
+            },
+            {
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Unaware",
+              "reasoning": "The statement 'I'm also very new to this so I didn't even think about it' reflects unfamiliarity and a lack of awareness about using GenAI for feedback. This directly maps to the Unaware code, as it highlights not thinking of or knowing about the possibility of using GenAI."
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ResponseId": "R_4P0PnRK3k4DjAxR",
+    "Question 40": {
+      "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+      "Response": "I find that it's more convenient/timely to get feedback from AI. I also found that often if it's feedback that the teacher is required to give, then sometimes it feels lackluster or copy-pasted from student to student. This applied more to high school than it does at uni, but the sentiment still remains.",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Ease",
+              "reasoning": "The phrase 'more convenient/timely to get feedback from AI' directly indicates that AI feedback is easier to access, aligning with the Ease code under the Access sub-theme."
+            },
+            {
+              "actor": "T",
+              "comparator": "Less",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Utility",
+              "reasoning": "The statement 'feedback that the teacher is required to give... feels lackluster or copy-pasted' suggests that teacher feedback is less practical or useful, aligning with the Utility code under the Quality sub-theme."
+            }
+          ]
+        },
+        "Iteration2": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Ease",
+              "reasoning": "The phrase 'more convenient/timely to get feedback from AI' directly indicates that AI feedback is easier to access. The Ease code captures accessibility and convenience, which the student explicitly attributes to AI."
+            },
+            {
+              "actor": "T",
+              "comparator": "Less",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Utility",
+              "reasoning": "The statement 'feedback that the teacher is required to give... feels lackluster or copy-pasted' suggests that teacher feedback is less practical or useful. The Utility code captures feedback that is actionable and helpful, which the student implies is lacking in teacher feedback."
+            }
+          ]
+        },
+        "Iteration3": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Ease",
+              "reasoning": "The phrase 'more convenient/timely to get feedback from AI' directly indicates ease of access, aligning with the Ease code which captures accessibility and convenience."
+            },
+            {
+              "actor": "T",
+              "comparator": "Less",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Specificity",
+              "reasoning": "The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks specificity and is perceived as generic. This aligns with the Specificity code, which captures detailed and non-generic feedback."
+            }
+          ]
+        }
+      }
+    },
+    "Question 41": {
+      "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+      "Response": "Not really. Just that you can ask the AI to explain in a way that makes sense to you.",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Understandable",
+              "reasoning": "The phrase 'explain in a way that makes sense to you' indicates that AI feedback is presented in a comprehensible and digestible manner. This aligns with the Understandable code, which captures feedback that is easy to understand."
+            }
+          ]
+        },
+        "Iteration2": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Understandable",
+              "reasoning": "The phrase 'explain in a way that makes sense to you' indicates that AI feedback is presented in a comprehensible and digestible manner. This aligns with the Understandable code, which captures the clarity and ease of understanding of the feedback."
+            }
+          ]
+        },
+        "Iteration3": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Understandable",
+              "reasoning": "The phrase 'explain in a way that makes sense to you' indicates that AI feedback is presented in a comprehensible and digestible manner. This aligns with the Understandable code, which captures the clarity and ease of understanding of the feedback."
+            }
+          ]
+        }
+      }
+    },
+    "Question 42": {
+      "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+      "Response": "Nothing that comes to mind.",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": []
+        },
+        "Iteration2": {
+          "codes": []
+        },
+        "Iteration3": {
+          "codes": []
+        }
+      }
+    }
+  },
+  {
+    "ResponseId": "R_4Ka5vRl3NuBJ1Af",
+    "Question 40": {
+      "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+      "Response": "Feedbacks from Gen AI are generic but broader in persepctives which may further spur more thoughts. Feedbacks from teacher are personalized and more specific",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The phrase 'broader in perspectives' suggests that GenAI provides feedback that is more expansive and nuanced, aligning with the In-depth code which captures detailed or nuanced information."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Specificity",
+              "reasoning": "The term 'generic' indicates that GenAI feedback lacks specificity, which directly contrasts with the Specificity code that captures detailed and precise information."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Specificity",
+              "reasoning": "The phrase 'personalized and more specific' explicitly highlights that teacher feedback is more detailed and tailored, aligning with the Specificity code."
+            }
+          ]
+        },
+        "Iteration2": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The phrase 'broader in perspectives' suggests that GenAI feedback provides a wider or more comprehensive view, which aligns with the In-depth code capturing nuanced or broad information."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Sense-making",
+              "sub_theme": "Sense-making",
+              "code": "Reflection",
+              "reasoning": "The phrase 'may further spur more thoughts' indicates that GenAI feedback encourages reflective thinking, which aligns with the Reflection code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Specificity",
+              "reasoning": "The phrase 'personalized and more specific' directly indicates that teacher feedback is detailed and tailored, which aligns with the Specificity code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The term 'personalized' explicitly highlights the relational aspect of teacher feedback, indicating a closer, more supportive connection, which aligns with the Personal code."
+            }
+          ]
+        },
+        "Iteration3": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The phrase 'broader in perspectives' suggests that GenAI feedback provides a wider or more comprehensive view, which aligns with the In-depth code capturing nuanced or expansive information."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Sense-making",
+              "sub_theme": "Sense-making",
+              "code": "Reflection",
+              "reasoning": "The statement 'may further spur more thoughts' indicates that GenAI feedback encourages reflective thinking, which directly maps to the Reflection code."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Specificity",
+              "reasoning": "The phrase 'personalized and more specific' explicitly highlights that teacher feedback is detailed and tailored, which aligns with the Specificity code capturing precise and detailed information."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The term 'personalized' directly refers to the relational aspect of teacher feedback being tailored to the individual, which aligns with the Personal code capturing supportive and individualized feedback."
+            }
+          ]
+        }
+      }
+    },
+    "Question 41": {
+      "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+      "Response": "both are equally useful and can be combined to achieve better outcomes",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": [
+            {
+              "actor": "B",
+              "comparator": "Similar",
+              "theme": "Value",
+              "sub_theme": "Value",
+              "code": "Importance",
+              "reasoning": "The phrase 'both are equally useful' explicitly indicates that the student perceives both AI and teacher feedback as having comparable value, aligning with the Importance code which captures perceived significance."
+            }
+          ]
+        },
+        "Iteration2": {
+          "codes": [
+            {
+              "actor": "B",
+              "comparator": "Similar",
+              "theme": "Value",
+              "sub_theme": "Value",
+              "code": "Importance",
+              "reasoning": "The phrase 'both are equally useful' explicitly indicates that the student perceives both AI and teacher feedback as having comparable value, aligning with the Importance code."
+            }
+          ]
+        },
+        "Iteration3": {
+          "codes": [
+            {
+              "actor": "B",
+              "comparator": "Similar",
+              "theme": "Value",
+              "sub_theme": "Value",
+              "code": "Importance",
+              "reasoning": "The phrase 'both are equally useful' explicitly indicates that the student perceives both AI and teacher feedback as having comparable value, aligning with the Importance code."
+            }
+          ]
+        }
+      }
+    },
+    "Question 42": {
+      "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+      "Response": "Gen AI allowed me to take my time to ask for feedbacks and any follow-up quesitons, while from teachers, sometimes there's an unspoken pressure to keep the question/answer process to be efficient (as quick and as precise as possible)",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Effort",
+              "code": "Less effort",
+              "reasoning": "The phrase 'allowed me to take my time to ask for feedbacks and any follow-up questions' suggests that interacting with GenAI reduces the effort or pressure associated with the feedback process, making it easier for the student to engage at their own pace."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Risky",
+              "code": "Risky",
+              "reasoning": "The statement 'there's an unspoken pressure to keep the question/answer process to be efficient' implies a sense of vulnerability or risk in interactions with teachers, as the student feels judged or constrained by expectations of efficiency."
+            }
+          ]
+        },
+        "Iteration2": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Ease",
+              "reasoning": "The phrase 'allowed me to take my time to ask for feedbacks and any follow-up questions' indicates that GenAI provides a more relaxed and accessible process for seeking feedback, aligning with the Ease code which captures accessibility and convenience."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Risky",
+              "code": "Risky",
+              "reasoning": "The statement 'there's an unspoken pressure to keep the question/answer process to be efficient' suggests a sense of vulnerability or discomfort in interactions with teachers, aligning with the Risky code which captures feelings of being judged or under pressure."
+            }
+          ]
+        },
+        "Iteration3": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Effort",
+              "code": "Less effort",
+              "reasoning": "The phrase 'allowed me to take my time to ask for feedbacks and any follow-up questions' suggests that interacting with GenAI reduces the effort or pressure associated with the feedback process, making it easier and more flexible for the student."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Risky",
+              "code": "Risky",
+              "reasoning": "The statement 'there's an unspoken pressure to keep the question/answer process to be efficient' implies a sense of vulnerability or discomfort when interacting with teachers, aligning with the Risky code which captures feelings of judgment or pressure in relational dynamics."
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ResponseId": "R_4AYVtTmMd0q7vte",
+    "Question 40": {
+      "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+      "Response": "GenAI is available 24/7 and responds instantly whereas teachers take a while or never respond so there was n",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Ease",
+              "reasoning": "The phrase 'GenAI is available 24/7' directly indicates ease of access, as it highlights constant availability, which aligns with the Ease code."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The term 'responds instantly' explicitly refers to the immediacy of GenAI's feedback, which matches the Speed code."
+            },
+            {
+              "actor": "T",
+              "comparator": "Less",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Ease",
+              "reasoning": "The statement 'teachers take a while or never respond' contrasts with GenAI's availability, indicating that teachers are less accessible, which aligns with the Ease code."
+            }
+          ]
+        },
+        "Iteration2": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Ease",
+              "reasoning": "The phrase 'GenAI is available 24/7' directly indicates ease of access, highlighting its constant availability compared to teachers."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The term 'responds instantly' explicitly maps to the Speed code, emphasizing the immediacy of GenAI's feedback compared to teachers."
+            },
+            {
+              "actor": "T",
+              "comparator": "Less",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Ease",
+              "reasoning": "The statement 'teachers take a while or never respond' contrasts with GenAI's availability, indicating that teachers are less accessible or responsive."
+            }
+          ]
+        },
+        "Iteration3": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Ease",
+              "reasoning": "The phrase 'GenAI is available 24/7' directly indicates ease of access, as it highlights constant availability, which aligns with the Ease code."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Speed",
+              "reasoning": "The term 'responds instantly' explicitly maps to the Speed code, as it emphasizes immediate response time."
+            },
+            {
+              "actor": "T",
+              "comparator": "Less",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Ease",
+              "reasoning": "The statement 'teachers take a while or never respond' contrasts with GenAI's availability, indicating that teachers are less accessible, which aligns with the Ease code."
+            }
+          ]
+        }
+      }
+    },
+    "Question 41": {
+      "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+      "Response": "No",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": []
+        },
+        "Iteration2": {
+          "codes": []
+        },
+        "Iteration3": {
+          "codes": []
+        }
+      }
+    },
+    "Question 42": {
+      "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+      "Response": "No",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": []
+        },
+        "Iteration2": {
+          "codes": []
+        },
+        "Iteration3": {
+          "codes": []
+        }
+      }
+    }
+  },
+  {
+    "ResponseId": "R_1gTNWbmwxtRxrf8",
+    "Question 40": {
+      "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+      "Response": "between AI and a teacher, the teacher is always going to be the more trustworthy source, however AI's ability to collate large amounts of information into a digestible chunk is useful",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": [
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Reliable",
+              "reasoning": "The phrase 'the teacher is always going to be the more trustworthy source' explicitly compares the teacher to AI in terms of trustworthiness, which aligns with the Reliable code capturing accuracy and trust."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Understandable",
+              "reasoning": "The statement 'AI's ability to collate large amounts of information into a digestible chunk' highlights AI's capacity to present information in an understandable and comprehensible way, which directly maps to the Understandable code."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Utility",
+              "reasoning": "The phrase 'is useful' explicitly attributes utility to AI's feedback, indicating its practical and helpful nature, which aligns with the Utility code."
+            }
+          ]
+        },
+        "Iteration2": {
+          "codes": [
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Reliable",
+              "reasoning": "The phrase 'the teacher is always going to be the more trustworthy source' explicitly compares the reliability of teacher feedback to AI, indicating that the teacher is perceived as more reliable."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Understandable",
+              "reasoning": "The statement 'AI's ability to collate large amounts of information into a digestible chunk' highlights AI's capacity to present information in an understandable and comprehensible way, which aligns with the Understandable code."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Utility",
+              "reasoning": "The term 'useful' directly indicates the utility of AI feedback, emphasizing its practical value in processing and presenting large amounts of information."
+            }
+          ]
+        },
+        "Iteration3": {
+          "codes": [
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Reliable",
+              "reasoning": "The phrase 'the teacher is always going to be the more trustworthy source' explicitly compares the teacher to AI in terms of reliability, indicating that the teacher is perceived as more trustworthy."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Understandable",
+              "reasoning": "The statement 'AI's ability to collate large amounts of information into a digestible chunk' highlights AI's capacity to present information in an understandable and comprehensible way, which aligns with the Understandable code."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Volume",
+              "reasoning": "The reference to 'collate large amounts of information' directly points to AI's ability to handle a greater volume of information, which matches the Volume code."
+            }
+          ]
+        }
+      }
+    },
+    "Question 41": {
+      "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+      "Response": "no, teachers and ai are usually fairly similar in feedback delivery style",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": [
+            {
+              "actor": "B",
+              "comparator": "Similar",
+              "theme": "Information",
+              "sub_theme": "Tone",
+              "code": "Positivity",
+              "reasoning": "The phrase 'fairly similar in feedback delivery style' suggests that both AI and teachers are comparable in their tone or manner of delivering feedback. The Positivity code is appropriate as it captures the affective framing of feedback delivery, which the student perceives as similar for both actors."
+            }
+          ]
+        },
+        "Iteration2": {
+          "codes": [
+            {
+              "actor": "B",
+              "comparator": "Similar",
+              "theme": "Information",
+              "sub_theme": "Tone",
+              "code": "Positivity",
+              "reasoning": "The phrase 'fairly similar in feedback delivery style' suggests that both AI and teachers are comparable in their tone or manner of delivering feedback. The Positivity code is appropriate as it captures the neutral or supportive delivery style implied by the student."
+            }
+          ]
+        },
+        "Iteration3": {
+          "codes": [
+            {
+              "actor": "B",
+              "comparator": "Similar",
+              "theme": "Information",
+              "sub_theme": "Tone",
+              "code": "Positivity",
+              "reasoning": "The phrase 'fairly similar in feedback delivery style' suggests that both AI and teachers are comparable in their tone or manner of delivering feedback. The Positivity code is appropriate as it captures the neutral or supportive delivery style implied by the student."
+            }
+          ]
+        }
+      }
+    },
+    "Question 42": {
+      "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+      "Response": "nil",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": []
+        },
+        "Iteration2": {
+          "codes": []
+        },
+        "Iteration3": {
+          "codes": []
+        }
+      }
+    }
+  },
+  {
+    "ResponseId": "R_4sn9pI5HdvhV5gI",
+    "Question 43": {
+      "Question": "Why didn’t you use GenAI for feedback on your work?",
+      "Response": "Have not thought to use it and unsure on trusting AI",
+      "iteration_codings": {
+        "Iteration1": {
+          "reasons": [
+            {
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Unaware",
+              "reasoning": "The phrase 'Have not thought to use it' indicates the student did not consider using GenAI, which aligns with the Unaware code under Processes → Access, as it reflects a lack of awareness or consideration of GenAI for feedback."
+            },
+            {
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Trustworthy",
+              "reasoning": "The phrase 'unsure on trusting AI' directly expresses doubt about the reliability or credibility of GenAI feedback. This aligns with the Trustworthy code under Information → Quality, which captures concerns about trust in the information or its source."
+            }
+          ]
+        },
+        "Iteration2": {
+          "reasons": [
+            {
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Unaware",
+              "reasoning": "The phrase 'Have not thought to use it' indicates the respondent did not consider using GenAI, which aligns with the Unaware code under Processes → Access, as it reflects a lack of awareness or consideration of GenAI for feedback."
+            },
+            {
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Trustworthy",
+              "reasoning": "The phrase 'unsure on trusting AI' directly expresses doubt about the reliability or credibility of GenAI feedback. This aligns with the Trustworthy code under Information → Quality, which captures concerns about trust in the information or its source."
+            }
+          ]
+        },
+        "Iteration3": {
+          "reasons": [
+            {
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Unaware",
+              "reasoning": "The phrase 'Have not thought to use it' indicates the respondent did not consider using GenAI, which aligns with the Unaware code under Processes → Access, as it reflects a lack of awareness or consideration."
+            },
+            {
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Trustworthy",
+              "reasoning": "The phrase 'unsure on trusting AI' directly expresses doubt about the reliability of GenAI feedback, which corresponds to the Trustworthy code under Information → Quality."
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ResponseId": "R_1VQ5hmwtdpRmnmu",
+    "Question 40": {
+      "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+      "Response": "GenAI is helpful for finding technical errors and finding understandable overvies of specific topics. Teachers on the other hand search for more implicit reasonigns when providing feedback",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Specificity",
+              "reasoning": "The phrase 'helpful for finding technical errors and finding understandable overviews of specific topics' indicates that GenAI provides detailed and specific information. This aligns with the Specificity code, which captures feedback that is precise and detailed."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The phrase 'search for more implicit reasonings when providing feedback' suggests that teachers focus on deeper, more nuanced aspects of reasoning. This aligns with the In-depth code, which captures feedback that is thorough and nuanced."
+            }
+          ]
+        },
+        "Iteration2": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Reliable",
+              "reasoning": "The phrase 'helpful for finding technical errors' suggests that GenAI provides accurate and precise feedback, which aligns with the Reliable code under the Quality sub-theme."
+            },
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Understandable",
+              "reasoning": "The mention of 'finding understandable overviews of specific topics' directly maps to the Understandable code, as it highlights the clarity and digestibility of the information provided by GenAI."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The phrase 'search for more implicit reasonings' indicates that teachers provide deeper, more nuanced feedback, which aligns with the In-depth code under the Quality sub-theme."
+            }
+          ]
+        },
+        "Iteration3": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Specificity",
+              "reasoning": "The phrase 'helpful for finding technical errors and finding understandable overviews of specific topics' indicates that GenAI provides detailed and specific information. This aligns with the Specificity code, which captures feedback that is precise and detailed."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The statement 'search for more implicit reasonings when providing feedback' suggests that teachers focus on deeper, more nuanced aspects of reasoning. This aligns with the In-depth code, which captures feedback that is thorough and nuanced."
+            }
+          ]
+        }
+      }
+    },
+    "Question 41": {
+      "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+      "Response": "A teachers feedback will impact you more than an AI as GenAI is designed to be neutral, and provides code generated feedback, however, a teachers feedback is far more impactful as it is a human makign judgements on your work, thus your feelings of reward and disappointment will be greater",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": [
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "Positive",
+              "reasoning": "The statement 'a teacher's feedback will impact you more' and 'your feelings of reward... will be greater' indicates that teacher feedback elicits stronger positive emotional responses compared to AI feedback. The Positive code captures feelings of encouragement or reward, which the student attributes to teacher feedback."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "Negative",
+              "reasoning": "The phrase 'your feelings of... disappointment will be greater' explicitly highlights stronger negative emotional responses to teacher feedback. The Negative code captures discouraging or frustrating emotions, which the student associates more with teacher feedback than AI."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Information",
+              "sub_theme": "Tone",
+              "code": "Positivity",
+              "reasoning": "The description 'GenAI is designed to be neutral' implies a lack of emotional tone, contrasting with the emotional impact of teacher feedback. The Positivity code applies here as the student suggests AI feedback is less emotionally uplifting or supportive."
+            }
+          ]
+        },
+        "Iteration2": {
+          "codes": [
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "Positive",
+              "reasoning": "The statement 'a teacher's feedback is far more impactful' and 'your feelings of reward... will be greater' indicates that teacher feedback elicits stronger positive emotional responses compared to AI."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "Negative",
+              "reasoning": "The phrase 'your feelings of... disappointment will be greater' explicitly highlights that teacher feedback also evokes stronger negative emotional responses compared to AI."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "No impact",
+              "reasoning": "The description 'GenAI is designed to be neutral' implies that AI feedback has a lesser emotional impact, aligning with the No impact code which captures indifference or lack of emotional response."
+            }
+          ]
+        },
+        "Iteration3": {
+          "codes": [
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "Positive",
+              "reasoning": "The statement 'a teacher's feedback will impact you more' and 'your feelings of reward... will be greater' indicates that teacher feedback elicits stronger positive emotional responses compared to AI."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "Negative",
+              "reasoning": "The phrase 'your feelings of... disappointment will be greater' explicitly highlights that teacher feedback also evokes stronger negative emotional responses compared to AI."
+            },
+            {
+              "actor": "A",
+              "comparator": "Less",
+              "theme": "Feeling",
+              "sub_theme": "Feeling",
+              "code": "No impact",
+              "reasoning": "The description of GenAI as 'designed to be neutral' and providing 'code-generated feedback' suggests that AI feedback has less emotional impact, aligning with the No impact code."
+            }
+          ]
+        }
+      }
+    },
+    "Question 42": {
+      "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+      "Response": "teachers search more for the greater meaning of a piece of work, and attempt to understand the ideology and thought process behind the work",
+      "iteration_codings": {
+        "Iteration1": {
+          "codes": [
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The phrase 'teachers search more for the greater meaning of a piece of work' indicates a deeper level of analysis and understanding, which aligns with the In-depth code that captures nuanced and detailed feedback."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The statement 'attempt to understand the ideology and thought process behind the work' reflects an effort to engage with the student's personal ideas and reasoning, which aligns with the Personal code that captures relational and supportive feedback."
+            }
+          ]
+        },
+        "Iteration2": {
+          "codes": [
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "In-depth",
+              "reasoning": "The phrase 'teachers search more for the greater meaning of a piece of work' indicates a deeper level of analysis and understanding, which aligns with the In-depth code that captures nuanced and detailed feedback."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The statement 'attempt to understand the ideology and thought process behind the work' reflects an effort to engage with the student's personal ideas and reasoning, which aligns with the Personal code capturing relational and supportive feedback."
+            }
+          ]
+        },
+        "Iteration3": {
+          "codes": [
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Sense-making",
+              "sub_theme": "Sense-making",
+              "code": "Understanding",
+              "reasoning": "The phrase 'teachers search more for the greater meaning of a piece of work' indicates that teachers focus on comprehending the deeper aspects of the work. This aligns with the Understanding code, which captures efforts to help make sense of or grasp the meaning of something."
+            },
+            {
+              "actor": "T",
+              "comparator": "More",
+              "theme": "Relational",
+              "sub_theme": "Relational",
+              "code": "Personal",
+              "reasoning": "The statement 'attempt to understand the ideology and thought process behind the work' reflects a relational effort to connect with the student's perspective and thought process. This aligns with the Personal code, which captures relational and supportive feedback that considers the individual's context."
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ResponseId": "R_4aRLJoWmhKsYLOF",
+    "Question 43": {
+      "Question": "Why didn’t you use GenAI for feedback on your work?",
+      "Response": "Did not know that it could be used like that.",
+      "iteration_codings": {
+        "Iteration1": {
+          "reasons": [
+            {
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Unaware",
+              "reasoning": "The statement 'Did not know that it could be used like that' directly indicates a lack of awareness about GenAI's capability to provide feedback. This aligns with the Unaware code under Processes → Access, which captures respondents who did not know GenAI could perform this function."
+            }
+          ]
+        },
+        "Iteration2": {
+          "reasons": [
+            {
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Unaware",
+              "reasoning": "The phrase 'Did not know that it could be used like that' directly indicates a lack of awareness about GenAI's capability to provide feedback. This aligns with the Unaware code under Processes → Access, which captures respondents who did not know GenAI could perform this function."
+            }
+          ]
+        },
+        "Iteration3": {
+          "reasons": [
+            {
+              "theme": "Processes",
+              "sub_theme": "Access",
+              "code": "Unaware",
+              "reasoning": "The statement 'Did not know that it could be used like that' directly indicates a lack of awareness about GenAI's capability to provide feedback. This aligns with the Unaware code under Processes → Access, which captures respondents who did not know GenAI could perform this function."
+            }
+          ]
+        }
+      }
+    }
+  }
+]

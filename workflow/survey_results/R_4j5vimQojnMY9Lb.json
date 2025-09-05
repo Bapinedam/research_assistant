@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4j5vimQojnMY9Lb",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I would say, GenAI is mostly based on data, rather than understanding about any particular work, I would prefer to take help of a professor rather than depending on AI.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Personal"
+    ]
+  }
+}

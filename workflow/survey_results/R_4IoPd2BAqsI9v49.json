@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4IoPd2BAqsI9v49",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI provided numerous feedback including recommendations for additional research that fit the current writing and where it could be included to improve the argument's strength, ways the writing could be restructured, other ideas I could include, answering specific questions for assessment based on similar previous assessment, and general brainstorming when I'm stuck. For assessment, tutors have previously not been allowed to answer any questions that go below surface level what the assessment is for the sake of being fair. This often leaves the student needing to guess or ask their peers, who usually don't know either. Personally, if I've taken the initiative to ask the question and others haven't, I shouldn't be held back because of their shortsightedness, but that's another discussion.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "For general content, tutors are a great source of information, but not usually the most helpful for assessment questions. GenAI always helps in some way, even if its not the answers I was looking for.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Tutors do understand the specific circumstances and context of the question, whereas GenAI has to go off what is on the internet and similar, which aren't always right.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

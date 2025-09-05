@@ -1,0 +1,32 @@
+{
+  "ResponseId": "R_4KdStbbsKCtPq0N",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 5,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Most of the time, I observe that my tutors give me generic feedback, while AI rereads my work completely and pinpoints parts of my work that requires some change to strengthen the piece of work.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Since the feedback given by the tutors are generic, it gets hard for me to see which parts require the change, compared to how AI gives me feedback, it highlights all the places I need to change, and also suggests how I should change it, and why it should be changed.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

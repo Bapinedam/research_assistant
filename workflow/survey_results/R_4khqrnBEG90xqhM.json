@@ -1,0 +1,32 @@
+{
+  "ResponseId": "R_4khqrnBEG90xqhM",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI is more vague and when you feed it the research question/criteria, it'll say how you fulfilled it and could improve it - but it feels detached, often giving an answer that is distinctively not in the tone of your writing and not totally understanding/explaining in depth how you fulfil or don't fulfil the criteria that your teacher CAN do so much clearer (usually).",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI felt less personal than a teacher's feedback",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Personal"
+      }
+    ]
+  }
+}

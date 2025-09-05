@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4OJGDLWIQWFDpHw",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I get concerned that it will be stored or used by AI and might potentially get flagged as using AI when I shouldn't be",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4BCmkvWVFJJGCul",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "The feedback is typically incorrect. Generative AI is built off databases that can contain incorrect information. Hence, feedback isn't what I personally use AI for, but rather, locating information in resources that I know are factually accurate.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_410nsQnexnobbRF",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't believe it will give accurate feedback based on how I'm actually being assessed. There are also strict guidelines on when you can use GenAI and I find it more troublesome having to reference how I used GenAI then just doing my own work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Contextualised"
+    ]
+  }
+}

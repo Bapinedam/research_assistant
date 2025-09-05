@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4QU6UODvFFxSRYR",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "GenAI will not be the ones grading me. Furthermore, GenAI likely doesn't know the rubric for grading, or can have a person-to-person conversation with me.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised",
+      "Personal"
+    ]
+  }
+}

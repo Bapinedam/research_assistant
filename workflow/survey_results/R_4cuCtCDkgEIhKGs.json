@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4cuCtCDkgEIhKGs",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "It never occurred to me to do so.\nAlso I am morally opposed to the way generative AI scrapes data without consent of the rights holders and feel uncomfortable voluntarily giving it my own content.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Privacy"
+    ]
+  }
+}

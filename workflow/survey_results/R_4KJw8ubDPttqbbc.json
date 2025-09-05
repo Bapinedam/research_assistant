@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4KJw8ubDPttqbbc",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because why would I? It doesn’t know the Rubric, it doesn’t have an opinion as of yet, it doesn’t know what it’s looking for beyond what you ask of it. A teacher would not only give you feedback but also extend the invitation to help you. AI won’t.",
+    "GoodQuote": "Y",
+    "Reasons": [
+      "Contextualised",
+      "Personal"
+    ]
+  }
+}

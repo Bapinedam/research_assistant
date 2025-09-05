@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4NnsIruUCkYBPeJ",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don’t trust it. I know what I’ve written and why I’ve written it, my words are my own and mine only. I don’t need a computer to tell me to change my sentence structure",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

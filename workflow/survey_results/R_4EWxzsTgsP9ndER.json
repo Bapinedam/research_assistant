@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_4EWxzsTgsP9ndER",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "The idea never really came to mind. I would still prefer to ask friends or tutors to give me feedback on my work, as they would also have context of what is required of a particular assignment and AI would not.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Personal",
+      "Contextualised"
+    ]
+  }
+}

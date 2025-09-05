@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4oAV5PNcFAcQBnp",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Ai is 24/7 and has access to a whole range of resources and as long as you are checking what it is sourcing it's very trustworthy. \nteachers are generally great in class but are sometimes hard to communicate with as they only have a narrow understand of the coursework from their own field of work which can lead to less access to information.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Volume"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Ai is less personal so it is easier to take at face value with no emotions involved. Gettting feedback from your teacher will also have somesort of emotional level (can be good or bad).",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Personal"
+      }
+    ]
+  }
+}

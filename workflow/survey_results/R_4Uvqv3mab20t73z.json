@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_4Uvqv3mab20t73z",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "For me, GenAI is never to replace teacher. With added context for prompt, GenAI can help me to see and sometimes correct and help me understand or elborate more what the teacher is tasks for a subject. It applies as a note taker, whether to elaborate more or summarize something. it doesn't replace what I initially though but to add more thouhght",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Importance"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Importance"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "To feel better if I am going to pass a subject. Teacher feedback is very helpful. however for some missing prerequisite that I missing, genAI can help me to catch the phrases or words for me to research more.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "-",
+    "GoodQuote": ""
+  }
+}

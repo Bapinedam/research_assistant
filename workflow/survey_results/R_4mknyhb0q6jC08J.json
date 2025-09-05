@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4mknyhb0q6jC08J",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "OpenAI is not sharing detailed information on how tools like ChatGPT work, so they may be using something different that is effective. But, as far as I know, LLMs are just stochastic models trying to predict the best next token. They are not logical models and can't do research, so I would not trust them for feedback unless it is my only option.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy",
+      "Trustworthy"
+    ]
+  }
+}

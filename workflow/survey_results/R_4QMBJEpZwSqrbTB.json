@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_4QMBJEpZwSqrbTB",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I personally believe that GenAI lacks the nuance that would allow for effective feedback on a task. If I ask for feedback on a task which asks to draw on classwork (e.g. readings, lecture material), GenAI cannot provide feedback on whether or not I effectively draw on past concepts and apply them to my work. A human with more specialised experience in my subjects is much more effective in this example.",
+    "GoodQuote": "Y",
+    "Reasons": [
+      "In-depth",
+      "Contextualised",
+      "Trustworthy"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_42XNO4gcfeezeYH",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "It would add my work to its database and when my work is submitted for plagiarism check the report would detect AI.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy",
+      "Integrity"
+    ]
+  }
+}

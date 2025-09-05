@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_5HSp4ZvuRd1VpKx",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI provided quick and easy help on tutorial questions whereas teachers you have to find the time to go to consults and get there in person",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I feel I could ask any question of AI and not feel dumb whereas if you ask a teacher a 'dumb' question you may feel you should already know it",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "You can easily get AI to dumb it down further",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "NIL"
+      }
+    ]
+  }
+}

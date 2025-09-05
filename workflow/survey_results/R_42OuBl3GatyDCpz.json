@@ -1,0 +1,84 @@
+{
+  "ResponseId": "R_42OuBl3GatyDCpz",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "genai feedback is instant and available prior to assessment submissions, which helps improve writing as it provides feedback on drafting for final submission. \ngenai for learning is mostly used as a way to summarise and understand on the student's terms, providing the information in a digestible manner on content that is either lengthy or initially not comprehended. \n\nteacher feedback however is provided after assessment is submitted which is helpful in how the writing COULD have been improved, but is not applicable help since the assessment is already completed. \nteacher learning is helpful in the way that it is in person and they are knowledgeable in their field and are fully aware of the requirements and what they want the student to achieve.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Before submission"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "After submission"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Expert"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "indifferent, genai can provide feedback based on what has been prompted while teacher feedback is specific to their marking requirements. however feedback from genai feels better in a way because it helps drafting for attempting to reach the requirements of the marker. teacher feedback is helpful in hindsight",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Before submission"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "After submission"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "asking for feedback from genai doesn’t seem burdensome or like you would be judged for asking so many questions like from a teacher even during drafting.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      }
+    ]
+  }
+}

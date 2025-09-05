@@ -1,0 +1,74 @@
+{
+  "ResponseId": "R_442WBQmcXpmp48V",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 3,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I find that generative AI is generally not very helpful at providing meaningful feedback. Generative AI is often not critical enough of your work, and can often misinterpret your intentions when giving feedback. This is likely because AI has a bias towards the person asking questions - often if you tell it \"thats incorrect\" it will try and change its answer to more align with what you want to hear. it can often be primed as well depending on how you ask the question - on topics where there isn't a clear consensus it can adhere to whatever opinion you provide. This is dangerous as it doesn't encourage critical thinking or discourse.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reflection"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Feedback from a teacher ultimately makes me feel more confident that I either understand or don't understand a topic. GenAI doesnt often provide real feedback. I also consider the feedback from GenAI to not be as trustworthy as a teacher.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenerativeAI tends to provide different answers depending how a question is asked. Using prompt engineering, you can prime it to give you an answer more aligned with what you want to hear. this is not as helpful as feedback from a teacher, who will think critically about what your work and provide honest and trustworthy feedback.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reflection"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reflection"
+      }
+    ]
+  }
+}

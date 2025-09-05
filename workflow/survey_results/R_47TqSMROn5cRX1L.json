@@ -1,0 +1,47 @@
+{
+  "ResponseId": "R_47TqSMROn5cRX1L",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI knows how to make me understand what the criteria of the assessments are. They don't know exactly what the teachers are expecting me to submit as my assignment. So if i need help for getting feedback about my writing skills or if I have missed anything to write in my report based on the marking criteria list, then GenAI can be helpful but if I want to know what I can improve or be excellent at, I rely on my teachers feedback",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I can only feel better and satisfied if I think I have gotten al the correct direction and path to my assignments or learning certain skills. The key difference between feedback from the two was that AI doesn't know what my teachers are expecting me on how I should be tackling my tasks but it can still be helpful to understand better the assignment if I miss anything during lectures",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "If we take the example of Grammarly, it makes the grammar in my reports clear but sometimes it changes the whole meaning of what I am trying to provide. So there are cases where they can be helpful but it depends on the person using it on how to access and improve your writing rather than blindly copying/pasting or changing your sentence structures from that.",
+    "GoodQuote": ""
+  }
+}

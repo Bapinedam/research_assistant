@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4w0rBKey1voTDZh",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "In my opinion, it is less reliable than having a person review your work. My writings will mostly appeal to the reader, not a machine.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Personal"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4fl7IyMJMtAkhrz",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Not really believing the result. However, I used the feedback for counterintuitive learning of the answer generated. I tried to prove the answer from GenAI's result.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "ResponseId": "R_4oTujSCEfu8EBAD",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Teachers are always the best source of feedback and information, but their time is not unlimited. For me, they had different use-cases: GenAI was most helpful for moment-to-moment feedback on my writing, understanding of concepts, and answers to practice questions and self-study materials. My Teachers were better at checking my high-level understanding of concepts, helping me understand complex topics, and giving me feedback on my broader ideas. Plus, I could rely on the information my teachers provided, so if I was ever unsure of something (including GenAI teaching materials) I knew the answer I got there would be correct.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Interacting with teachers was far more enjoyable, fun, and assuring of the fact that I was getting correct information. However, I am always conscious of wasting my teacher and other students' time by asking too many questions during shared consultation time, so in that regard the use of GenAI is nice because I know I'm not selfishly using up time.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I've tried to use GenAI to provide feedback by providing it with my work and a rubric, but have been unsuccessful with this, as GenAI doesn't have any real comprehension skills - it generally tends to \"mark\" everything way too positively, whereas my teachers are much more realistic and helpful at actually providing constructive feedback. It is much better at providing feedback on the comprehension of specific, widely known and documented concepts, where a marking rubric is not needed. This is how I try to balance my use between the two: Teachers for checking my bigger picture understanding of concepts and expression of those concepts, as well as really tricky or complex things, and GenAI for tutoring me on the specifics of well documented concepts, where I can go back and forth and ask questions that are likely well answered in its' training data. Explaining mathematical, economic, and finance concepts is a great strength area here, while things like essay quality, contentious or poorly-documented concepts are much more likely to have low quality/mixed training info in the model training data.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      },
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "Utility"
+      }
+    ]
+  }
+}

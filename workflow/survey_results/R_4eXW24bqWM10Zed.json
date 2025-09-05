@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4eXW24bqWM10Zed",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 1,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "This ones a massive pet peeve. One one occasion one of my teachers are amazing give detailed and enthusiastic feedback, and surprisingly I did well in the class. On the other hand there is another teacher who when asked for feedback simply said to refer to the rubric. I actually asked questions on the content I read and noticed he couldn't remember most of the things I made, which made me doubt he even judged it. Whereas with GenAI I get good feedback and they give me feedback and specific to what need.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "It felt really difficult and lazy with one tudor, the other tudor was so good, made me enthusiastic to learn and helped me do better in the said class. The GenAI felt super helpful when the tudor wouldn't give me anything, it was supportive and helpful. Most likely i simply still don't have the skills to get the right answers but i want to do well in my course but at times it feels like theres a brick wall.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "At times I feel the more experienced teachers lack care and understanding that they are teaching fresh and unknowledgeable students, often it feels a bit like ego. This is a very structural problem, but I think an easy short term solution would be to allow for the incorporation of AI.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Understanding"
+      }
+    ]
+  }
+}

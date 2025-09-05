@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_48UnnUC3qQVnmVg",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI supports me to understand concepts in a way that makes sense to me with how I process new information. I take a while to fully understand new concepts and like to have it explained simply and without jargon, so using GenAI to help me learn has been a God send, especially as an online student.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI is really good at offering supportive feedback while also providing constructive feedback too. Because I have input my preferences for the language it uses in our chats it gels well with my communication style. This is not something I can do with teachers, though I have felt most feedback I've received from teachers/markers at Deakin has been really great too, but of course the feedback is not consistent like GenAI is because the markers and teachers change for each new unit.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Nil.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4D1NRKNmcc5EBQ0",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't belive it would be useful in any way at all. For feedback to be effective, the one giving the feedback has to have an understanding of the topic and the ability to communicate and describe the problems with the author's writing. LLM's can have truly have neither of these, but will always pretend that it has a perfect handle on both. Gen-AI cannot be trusted in matters of taste or opinoin",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised",
+      "Trustworthy"
+    ]
+  }
+}

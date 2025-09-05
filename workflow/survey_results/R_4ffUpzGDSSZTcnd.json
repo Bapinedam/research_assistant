@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4ffUpzGDSSZTcnd",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "The GenAI feedback was more generalised and provided less specific examples or critices but was more encompassing. Enabling me to focus on every part of a project. Where as my teacher would provide super short feedback (as they have multiple classses to review) and as such, would be less useful but more precise, criticing a few exact sections.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Volume"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI was more technical and didn't change how I felt about my work nor the GenAI tool. Multiple times my teacher's feedback has been \"tone deaf\" and at times rather hypocritical. Especially with international teachers who use english as a second language, their own work will be worded poorly, but because they have an english speaking marker helping them, I lose marks. Incredibly unfair.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Objective"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Teachers are often overworked for the task they need to complete where as GenAI tools are exponentially developing and as such, can bear the front of inputs. I'll get a faster iteration process with GenAI than I would any teacher. The on-demand aspect of GenAI makes it a valuable time-saving tool. but teacher feedback is still unprecidented.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  }
+}

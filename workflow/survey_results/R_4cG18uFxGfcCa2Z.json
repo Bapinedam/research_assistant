@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4cG18uFxGfcCa2Z",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "GenAI would give generalised requirements as it doesn't known the exact criterias that the assignment is focusing on.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

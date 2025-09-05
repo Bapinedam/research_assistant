@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_4VF8zygEOEkJH3e",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 3,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "If the teachers are good it can't be even compared. AI collects information and if you ask AI it can alter or even change its answer leaving you with false information. It can not be trusted to provide correct answers as a human being can. It can't develop ideas or give examples related to your exact issue the way your teacher can. It can give you some suggestions to start the brainstorming process. It is helpful to check spelling, give synonyms or phrase suggestions, where there is no flow in text.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "AI feedback can be altered, if for example I wish to check APA 7 referencing style, and AI doesn't pick it up, I ask about it and it alters its response. Meaning, it can't be relied upon and that is frustrating and a waste of time. Teacher will give you personal feedback and emphasise what you can improve for future learning, which is useful, encouraging and motivating. AI due to its limitations, has no access to learning outcomes and what will help you achieve better results.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "AI can very well simplify complex articles in plain English, which teachers won't necceseraly bother with.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understandable"
+      }
+    ]
+  }
+}

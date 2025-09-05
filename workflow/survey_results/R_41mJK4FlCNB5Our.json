@@ -1,0 +1,57 @@
+{
+  "ResponseId": "R_41mJK4FlCNB5Our",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 3,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "My answer is based on my whole experience - I have had lecturers who provide exceptional feedback that enabled me to critically engage with my work and to improve it. I have had lecturers who have refused to give feedback or give little to no feedback and this is when I have needed to get \"help\" elsewhere. GenAI is not always accurate - but when I get nothing or little from the University, at least it gives me somewhere to start.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes - GenAI is not supposed to help with my learning - so it is objective and emotionless. I believe that educators should help their students - and so when you get told no - it is subjective and impactful. When lecturers provide you with constructive criticism - I am open to it. I am here to learn.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Objective"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "To some degree I can control the parameters of GenAI :)",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4psWQbuEio2J3Bm",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I just personally haven't soought feedback fromit, I'll either fact check, proof read or have another person read over my work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Preference",
+      "Personal"
+    ]
+  }
+}

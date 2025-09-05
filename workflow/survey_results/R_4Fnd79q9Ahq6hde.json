@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_4Fnd79q9Ahq6hde",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I was able to get feedback with GenAI faster and iterativelly without issues. Although sometimes GenAI can be too optimistic or nice. Also since the teacher is the one marking, GenAI might not be aware of what the teacher is looking for and even though the feedback is positive the marking comes out bad.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI doesn't have the human barrier: \n- Language\n- Awkwardness\n- Shame\n- Bad interactions (sometimes teachers are not good at helping students, can be rude, etc.)\n\nSo it is less stressful to get feedback from it.\n\nA good teacher can help me feel more seen though. It can be a hit and miss.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I think the biggest one is time.\nOn a sunday 23:00 with the assignment due at midnight, there's no teacher to help and give me feedback on what I'm doing, even during school hours, scheduling things with a teacher can be hard and several times they have hundreads of students to help. GenAI is always there, ready. It would be awesome to have a GenAI trained on each subject of UTS and then we can use it as a 24h tutor.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  }
+}

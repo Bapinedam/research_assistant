@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4JDE0xlJe8CYtpJ",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Either it works (the code provided from it)\nor if I did something my own - it works so no need to do better\nbut if it is a visual task (creating a website or object model), I just asked friends on a group chat for what they would change with it",
+    "GoodQuote": "",
+    "Reasons": [
+      "Personal"
+    ]
+  }
+}

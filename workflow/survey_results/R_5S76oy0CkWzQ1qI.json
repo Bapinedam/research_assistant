@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_5S76oy0CkWzQ1qI",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Both were helpful but the AI was more detailed and personalised. In some of my feedback from teachers it's obvious it copy/pasted from other people's feedback - once the teacher even forgot to change the name.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I feel like it's easier to take feedback from GenAI as there's no sense of judgement, it's purely for my own learning. Vs it can feel embarrassing submitting work for feedback to a human, especially one who is marking or critiquing my efforts.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I can seek the specific feedback I'm after from GenAI without bothering my teachers who I know are super busy and might not even get around to reading my email. GenAI is instant and available and useful. But not for finding literature - it makes up papers and scales that sound great but don't exist.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  }
+}

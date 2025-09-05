@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4dG0bD4MK3L8uIu",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because I don't want it to record my response and take that into its data base",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy"
+    ]
+  }
+}

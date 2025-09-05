@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_4b2lAtAXHUtXyHL",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Mostly, the feedback from GenAI provide revised version of my work, so it do not give me a time to think critically to proved revised version by my own. In addition, it sometimes generate wrong answer, so I still need to re-check the answer. It takes time. \nFeedback from teacher, on the other hand, is critical feedback. so, I have time too generate better work by my own thought and improve my critical thinking.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reflection"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reflection"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes, in regards to the trustworthy, I have 100% trust towards my lecturer, so I just need to listen and use the feedback to revise my work. In contrast with GenAI, I need more time to trust the feedback because I have to do another research to prove that the feedback it true.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Understanding. \nMy lecturer understand my struggle and mistake in writing and give suitable answer /feedback for it, but GenAI sometimes do not understand this situation, which why sometimes lead to incorrect answer.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

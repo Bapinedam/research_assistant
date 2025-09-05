@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4FfK1i7OzLffgZP",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because I like to get my peers or other higher sources to review my work as well as reviewing my work myself as I learn more from more reliable resources.",
+    "GoodQuote": "Y",
+    "Reasons": [
+      "Expert",
+      "Trustworthy"
+    ]
+  }
+}

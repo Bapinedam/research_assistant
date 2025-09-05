@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4uuK7orZroXGXsZ",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because some of the personal opinions through GenAI are baised and unrelated to the subject at hand.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Contextualised"
+    ]
+  }
+}

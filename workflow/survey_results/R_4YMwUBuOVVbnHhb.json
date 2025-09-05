@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4YMwUBuOVVbnHhb",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't feel comfortable putting in my work into AI and I also do not have confidence in the accuracy of AI synthesising the information and picking up on relevant errors.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy"
+    ]
+  }
+}

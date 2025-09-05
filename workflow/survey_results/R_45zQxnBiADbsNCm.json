@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_45zQxnBiADbsNCm",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "AI doesn't think critically based on the written work. They follow certain language models or algorithms and with this I don't think they can constructively evaluate ones output especially in Science where facts and scientific rigor are important.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

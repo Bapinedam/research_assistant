@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4n7UBHKMSf1XWVS",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "It isn't really applicable for subjective work that I find myself involved in. It is more useful when there is more objective content of which I can obtain feedback on i.e. mathmatical formulae.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Utility"
+    ]
+  }
+}

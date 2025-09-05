@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_47KPKGkNOJjBF29",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "For a great deal of assessments, I haven't received any feedback from my teachers at all. In times like those I have gone to GenAI after the fact to get feedback that way. It is certainly better to get feedback from a teacher - it tends to be less bias and less complimentary, thus it is more trustworthy. GenAI leans more towards complimenting the work you have done right and being overly careful when criticizing what has been done wrong.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Feedback from a teacher generally gives me either a good sense of accomplishment (if I have done well) or determination to improve (if I have done poorly). I find it motivating.\nFeedback from GenAI doesn't really make me feel anything because I don't fully trust it.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I will generally use GenAI to provide me with feedback *before* submitting an assessment and then make an educated decision on what I need to change. This is something that is usually not available with an actual teacher, so I find that very helpful.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Before submission"
+      }
+    ]
+  }
+}

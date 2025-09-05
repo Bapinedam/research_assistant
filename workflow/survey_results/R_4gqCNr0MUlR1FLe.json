@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4gqCNr0MUlR1FLe",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I do not trust GenAI - it does not have the context to give relevant feedback on my work, and is too often blatantly wrong.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Contextualised"
+    ]
+  }
+}

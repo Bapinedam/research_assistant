@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4IKrBhCgW5TO1Al",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I am completing  PhD. This is an original piece of work and I need to protect it. I don't know enough about AI to be sure that the content of my thesis won't be used by the AI and to support someone else's work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity",
+      "Privacy"
+    ]
+  }
+}

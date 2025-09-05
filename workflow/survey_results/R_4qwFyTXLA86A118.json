@@ -1,0 +1,49 @@
+{
+  "ResponseId": "R_4qwFyTXLA86A118",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "My questions on my feedback seemed to have a more direct answer coming from my teacher as I am there in real time to clarify or explain my thinking, allowing me to learn more comprehensively from my teacher.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Teachers have a more personal approach whereas GenAI don't really know me/ my skill level. I don't think at this point GenAI is even able to ask those personal types of questions where it allows an educating figure to understand more about where I'm coming from.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI seems really focused on pleasing the prompter, so sometimes seems like it will miss out on a few things. Like if you presented them with the rubric, they would probably find a sentence in my writing where I hinted at an idea but never really explained it and say I answered that part of the rubric. However, Tutors can easily pick up on things where the ideas could've been explained further or where they weren't explained enough. I guess we can say AI doesn't really have like this mental evaluation skill that humans have where we can tell if things are good enough or not right from the bat.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

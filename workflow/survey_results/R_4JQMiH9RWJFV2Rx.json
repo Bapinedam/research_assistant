@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4JQMiH9RWJFV2Rx",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I prefer to avoid using GenAI because I don’t really like its growing influence. I want a human to give me feedback. If a human wrote it, I would like a human to review it.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Preference"
+    ]
+  }
+}

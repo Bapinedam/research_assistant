@@ -1,0 +1,25 @@
+{
+  "ResponseId": "R_4ClTZwT12op8IgS",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Sometimes the information that is provided by teachers during study could be confusing as they could be omitting some knowledge as they classify them as 'you should have known this'. This situation could not only increase the burden of the student's learning but also increase their stress. GenAI would instead provide the necessary explanation based on our questions or inputs, which allows comprehensive learning. GenAI is also available 24/7 while teachers are only available according to work hours or email.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  }
+}

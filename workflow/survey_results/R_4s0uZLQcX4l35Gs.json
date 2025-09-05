@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4s0uZLQcX4l35Gs",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because I generally work with my peers to get feedback, rather than going to AI. Furthermore, I don't fully trust AI with everything, and thus try to avoid it unless I absolutely have to use it.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Personal",
+      "Trustworthy"
+    ]
+  }
+}

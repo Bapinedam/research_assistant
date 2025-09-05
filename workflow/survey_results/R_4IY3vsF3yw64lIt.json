@@ -1,0 +1,79 @@
+{
+  "ResponseId": "R_4IY3vsF3yw64lIt",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Teachers provide more discipline specific and task specific feedback. The integrity of the feedback is also more reliable and trustworthy. However, a lot of casual academics are underpaid for marking so sometimes there are human errors or limited feedback provided on assessment tasks. Here GenAI is a good supplement. GenAI provides good feedback, but it is more generic so it is best to double check the reliability and accuracy of information with additional scholarly sources, and to assess whether the information provided fits with the unit marking criteria.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "In-depth"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI feels very personable, like you are talking to a friend or tutor. The information is helpful, but not always relevant or reliable. In contrast, sometimes feedback from academics feels rushed or like they are too busy to respond. I also feel I care more about the teacher/academics response so potentially take the feedback more personally than GenA1",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Importance"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI feels more open, sometimes when you receive feedback or answers to questions from academics they can be cryptic, because they want you to do independent learning. However, sometimes the lack of clarification is frustrating and most of the time, this is when students turn to GenAI for support.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Understanding"
+      }
+    ]
+  }
+}

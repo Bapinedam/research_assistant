@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4irjT6KWseETERj",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't really trust a machine learning program to give me valuable feedback on my work. Referring to a marking criteria or asking a tutor will always give you better marks than asking ChatGPT.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Contextualised"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4CNDDZ5pCyX5H2q",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't use GenAI in University work unless I am explicitly told to. furthermore, I don't trust GenAI to be completely faultless.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Integrity"
+    ]
+  }
+}

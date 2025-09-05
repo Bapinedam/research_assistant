@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4y2kWV05bv5EZ4R",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "It's not a person. It doesn't fully understand the task. I don't fully trust it.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Personal",
+      "Trustworthy"
+    ]
+  }
+}

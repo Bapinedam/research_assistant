@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_496vozXY7OaEnXb",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't believe a lot of GenAI to be able to provide in depth critical analysis to effectively give feedback on a finished work product. It is far more effective in the collation and preparation of work inputs beforehand.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "In-depth"
+    ]
+  }
+}

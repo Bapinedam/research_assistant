@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4jYWlHRa0yNiQal",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 2,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I wouldn't say it made a different, but I think knowing that GenAI was always available in terms of grabbing advice in comparison to my teacher was nice, however, I always questioned whether the feedback was \"genuine\" or it was actually sufficient in terms of assisting me with my learning.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "In terms of GenAI, I sometimes felt it didn't even help as much, or helped me less, as sometimes GenAI will have a differing opinion compared to my teachers. In saying that as well, GenAI takes a completely objective stance (or tries to) dependent on other people's searches, where as the teacher goes off their experience and what they've seen from other students.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      }
+    ]
+  }
+}

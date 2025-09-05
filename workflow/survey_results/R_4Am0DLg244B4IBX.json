@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4Am0DLg244B4IBX",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I wasn't interested. At the end of the day, the person marking the assignment is the only opinion that matters",
+    "GoodQuote": "",
+    "Reasons": [
+      "Preference",
+      "Contextualised"
+    ]
+  }
+}

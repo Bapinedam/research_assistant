@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4OsYQrcYKBAGKRP",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I just haven't felt like the AI would be able to understand the nuances of whatever rubric was being used for the assignment if it was a written one. And I've found chatgpt makes mistakes with math equations especially ones involving calculus so I tend not to use it for tasks involving math.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "In-depth"
+    ]
+  }
+}

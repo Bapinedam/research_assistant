@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4Cl6kBREDLjsJSL",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "GenAI is not suitable for this. It cannot give opinions, does not know marking criteria and is not a trained professional with years of experience ie. a teacher.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised",
+      "Trustworthy"
+    ]
+  }
+}

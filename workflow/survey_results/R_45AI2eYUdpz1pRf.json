@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_45AI2eYUdpz1pRf",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I didn't think to. I don't have much experience with it so I generally just get a friend to look over my work if needed (and I look over theirs - peer reviewing).",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Personal"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_44wTDsvZJ28Hilp",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I heard that AI takes information from its users to make its knowledge base “smarter.”",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy"
+    ]
+  }
+}

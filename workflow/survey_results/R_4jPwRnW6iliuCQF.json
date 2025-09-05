@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_4jPwRnW6iliuCQF",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Teachers at UQ do not always provide feedback, and when they do it isn't always comprehensive. One course I took last semester provided me with no feedback at any point, even now. Because GenAI does not have the same constraints as a teacher, it is a super reliable way to get detailed feedback. I am capable of identifying only with feedback that is applicable to me, so even if the feedback is not 100% trustworthy and on-topic, it is still so much better than vague or repetitive statements from teachers that you get only some of the time, which is almost identical down to words and phrases as your other friends.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Understandable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI feedback can be frustrating when it doesn't quite understand the task at first but this is easy to correct either in your mind or in conversation with AI. Otherwise, it is quite thorough and gives me an entirely objective viewpoint on my work. The quality of feedback from teaching staff is entirely hit or miss as to whether there is much at all, and whether it is subjective or objective.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI provides indepth feedback every time.\nTeachers sometimes provide feedback, which can be entirely inconsistent.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      }
+    ]
+  }
+}

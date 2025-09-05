@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4GDhAkNXdhIFJCm",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because although GenAI is smart I have been told something it does tend to produce false information and false readings.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

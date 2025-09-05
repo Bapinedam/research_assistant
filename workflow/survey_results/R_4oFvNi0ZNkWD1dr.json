@@ -1,0 +1,57 @@
+{
+  "ResponseId": "R_4oFvNi0ZNkWD1dr",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I found that I learn more from being able to ask questions without fear of judgement when I use AI. I also find that teachers don't always have the time to answer all of your questions so AI has been helpful as I can delve deeper into a topic and ask questions about things that I don't understand and it will simplify the answers when I ask it to so that it makes sense to me. I then don't have to be the 'annoying student' who has to ask questions about something the teacher has already explained because I don't understand the way the teacher has explained the topic. It has also helped me to improve my writing fluency and vocabulary when completing assignments and I don't feel as stressed because I don't have to spend so much time editing and re-writing assignment over and over as AI is able to help with this and university teachers are not available to help you to improve your assignment writing ability.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "It was really helpful to reflect on what I have and have not found helpful. I feel grateful that we have this technology available to us as I found that I was a lot more stressed in my undergraduate degree when this technology did not exist. I feel like I have learnt more being able to spend time exploring where I can improve instead of being provided very general and basic feedback from my teacher that feels rushed and like I'm wasting their time.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I don't have any others.",
+    "GoodQuote": ""
+  }
+}

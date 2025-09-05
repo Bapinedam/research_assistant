@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4Hi93MP2lDU29so",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't like generative AI, I find it hallucinates too much to be reliable for anything of complexity requiring attention to detail",
+    "GoodQuote": "",
+    "Reasons": [
+      "Preference",
+      "Trustworthy"
+    ]
+  }
+}

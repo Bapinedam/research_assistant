@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4ipXoDQ2tTxE3sQ",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "It allowed me to get instant answers, especially when I was taking a coding course. I was able to immediately check the definitions of code and ask for examples. I've also used it to explain complicated concepts to me in simple words which it was quite useful for. Asking it to write or check paragraphs I found it not as useful, generally because the writing was not up to my standard.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I definitely did not trust GenAI feedback as much - it's not going to be marking my work! Sometimes I asked it if a sentence made sense just to confirm and feel reassured, but it was my teacher's feedback that I really ensured I applied and took care with.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

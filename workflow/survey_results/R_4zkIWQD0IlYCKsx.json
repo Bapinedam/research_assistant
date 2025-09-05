@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4zkIWQD0IlYCKsx",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I never thought of it. I trust my lecturers/supervisors to provide appropriate feedback. There is still some way to go with genAI to be scientific, concise and accurate.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Expert"
+    ]
+  }
+}

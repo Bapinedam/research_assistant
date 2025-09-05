@@ -1,0 +1,39 @@
+{
+  "ResponseId": "R_4aRLJoWmhKsYLOF",
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Did not know that it could be used like that.",
+    "iteration_codings": {
+      "Iteration1": {
+        "reasons": [
+          {
+            "theme": "Processes",
+            "sub_theme": "Access",
+            "code": "Unaware",
+            "reasoning": "The statement 'Did not know that it could be used like that' directly indicates a lack of awareness about GenAI's capability to provide feedback. This aligns with the Unaware code under Processes → Access, which captures respondents who did not know GenAI could perform this function."
+          }
+        ]
+      },
+      "Iteration2": {
+        "reasons": [
+          {
+            "theme": "Processes",
+            "sub_theme": "Access",
+            "code": "Unaware",
+            "reasoning": "The phrase 'Did not know that it could be used like that' directly indicates a lack of awareness about GenAI's capability to provide feedback. This aligns with the Unaware code under Processes → Access, which captures respondents who did not know GenAI could perform this function."
+          }
+        ]
+      },
+      "Iteration3": {
+        "reasons": [
+          {
+            "theme": "Processes",
+            "sub_theme": "Access",
+            "code": "Unaware",
+            "reasoning": "The statement 'Did not know that it could be used like that' directly indicates a lack of awareness about GenAI's capability to provide feedback. This aligns with the Unaware code under Processes → Access, which captures respondents who did not know GenAI could perform this function."
+          }
+        ]
+      }
+    }
+  }
+}

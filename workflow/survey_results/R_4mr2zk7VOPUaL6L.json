@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4mr2zk7VOPUaL6L",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "It would fail to provide advice suited to the specific units I am taking. For law it is difficult to trust that it will pull from sources of law relevant to Victorian jurisdiction.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

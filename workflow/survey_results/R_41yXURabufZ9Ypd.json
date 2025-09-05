@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_41yXURabufZ9Ypd",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I haven’t needed to yet because my work so far hasn’t felt suitable for getting feedback from Generative AI. Often other tools are more useful for this",
+    "GoodQuote": "",
+    "Reasons": [
+      "Need"
+    ]
+  }
+}

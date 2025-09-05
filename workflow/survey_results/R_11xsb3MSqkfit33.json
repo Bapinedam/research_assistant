@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_11xsb3MSqkfit33",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Most of my work feedback is not viable via GenAI. I would use GenAI to focus on weaknesses that were relayed in the feedback to improve myself.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Need"
+    ]
+  }
+}

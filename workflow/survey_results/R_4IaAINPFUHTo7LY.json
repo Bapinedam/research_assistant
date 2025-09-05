@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4IaAINPFUHTo7LY",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because Gen AI is very subjective to its responses so it gets changed if you ask him the other way around that why the project is not good or why the project is good.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

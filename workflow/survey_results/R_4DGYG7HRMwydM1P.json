@@ -1,0 +1,40 @@
+{
+  "ResponseId": "R_4DGYG7HRMwydM1P",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 5,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "As I known, Many university tutors in China, they use the GenAI to redesign the project illegal (including the firewall and the permission of openAI account) by GenAI. But they will not collect the AI reference in the end editing list. That's really influenced my opinion of using AI. As I arrived here, the rules using GenAI let me know how to use them avoid polluting the design market.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "If I have to refine the task by myself, it will be pressure and low efficient. With GenAI, I can get the direction or some inspiration in 10 mins. For those text assignments especially.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Less effort"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Non.",
+    "GoodQuote": ""
+  }
+}

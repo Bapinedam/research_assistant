@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4TSqZkbJV1MaUgU",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't believe GenAI can provide more valuable feedback than I could get from a person proofreading it. I would rather ask a friend or family member to read what I've written.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

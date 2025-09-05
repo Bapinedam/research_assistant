@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4B3vC7JxdQcn0eV",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Didn’t know it could do this. Also, how would it know what my markers are looking for! It may not even know the task!",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Contextualised"
+    ]
+  }
+}

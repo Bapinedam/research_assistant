@@ -1,0 +1,69 @@
+{
+  "ResponseId": "R_4ncR3baCmgPOMzT",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI I have access to 24/7 and can ask as many dumb questions and follow up questions as I want, along with any tiny little clarifications and follow up questions. With a teacher, time is extremely limited, and you don’t necessarily have the time to go over every little aspect of something and ask a million follow ups and stupid questions the same way that you can with an ai.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Not really, except ai feedback can be a lot more in depth and really bottomless than teacher feedback. I can have an hours long conversation with ChatGPT about my assignment if I want to (you wouldn’t but theoretically can ask as much feedback as you want). You can’t do with a teacher, and normally feedback is a couple sentences long at best and normally pushes people back to lecture slides to ‘stuffy further’ which can take you hours to do, when an ai assistant can give me what I’m looking for in 10 minutes.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "More so a quantity thing with ai. Teachers only have so many hours in the day, and schedules don’t always align for additional feedback. It’s simply easier for me to open my browser, drop in a couple of pdf’s and have my answer 3 seconds after I ask my question and then get instant clarification if it dosent make sence, rather than going back and forth for potentially hours or days if done over email with tiny follow ups.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  }
+}

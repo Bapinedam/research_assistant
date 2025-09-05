@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_1GTiYFSB7MOZDGg",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Seems kind of weird to do that.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity"
+    ]
+  }
+}

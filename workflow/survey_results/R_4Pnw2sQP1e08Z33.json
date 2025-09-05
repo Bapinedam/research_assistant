@@ -1,0 +1,52 @@
+{
+  "ResponseId": "R_4Pnw2sQP1e08Z33",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 2,
+  "Q39_2_feedback_trust_teacher": 3,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "The almost instantaneous feedback that can be tailored and refined specifically for what I was asking was almost like having a live tutor 1:1 assisting me, which helped me learn so much more than asking a question online and waiting days for a response which may not have completely been understood or relevant.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "In control of the feedback I needed and able to get, and supported because it was quick and tailored to me versus delayed, misunderstood and often generic like (refer back to general guide in the rubric)",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "NIL"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI does need to be tested and ensure is accurate, and requires a bit of coaching/prompting to ensure the feedback you get is how you want it- versus you can’t coach/guide your university teacher to tailor to you, you have to adapt to their way.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      }
+    ]
+  }
+}

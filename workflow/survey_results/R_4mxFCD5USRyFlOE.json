@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4mxFCD5USRyFlOE",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't trust AI for feedback on anything not objective. I believe my own work is near always better than what AI is able to generate on its own from testing what it's able to perform and if you ask for feedback it makes up whatever it assumes you want instead of truly analyzing.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

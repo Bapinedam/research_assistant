@@ -1,0 +1,51 @@
+{
+  "ResponseId": "R_43e00PZDT3YYIZ2",
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I didn't know how / if gen AI would know about how to improve my work from a Nursign perspective. I m also very new to this so i Didn't even think about it",
+    "iteration_codings": {
+      "Iteration1": {
+        "reasons": [
+          {
+            "theme": "Processes",
+            "sub_theme": "Access",
+            "code": "Unaware",
+            "reasoning": "The student states 'I didn't know how / if gen AI would know about how to improve my work from a Nursing perspective' and 'I m also very new to this so i Didn't even think about it,' which indicates a lack of awareness about GenAI's capabilities and how to use it. This aligns with the Unaware code under Processes → Access."
+          }
+        ]
+      },
+      "Iteration2": {
+        "reasons": [
+          {
+            "theme": "Processes",
+            "sub_theme": "Access",
+            "code": "Unaware",
+            "reasoning": "The clause 'I didn't know how / if gen AI would know about how to improve my work from a Nursing perspective' indicates a lack of knowledge about GenAI's capabilities in providing feedback specific to their field. This aligns with the Unaware code, which captures respondents not knowing how to use GenAI or its potential applications."
+          },
+          {
+            "theme": "Processes",
+            "sub_theme": "Access",
+            "code": "Unaware",
+            "reasoning": "The clause 'I'm also very new to this so I didn't even think about it' reflects a lack of awareness or consideration of GenAI as an option. This directly maps to the Unaware code, which includes not thinking of using GenAI."
+          }
+        ]
+      },
+      "Iteration3": {
+        "reasons": [
+          {
+            "theme": "Processes",
+            "sub_theme": "Access",
+            "code": "Unaware",
+            "reasoning": "The clause 'I didn't know how / if gen AI would know about how to improve my work from a Nursing perspective' indicates a lack of knowledge about GenAI's capabilities in providing feedback specific to their field. This aligns with the Unaware code, which captures respondents not knowing how to use GenAI or its potential applications."
+          },
+          {
+            "theme": "Processes",
+            "sub_theme": "Access",
+            "code": "Unaware",
+            "reasoning": "The statement 'I'm also very new to this so I didn't even think about it' reflects unfamiliarity and a lack of awareness about using GenAI for feedback. This directly maps to the Unaware code, as it highlights not thinking of or knowing about the possibility of using GenAI."
+          }
+        ]
+      }
+    }
+  }
+}

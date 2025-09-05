@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4kqnbeYLs0P8csF",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "My work doesn't really allow for genAI to give feedback on, e.g. maths equations",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity"
+    ]
+  }
+}

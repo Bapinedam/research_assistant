@@ -1,0 +1,94 @@
+{
+  "ResponseId": "R_4RyeBFBu0cot13A",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Feedback from GenAI and my university teacher impacted my learning in different ways. GenAI provided immediate, accessible responses that were highly helpful for technical questions, troubleshooting, and exploring various approaches to problems, enhancing my learning with diverse perspectives and quick clarifications. However, its feedback sometimes lacked context and specificity tailored to my unique learning needs, making cross-checking important for academic rigor. In contrast, feedback from my teacher was more personalized, detailed, and trustworthy, grounded in their expertise and aligned with academic standards. It addressed not just the content but also my thinking process, offering constructive criticism that pushed me to think critically and improve holistically. While GenAI excelled in providing rapid support and self-paced learning opportunities, my teacher's feedback fostered deeper reflection and a more thorough understanding, crucial for my overall growth.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Expert"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reflection"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes, there were noticeable differences in how feedback from GenAI and my teacher made me feel. Feedback from GenAI often made me feel empowered and independent because of its instant availability and the ability to quickly find answers or solutions to my questions. It was reassuring to have an immediate resource, especially when working on assignments outside of class hours. However, it sometimes felt impersonal and lacked the emotional connection or encouragement that human feedback provides. On the other hand, feedback from my teacher made me feel more supported, understood, and motivated. The personalized nature of their feedback, along with constructive criticism and positive reinforcement, made me feel more confident and engaged in my learning journey. It also helped me feel seen as a learner, validating my efforts and guiding me in a way that felt more nurturing and tailored to my individual needs.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Apart from the differences in immediacy, personalization, and emotional impact, the feedback from GenAI and my teacher also differed in depth, focus, and adaptability. GenAI feedback was broad and often solution-oriented, providing a wide range of possible answers or approaches without delving deeply into the rationale behind them. It focused more on getting me to the right answer quickly rather than on understanding my specific learning journey. In contrast, my teacher’s feedback was more process-oriented, emphasizing the \"why\" behind my mistakes and guiding me through the reasoning process to build a stronger foundation of knowledge. The feedback from my teacher was also more adaptable to my evolving needs, as it adjusted to my progress over time, taking into account my previous performance and areas of growth. Additionally, my teacher often provided feedback within the context of my coursework and learning objectives, which helped me stay aligned with academic expectations and long-term goals, something that GenAI, being more general, couldn’t fully replicate. Overall, while GenAI provided efficient, wide-ranging assistance, my teacher’s feedback was more nuanced, contextually relevant, and closely aligned with my personal academic journey.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Less effort"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "ResponseId": "R_4sn9pI5HdvhV5gI",
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Have not thought to use it and unsure on trusting AI",
+    "iteration_codings": {
+      "Iteration1": {
+        "reasons": [
+          {
+            "theme": "Processes",
+            "sub_theme": "Access",
+            "code": "Unaware",
+            "reasoning": "The phrase 'Have not thought to use it' indicates the student did not consider using GenAI, which aligns with the Unaware code under Processes → Access, as it reflects a lack of awareness or consideration of GenAI for feedback."
+          },
+          {
+            "theme": "Information",
+            "sub_theme": "Quality",
+            "code": "Trustworthy",
+            "reasoning": "The phrase 'unsure on trusting AI' directly expresses doubt about the reliability or credibility of GenAI feedback. This aligns with the Trustworthy code under Information → Quality, which captures concerns about trust in the information or its source."
+          }
+        ]
+      },
+      "Iteration2": {
+        "reasons": [
+          {
+            "theme": "Processes",
+            "sub_theme": "Access",
+            "code": "Unaware",
+            "reasoning": "The phrase 'Have not thought to use it' indicates the respondent did not consider using GenAI, which aligns with the Unaware code under Processes → Access, as it reflects a lack of awareness or consideration of GenAI for feedback."
+          },
+          {
+            "theme": "Information",
+            "sub_theme": "Quality",
+            "code": "Trustworthy",
+            "reasoning": "The phrase 'unsure on trusting AI' directly expresses doubt about the reliability or credibility of GenAI feedback. This aligns with the Trustworthy code under Information → Quality, which captures concerns about trust in the information or its source."
+          }
+        ]
+      },
+      "Iteration3": {
+        "reasons": [
+          {
+            "theme": "Processes",
+            "sub_theme": "Access",
+            "code": "Unaware",
+            "reasoning": "The phrase 'Have not thought to use it' indicates the respondent did not consider using GenAI, which aligns with the Unaware code under Processes → Access, as it reflects a lack of awareness or consideration."
+          },
+          {
+            "theme": "Information",
+            "sub_theme": "Quality",
+            "code": "Trustworthy",
+            "reasoning": "The phrase 'unsure on trusting AI' directly expresses doubt about the reliability of GenAI feedback, which corresponds to the Trustworthy code under Information → Quality."
+          }
+        ]
+      }
+    }
+  }
+}

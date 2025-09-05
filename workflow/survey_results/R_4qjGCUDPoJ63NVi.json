@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4qjGCUDPoJ63NVi",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Never thought of it. Most of the work in my course is logical thinking and coding, which I do not trust GenAI to provide feedback on anyway.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Trustworthy"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4rFXZCvIon5D1es",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Feedback from GenAI is instant and can be applied to current practices or work, whereas the feedback from my teachers/tutors is typically once I have already forgotten the task and/or moved on- it is no longer relevant. In the rare occurrences where teachers have offered feedback during tutorial time, then it has been great. But realistically, they don't have the time to offer this for every student.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "The feedback from GenAI tends to be very detailed which I really appreciate as it can help me to improve my work. Whereas the feedback from my teachers tends to frustrate me as it can be very brief and not very helpful. The feedback from my tutors tends to focus on the positives, which makes me feel happy, but I would prefer a holistic overall that I can utilise.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  }
+}

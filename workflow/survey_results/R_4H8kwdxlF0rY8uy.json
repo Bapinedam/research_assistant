@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4H8kwdxlF0rY8uy",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I prefer feedback from the teacher because AI doesn't have an idea of the context behind my tasks.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

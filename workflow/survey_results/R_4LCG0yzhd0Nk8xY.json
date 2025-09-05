@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4LCG0yzhd0Nk8xY",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because AI will not be the one marking it (other than looking for plagiarism, I guess). I also do not believe that AI is functional at discerning quality. Perhaps it could be helpful at correcting grammar or spelling, but word processing apps do that anyway.",
+    "GoodQuote": "Y",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

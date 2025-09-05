@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4tu51LA50fqDNHq",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "The answer given by AI is very vague, it only comprehensively states where there is a problem, without focusing on identifying key points, which has little significance for improvement.",
+    "GoodQuote": "",
+    "Reasons": [
+      "In-depth"
+    ]
+  }
+}

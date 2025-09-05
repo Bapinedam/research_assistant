@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4CBAPcvyMmEWsH2",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I just have not used it. I have used a GenAI tool to summarize papers, and when I checked back on the papers, the results were not satisfactory with the GenAI results. Based on that experience, I think need to be careful when using GenAI in my work, including for feedback.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

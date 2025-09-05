@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4dyqsxijtHr9qva",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I find the feedback from my tutors to be more reliable, as they are familiar with the syllabus and criteria for that subject.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Contextualised"
+    ]
+  }
+}

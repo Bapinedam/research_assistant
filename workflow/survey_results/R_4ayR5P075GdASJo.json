@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_4ayR5P075GdASJo",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I didn't think to. Maybe because I'm older, I feel that it is lazy to do so. \n\nAlso, as a PhD candidate, I have supervisors to provide feedback on my work. And that's how I am going to learn to refine my ideas and writing, by actual proper feedback.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Less effort",
+      "Need"
+    ]
+  }
+}

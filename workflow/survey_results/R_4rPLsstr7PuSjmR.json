@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4rPLsstr7PuSjmR",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I’ve never thought to use it. I know sometimes if you ask CHAT about an opinion it’s not able to provide it (it’s not a person and uses logic) so I’ve just assumed it wouldn’t provide well rounded feedback",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware"
+    ]
+  }
+}

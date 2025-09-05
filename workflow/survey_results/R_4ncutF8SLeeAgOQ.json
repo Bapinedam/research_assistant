@@ -1,0 +1,59 @@
+{
+  "ResponseId": "R_4ncutF8SLeeAgOQ",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 2,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "The Ai that I have used in the past was a couple years old, therefore didn't have enough relevant information to critically analyse my work properly, whereas my teacher/tutor was able to give 'human' feedback on what they are/were looking for, what specific parts could be updated and/or changed, and what needs to be looked into further/expanded on.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Relevance"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Sometimes the feedback I was given from teachers/tutors was given in a round-about way, not specifically addressing the thing I wanted feedback on, whereas if I asked Ai a specific question, whether it was relevant information or not, it would give specific feedback on what I wanted. (Ignoring that most of the time it was not correct information due to the differences in assignment guidelines around the country.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I was given current examples from some teachers/tutors that were/are similar to my work, while Ai just gave me dot points on what should be included.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_49sio3zaTPSrnCp",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "The quality of work is often subjective, depending on the lecturer or the supervisor who assesses it, so it is only appropriate to get their feedback instead. Using AI has never occurred to me for this reason.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised",
+      "Expert"
+    ]
+  }
+}

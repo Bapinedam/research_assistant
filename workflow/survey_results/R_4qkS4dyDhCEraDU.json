@@ -1,0 +1,47 @@
+{
+  "ResponseId": "R_4qkS4dyDhCEraDU",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI often provided consistent/repeatable feedback when evaluating my written assessment work.\n\nMy teachers in the humanities often gave arbitrary marks or feedback and detracted marks for subjective reasons where my work was not assessed as at a High Distinction.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Objective"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAi was more predictable/repeatable. I found it very satisfying/helpful in that I would quickly pick up any glaring errors with my work.\n\nTeacher feedback occasionally made me feel resentment, especially when the feedback/mark given seemed arbitrary/subjective. This is further compounded by UQ's subpar assessment re-mark policy (which values timeliness of the request over substantive reasons for requesting the remark).",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      }
+    ]
+  }
+}

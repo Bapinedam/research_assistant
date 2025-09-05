@@ -1,0 +1,54 @@
+{
+  "ResponseId": "R_44QoqKzxXmSPc0p",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "the biggest difference to how this impacted my learning would be that GenAI feedback is instant, whereas feedback from a teacher takes a certain amount of time. this impacts my learning as in my degree, i am completing weekly lab reports on different content, however a big part of marking is the structure of a lab report and skills which need to be reciprocated in each report to gain full marks. most of the time, i am submitting another lab report before even receiving feedback from the last one, so an error i made in one report may carry through for a multitude of my submissions, leading to me losing more marks than needed",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "After submission"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "not necessarily, although GenAI will usually state something like \"this is a great detailed response...\" whereas teacher feedback is more minimal speech and a bit blunt at times",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "another difference would probably be the detail between each response, as teachers have sooo many things to mark, it would be difficult for them to create a detailed and structured response for small assignments",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4cxw2MEszaVOTpD",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI has been a very helpful tool to improve my learning and understanding of a topic. While there are other resources online that one may read, with GenAI you can have a conversation and drill down on a particular aspect. I recall having issues trying to understand a specific theoretical mathematical concept and AI was great in allowing me to explain my understanding and evolve that understanding until I was finally able to understand.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Obviously with GenAI tools they're very knowledgable, and have a broad way to explaining. They also patient and don't suffer from human emotions. Some teachers ive found may have the knowledge but not the skill to teach or the patience to spend time providing useful feedback. There is a element of laziness and lack of care with some teachers ive encountered unfortunately.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Expert"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      }
+    ]
+  }
+}

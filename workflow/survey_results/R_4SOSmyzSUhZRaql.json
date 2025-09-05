@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4SOSmyzSUhZRaql",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI was able to teach me things in an easier language than what my teacher was saying as sometimes I would lose the teacher and fall behind. This would mainly be due to the fact that I fall asleep in class or don't watch the lectures and all, but  still being able to be taught on the fly was a good thing for me and my learning rather than being stationary and not doing anything but sit and take notes. I learn by doing, not by sitting and listening.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yeah. GenAI understood the rubric the same way that I did and I guess it gave me a false sense of security when I heard from the teacher that it was just okay and not up to a high distinction standard.",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4FJXTne82c3m0Cw",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Well, I may ask GenAI for general guidance on the perspectives to look at certain things. Also GenAI may be not specific enough in regards to improvements, I guess. It feels that GenAI lacks the personal touch, therefore, I would not ask for feedback from it. I have never tried. There is also intellectual property and privacy concerns.",
+    "GoodQuote": "",
+    "Reasons": [
+      "In-depth",
+      "Contextualised"
+    ]
+  }
+}

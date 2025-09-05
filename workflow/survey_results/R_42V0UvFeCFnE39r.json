@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_42V0UvFeCFnE39r",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I have a good understanding of the usefullness of GenAI and the way that transformer models work. If I haven't used GenAI in the first place, it's because I know that I do not want what GenAI will provide in that case.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Preference"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4jCjfXNuP2HKjHc",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Feels wrong, like I should be proofreading my own work. The GenAI doesn't know what the assignment criteria is",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity",
+      "Contextualised"
+    ]
+  }
+}

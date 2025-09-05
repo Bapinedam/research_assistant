@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4h9z2a6OVFDYpuV",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "1. I don't need the feedback from GenAI;\n2. After providing my work to GenAI, there are a potential risk of data leakage and unauthorized access by other GenAI users.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Need",
+      "Privacy"
+    ]
+  }
+}

@@ -1,6 +1,0 @@
-Question:
-Why didn't you use GenAI for feedback on your work?
-
-Answer:
-didn't know how to do that. also, design with very subjective.
-

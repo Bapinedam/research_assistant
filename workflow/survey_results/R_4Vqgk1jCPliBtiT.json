@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4Vqgk1jCPliBtiT",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Previously, when I first started using AI for Feedback it eliminated almost any creative thinking or authentic ideas of mine, that I could have come up with on my own as I was too reliant on it for giving me the best feedback.\nWhile teachers would give me space to come up with my own ideas, answers, and solutions. \nThus, my learning was negatively impacted (as a writer- I write newsletters and poetry) I lacked authenticity and creativity.\nHowever, over time, while using AI I realised how basic and obviously robot like the responses are that didn't sound like me I learnt how to use GenAI in a way that doesn't impact my learning negatively as much. I'd come up with my own ideas and write down my response then I might ask GenAI for the quality of my response and 'enhance' the language maybe. So applying GenAI onto already completed responses for feedback is a lot better that asking GenAI to write you the response from scratch",
+    "GoodQuote": "Y",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reflection"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes feedback from my teacher made me feel relieved and assured that I am meeting the assessment criteria and their expectations.\nFeedback from GenAI is solid and factual however might miss some points or not meet the exact criteria expected from teachers as teachers are the ones who write and place the criteria, which still leaves me feeling unsure and anxious if my feedback is good enough accordingly to the criteria placed.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positive"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

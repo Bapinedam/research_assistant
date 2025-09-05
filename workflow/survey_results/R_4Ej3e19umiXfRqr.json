@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4Ej3e19umiXfRqr",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I have never considered it, funnily enough. That being said, I do Software Engineering. Feedback on my work is typically just code that is written better, so I kinda mildly consider it cheating in a way?",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware"
+    ]
+  }
+}

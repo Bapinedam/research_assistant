@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4aWZo21jpub24ej",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "GenAI is fundamentally flawed, as it provides information based off of what it finds on the internet, having trawled through countless thousands of sources of information to build up its knowledge base. It has no way of knowing if some of these sources are correct. Hence, while I may use GenAI to provide direction when beginning an assignment, I will never ask it to evaluate the quality of a finished piece, as there is little to no chance that it will have the contextual knowledge of how my assignment is supposed to be structured and marked.",
+    "GoodQuote": "Y",
+    "Reasons": [
+      "Trustworthy",
+      "Contextualised"
+    ]
+  }
+}

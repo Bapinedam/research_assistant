@@ -1,0 +1,52 @@
+{
+  "ResponseId": "R_4wKX9Yjmdjtm0Ik",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "The AI can give more pointed feedback I.e. within this paragraph have I demonstrated a critical analysis using x framework, what parts of my paragraph could be improved - expanded/summarised. But any information received from AI has to be taken with some scepticism as it may plainly be wrong.  \nWhere as the feedback from a teacher is highly valuable and trustworthy but oftentimes limited and general as you are one of many students and cannot get highly specific feedback. Even once you have submitted an assignment the feedback is limited to a few sentences where they may have mentioned some of your referencing/grammar was incorrect but not what specifically so in this instance AI could point out the specific error and save time for teaching staff.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Volume"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "There are not really feelings involved with getting feedback from AI it is non personal and could give insights but not be wholly relied on. \nThe feedback from a teacher has value and weight motivating you to read and reread feedback to get the most out of it. You are likely to take their advice and suggestions to heart.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Importance"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4F9ZFwKWm9MPo4M",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I do not yet trust GenAI to give me feedback more than I trust my own ability to create good work. Often GenAI just produces answers, even if they aren't correct. It is evident that it prioritises creating an answer over that same answer being necessarily correct every time.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

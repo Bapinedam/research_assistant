@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4k7nxUYtLRmjl08",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "because I never thought of it as a possibility and I do not trust GenAI has similar criteria to professor that is grading my assignment. GenAI was not there in the classroom",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Contextualised"
+    ]
+  }
+}

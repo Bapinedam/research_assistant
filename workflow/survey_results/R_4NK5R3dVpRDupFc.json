@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4NK5R3dVpRDupFc",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because GenerativeAI is not an experienced professional in my field of study. It is likely to contain bias or inaccuracies.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

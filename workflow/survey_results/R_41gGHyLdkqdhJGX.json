@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_41gGHyLdkqdhJGX",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't trust it - would rather my own or other people's feedback than AI, who know the context and requirements of an assignment or test",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

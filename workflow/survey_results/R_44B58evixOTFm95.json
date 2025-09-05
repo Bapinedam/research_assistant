@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_44B58evixOTFm95",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because the professor who going to analyse my work may have different perspective so the feedback wont help.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

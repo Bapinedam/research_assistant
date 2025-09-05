@@ -1,0 +1,69 @@
+{
+  "ResponseId": "R_4hYpZadsolJkUh3",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI: Helps at any time and from any location. This immediacy can help you handle unexpected queries or uncertainties during your studies, ensuring that you continue to learn.\nTeacher: Despite their limited availability, teachers can provide personalised guidance based on your learning style and needs, making their contribution more targeted.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI feedback can feel impersonal or mechanical. While it is frequently correct and useful, it lacks the personal touch that comes from understanding your individual learning experience and personality.\nTeacher feedback is usually more personal and relatable. Teachers may adjust their feedback to your emotions, learning style, and previous performance, making it more personalised and supportive.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI provides feedback based on preprogrammed reactions and algorithms. While it can adapt to the material you offer, it does not change with your learning style or progress over time in the same way that a teacher does. This means that GenAI may not always recognise your growth or changing demands.\nTeacher: Teachers can tailor their feedback to your continuing growth. As they get to know you better, their comments can become more tailored to your strengths, weaknesses, and learning styles, resulting in a more dynamic and developing support system.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Importance"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

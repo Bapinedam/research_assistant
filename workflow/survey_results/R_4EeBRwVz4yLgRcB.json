@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4EeBRwVz4yLgRcB",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "At this stage of AI development, I don't trust its guidance on my work. GenAI produces inhuman, very formulaic writing that I personally do not think is beneficial. \nAdditionally, I have heard of some AI tools holding data to learn from and I do not want my academic work to be held.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Privacy"
+    ]
+  }
+}

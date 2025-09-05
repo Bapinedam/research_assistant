@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4VkDpF7fCrOfLE8",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "No, I didn't use GenAI for feedback because I preferred personalized input from someone familiar with my work. Human feedback aligns better with my specific goals and context.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Personal",
+      "Contextualised"
+    ]
+  }
+}

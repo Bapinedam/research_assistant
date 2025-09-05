@@ -1,0 +1,47 @@
+{
+  "ResponseId": "R_4G1KRzH5u9QLydX",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 3,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI gives more fast feedback. I can just paste everything into it, and ask them to provide fine detail, evident-oriented, constructive feedback. More importantly, it doesn't get bothersome or tiring to give feedback to me. On the other hand, reaching out to teachers or professors is much harder. Sometimes, I don't feel like they give much attention to giving good feedback, or they are just not good at providing constructive feedback at all. In conclusion, GenAI has an essential impact on my learning, if I study general topics, I'll go for GenAI to get help.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Importance"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI\n- More detail\n- Adjustable by change the prompt\nTeachers\n- Differ from person to person\n- Some are really good, some aren't\n- Some are up-to-date even more that GenAI with limited cutoff knowledge, Some aren't",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "ResponseId": "R_4pGNP4apTKQus1t",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "As someone who likes to overthinks conversations, I prefer some things to be learnt from GenAI, and its easily accessbile. For example one of my subjects is UNIX Systems Programming, the tricky part is that a symbol can have different meaning when it is used differently, so if I have a question on why I cant do a certain command and why is it wrong, it is easier to ask GenAI. Basically it is an easy and quick trial and error process, which helps with my learning. Also, its easier to ask GenAI if my understanding in something is correct or not in my own wording.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I don't really have any feeling getting feedback from GenAI. I just kind of accept it if I agree with what it replied. But with my teacher, I will feel like the teacher will judge or have a different/bad impression of me. But overall if it comes down to trust, I trust the feedback from my teacher more.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Risky"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  }
+}

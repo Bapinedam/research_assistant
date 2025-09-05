@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_43te2O9DkLbnVxn",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Its not the most reliable in providing feedback that is academically and/or professionally fluent. It often follows a predictable formula that can be detected and isn't good if you are trying to create work that has your name to it.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

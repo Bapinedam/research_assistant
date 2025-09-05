@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4m9tXoVgGfCJMRi",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "To give me feedback, the tool would be required to understood the criteria. I have a better understanding of the criteria, so I don’t ask it for feedback.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

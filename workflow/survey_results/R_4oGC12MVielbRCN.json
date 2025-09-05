@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4oGC12MVielbRCN",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "because GenAI doesnt actually 'read' what you input and instead looks at the values of tokens and predicts a response based on that i dont believe it would give worthwhile feedback should i request it",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_49IdcDtYEkQjb0Z",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I prefer feedback from a human, such as a professor, tutor, or peer, as it can be more personalized and nuanced. Human feedback can offer insights that AI might miss, particularly when it comes to complex ideas or creative work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Personal",
+      "Expert",
+      "In-depth"
+    ]
+  }
+}

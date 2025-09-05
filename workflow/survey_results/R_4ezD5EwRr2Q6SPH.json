@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4ezD5EwRr2Q6SPH",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "How is a computer going to give me good feedback? AI barely knows what it's talking about half the time.\nIf I want feedback, I go to a real person or tutor; that's what I pay the University for.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Personal"
+    ]
+  }
+}

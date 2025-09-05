@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4Dw5ZNo5bqKjn3b",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "It usually doesn't fully understand the engineering content I learn and its best to steer clear to ensure that I don't misunderstand something.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

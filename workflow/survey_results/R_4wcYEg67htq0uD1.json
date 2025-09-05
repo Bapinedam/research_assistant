@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4wcYEg67htq0uD1",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "feedback from lecturer are more reliable and relevant to the study content.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Expert",
+      "Contextualised"
+    ]
+  }
+}

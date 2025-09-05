@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_4DnIa84axiiqwYV",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Gen AI feedback might not always target the areas you want feedback on because it doesn't understand the field of study, the nuances of university expectations, learning outcomes for the task, or the learning outcomes for the unit of study. To my knowledge, none of my tasks have been evaluated by AI (other than Turn it in).",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Expert"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I feel more skeptical of GenAI feedback. As a post-grad student, it would make me feel irrelevant if the work I spend weeks creating at the expense of relationships with my friends and family, were not taken seriously enough to be reviewed by a subject matter expert (SME). I mean why should I bother doing something that may have no purpose other than being scanned and evaluated by a giant algorithm? I want my thoughts and perspectives to interact with other human's thoughts and perspectives so we can develop and inspire each other in meaningful ways. If I could interact with an AI chat tool that was trained on content from my area of study and was as credible as peer-reviewed literature, that would be different. For now I prefer human feedback from SMEs",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Expert"
+      }
+    ]
+  }
+}

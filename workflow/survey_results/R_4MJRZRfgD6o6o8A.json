@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4MJRZRfgD6o6o8A",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "There are concerns about maintaining the authenticity and integrity of my work. I want to ensure that the feedback I receive is based on my own understanding and efforts rather than relying on AI-generated content.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity",
+      "Less effort"
+    ]
+  }
+}

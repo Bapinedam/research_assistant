@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_4J8CjU4GD7lUbRv",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "It seems more effort is needed to check the AI content for its accuracy.\nAlso, it's annoying to make a reference to Gen AI and think about the right use of it.\nI prefer my original ideas which can be more meaningful for me.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Integrity",
+      "Effortful"
+    ]
+  }
+}

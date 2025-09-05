@@ -1,0 +1,52 @@
+{
+  "ResponseId": "R_4UzrKZRZw7pD6Hn",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 2,
+  "Q39_1_feedback_trust_AI": 5,
+  "Q39_2_feedback_trust_teacher": 3,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I beleive the GenAI was able to give me far more indepth feedback that i knew was coming from an unbiased source. Though it may not have been as in depth as that given in high school, I think the level of feedback given by genAI is far greater than that given in any of my uni classes. Therefore it has impacted my learning to be able to improve aspects of my assigmnets prior to submiting them.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Before submission"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI- didnt upstike much emotion, made feedback approachle as was listed in dots points within the rubic of areas i neede to change. Also knew i could as any questions aand not feel as if im under a time crunch.\nTeacher- either would come on not very harsh at all in fear of upsetting students, though making me feel there is more i could have improved on and it was just not mentioned. or the oppisiite, and giving all feedback as a dump, and feeling overweheled on where to start, and limited in questions you can ask regarding this feedback as you have already ocuupied the teachers time.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Positivity"
+      }
+    ]
+  }
+}

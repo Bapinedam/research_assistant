@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4CUQysWuZ1pYrh7",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "To make GenAI give reasonable feedback, you need to train the GenAI first, for example, input all the requirements and rubrics of the assignment. However, it's hard to collect all the requirements, for example: the questions in the lecture, the discuss with your teammate. \nI think I am better than GenAi in terms of understanding the requirements.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

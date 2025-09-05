@@ -1,0 +1,52 @@
+{
+  "ResponseId": "R_4pXxexZ3rqQxmOw",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "it doesnot understand the projec flow and writing style of experiment design and reason why this is happening. Sometimes it happens that meaning of content becomes like selling something rather than telling something or providing some information of data.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes , during this process of writing. Most fascinating part is getting a feedback from supervisor, how they have shape your whole data into funneling flow to a logical conclusion or applicatibility whereas AI is only helpful for improving language part, spelling correction and grammar minor issue and in email communication. More important part is shaping of content with AI.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Importance"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Teacher helps us to spark the thought that are logical with experimental data and writing content in protocol, presentation and thesis. However AI don't have no idea about your content and topic because your teacher have much experience of handling data that make sense to applicability. AI can't make bridge with data to background story for the project.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reflection"
+      }
+    ]
+  }
+}

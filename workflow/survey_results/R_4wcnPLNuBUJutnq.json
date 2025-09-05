@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4wcnPLNuBUJutnq",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I am very good at editing and am distrustful of the reliability of AI (eg even when working properly, its frequently American standardisation can change spelling of words to American English which is inconvenient and annoying). I also do not like the idea of my own writing and intellectual property being used by AI.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Privacy"
+    ]
+  }
+}

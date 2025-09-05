@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4DTVXHQ5YUncHbb",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "For me personally, GenAl isn't a reliable source for feedback with university assessments, I don't trust it with that. I'd rather have a marker do it then I know exactly what I did or didn't do well on",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Personal"
+    ]
+  }
+}

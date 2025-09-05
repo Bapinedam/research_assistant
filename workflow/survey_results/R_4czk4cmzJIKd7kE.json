@@ -1,0 +1,64 @@
+{
+  "ResponseId": "R_4czk4cmzJIKd7kE",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I could rely on the teacher a lot more since they were the ones marking assessments and teaching us the content. Thus, their advice were most relied upon, hence I put more significance to their words. Likewise, teachers impact my learning directly in this way. On the other hand, I've only used GenAI for assistance or feedback, not specific instructions. I only used them as an assisting tool and always asked the teacher first before getting help from AI.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "GenAI was more \"structured\" and I found that it was often not specific to my assessment/goals/tasks. So, I usually don't feel too trusting of the feedback AI gives me. On the other hand, with regards to teachers, I know with more certainty that their feedback is more reliable.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "GenAI gives me feedback in the form that I actually prefer, which is written form. I also find it very convenient as I can access it anytime of the day at any moment, whereas, with teachers, I would need to construct an email question or find them in person to ask my question, which takes more effort and time.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      }
+    ]
+  }
+}

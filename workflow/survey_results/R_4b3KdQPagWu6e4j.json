@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4b3KdQPagWu6e4j",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "It struggles to asses work, often too friendly, would rather use a software like grammarly if anything",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

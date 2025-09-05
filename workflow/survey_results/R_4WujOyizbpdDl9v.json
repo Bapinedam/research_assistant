@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4WujOyizbpdDl9v",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because our university has a software that provides feedback on my work - I am not sure if it uses Gen AI, but I do not believe it does.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Need"
+    ]
+  }
+}

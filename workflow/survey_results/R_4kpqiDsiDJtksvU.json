@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4kpqiDsiDJtksvU",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Generative AI cannot provide meaningful feedback. It is a language model designed to espouse the most satisfactory answer based on the user interaction. It is not capable of dissecting layers of meaning, intent, and academic nuances in a single body of work. Generative AI serves to address the needs of the masses and cannot meaningfully engage in any one piece of work simply because it is a generation machine, not an academic.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "In-depth"
+    ]
+  }
+}

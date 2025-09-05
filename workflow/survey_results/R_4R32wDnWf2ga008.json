@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4R32wDnWf2ga008",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't believe it has the capability to give feedback of a relevant or high enough quality, for it to be useful to me. It just usually compares it to things on the internet, which are generally not going deep enough into the knowledge to get accurate feedback.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "In-depth"
+    ]
+  }
+}

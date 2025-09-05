@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_41FRXnGWfMP7h6x",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I believe that the GenAI will not be sufficient to correctly give me feedback on my work aside from grammatical errors or semantics as the rubric is provided by the faculty.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised",
+      "Trustworthy"
+    ]
+  }
+}

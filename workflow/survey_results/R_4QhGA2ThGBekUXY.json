@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4QhGA2ThGBekUXY",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I am skeptical of how valuable the feedback GenAI produces will be - particularly with respect to the objectives of the specific task. GenAI's low accuracy when it comes to producing factual and well established statements is also a little dubious and so I would be hesitant to rely on it as a method to reliably catch my mistakes. Combine this with the fact that feedback is usually available from more reliable and better prepared resources such as peers or university staff, and it makes little sense to use GenAI instead. In particular my experiences using GenAI within mathematics are poor and it struggles to conceptualise and construct proofs in an understandable and logical way.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

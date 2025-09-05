@@ -1,0 +1,72 @@
+{
+  "ResponseId": "R_4ZP1JgJjLOB7SGQ",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 5,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Honestly both were helpful, the difference is that GenAI is more convenient. If I want to ask it for help I can do that and have an answer immediately with answers that are mostly correct most of the time. \n\nAsking a teacher will mean the answer is not only correct, but it is also the way that they will want an answer answered, which obviously helps more in terms of how marking works. The downside is that if they are lacking time of if you as the student want an answer in a short time period then the answer may not be as satisfactory. \n\nThere's also a psychological aspect in that I feel like I am being less of a nuisance to my teachers if I am using tools to go find the answers myself. And GenAI often points me in the right direction to an answer.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "B",
+        "Comparator": "similar",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Risky"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "As stated above, GenAI feels more convenient compared to asking a teacher. The upside of asking a teacher is creating rapport with them which is nice, and the teachers will have a \"more correct\" answer. \n\nBut sometimes it's nice to ask a question and not feel like you're asking a stupid question that has already been covered in lectures.  And GenAI also has the flexibility of being able to answer the same answer in 4 or 5 different ways. Making the language either \"smarter\" or \"dumber\" to help you understand the topic.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Risky"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "I think I covered it in the other 2 responses.",
+    "GoodQuote": ""
+  }
+}

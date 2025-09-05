@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4gtlUhyx8Y4tSJy",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I'm afraid the companies are using the feedback (my side of the conversation) to feed into the training model again, so I haven't sent my uni work to genAI before. I'm pretty sure they say they don't, but I err on the side of caution. I have spell check anyway (which might be the same but you can only do so much)",
+    "GoodQuote": "",
+    "Reasons": [
+      "Privacy"
+    ]
+  }
+}

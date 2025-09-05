@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4pX4xj6Q89BSHSF",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Would not trust that the information I input into GenAI doesn’t get stored within their systems. Would be potential to get flagged as AI in AI detection software.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Privacy"
+    ]
+  }
+}

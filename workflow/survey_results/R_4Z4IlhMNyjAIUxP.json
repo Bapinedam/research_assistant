@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4Z4IlhMNyjAIUxP",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because most written work (non numerical answers) are based on subjectivity of the assessor. Even if GenAI may give a certain score on one day this does not mean the assessor will give the same perspective/grade/feedback.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

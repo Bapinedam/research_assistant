@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4r8NiIGlbE1VEkD",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "We were not allowed to use AI in our assessment and putting our answers to get feedback would have led to training the model with our answers which might lead to plagiarism if same question is being asked from AI.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity"
+    ]
+  }
+}

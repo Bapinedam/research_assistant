@@ -1,0 +1,47 @@
+{
+  "ResponseId": "R_42LKUskVbZZJVKf",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 3,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Tutors feedback is more connected to the actual ideas in the essay and they have good ideas to enhance the essay but at the same time they don't necessarily how. \neg. \"this sentence could expand on this idea...\"\nGenAI sometimes finishes the sentence or edits it, but focuses more on the literacy and grammar side of things",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Relevance"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "It's annoying getting feedback that sometimes doesn't make sense and doesn't help with the next assignment",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "They're both good forms of feedback, but a tutor who has studied the material and been the person teaching the tutorials, is more reliable. Though, sometimes their feedback seems ridiculous. GenAI is more straight forward and focuses more on the written component rather than the ideas shared.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Reliable"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

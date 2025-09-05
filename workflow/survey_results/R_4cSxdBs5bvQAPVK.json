@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_4cSxdBs5bvQAPVK",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I don't trust that GenAI would be able to provide feedback congruent to unit rubrics, and I don't want to risk some type of contract cheating by submiting my work to a GenAI platform.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Contextualised",
+      "Integrity"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ResponseId": "R_4rDFPafx1372Rjy",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 1,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 1,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "sometimes AI would only provide positive feedback whereas my teacher could draw upon our conversations to inform their feedback or they would have a better understanding of what kind of feedback would help me. The specificity was what stood out. AI is very general whereas my teacher could annotate my work in a way that connected with my and my learning in their classroom. Especially for a subject like literature I cannot overestimate my appreciation for my tutors comments and feedback. I also liked being able to talk to my teacher about the feedback and get immediate, personalised clarification. That is something I have found very frustrating with AI is when you ask it to be more specific, it rarely is able to match your demands.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Definitely. I was much more emotionally receptive to the feedback of my teacher whereas I was indifferent and uninspired by that given by AI. In essence, I value to input of my teacher a lot more than the AI because I have built a relationship with them and that inspires me to do as well as I can. AI can't explore the nuances the same way as a human can and I think in any kind of pedagogical or andragogical environment, human contact and mentorship on every level is essential.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "No impact"
+      }
+    ]
+  }
+}

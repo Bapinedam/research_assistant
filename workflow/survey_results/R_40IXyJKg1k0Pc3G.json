@@ -1,0 +1,84 @@
+{
+  "ResponseId": "R_40IXyJKg1k0Pc3G",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI was readily available. I could always open up a website or app and ask the AI to simply review and give me feedback on my tasks. I would cater it to review against standards of the assessment task and to tell me whether or not my assignment met those standards. It would provide succinct reasoning and logical explanation as to how it came to its results, which would help me further understand my own assignment. \n\nThe teacher was not always readily available, but teachers are a great resource as they provide a more human, nuanced understanding of your assignment and the assessment task at hand. Asking questions or seeking feedback in class or online (When they were online) was always put above me seeking feedback from AI. I don't think it should be one or the other, but I believe utilising both would only benefit, as the teachers nuanced and more personal understanding of your work, makes their feedback more specific and intimate to your work which would be great help. Pairing this with the AI's purely logical and objective based feedback that you can get anytime (Not to mention you can tailor the AI to understand context, such as context from rubrics or even the teacher's feedback) would help make it easier on students who can't get into contact with their teacher, or who have not had their questions answered at all. In short, I believe that both hold their own benefits, but both can be used to complement each other.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Understanding"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "I felt that feedback from AI was always purely logical and objective based. Making its own assessments of your project, after being tempered by any context such as what you are trying to achieve in this project, can make it very blunt and straightforward. It doesn't sugarcoat its answers, making it easier to understand what you did wrong or what can be improved upon. So, I never really felt anything from an AI's response, but rather still use it to help me fine tune my own. \n\nFeedback from a teacher was always more nuanced and had greater discretion, adding a more personal touch to the feedback. I felt that feedback from a teacher was richer in a sense that, whilst they were comparing your work to the objectives of the assignment, they were also consciously or sub-consciously, comparing to what they find satisfactory and so their answers might not be purely based on the rubric but on how they would take your work in the direction of the rubric. Therefore, feedback from a teacher always felt more personal, but I felt that, since they are only human, might compare to their own criteria, even just a little deviation from what the rubric states in order for them to find it satisfactory.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Objective"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Negativity"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "In-depth"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Personal"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Other differences include the versatility of the AI allows you to, even artificially, seek other perspectives on your work. While you can talk to other teachers and see their point of views, the AI can do this all at once. Seeing other perspectives on your work, with context provided, would generate a greater understanding and sense of what your work encompasses or any problems that you might have missed. I also think that the teachers have a chain of command, where some teachers might refer to another teacher because they might be unsure of the quality of your work or they might not know enough to answer you fully for example. The AI, provided context, would always answer you to the best of its ability and then, through your own discretion, discern whether or not it has answered your question properly. But a teacher, if they do not know, would refer or offer it up to someone else, limiting you in your choices of who you can talk to about your work.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Speed"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Specificity"
+      }
+    ]
+  }
+}

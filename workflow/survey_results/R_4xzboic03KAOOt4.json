@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4xzboic03KAOOt4",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "GenAI is source biased. It provides information and opinions based on the source it refers to, which would be different depending on where, who, how and when it is being accesses. With such varying answers each time, it is hard to depend on the feedback provided by GenAI.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ResponseId": "R_4Myexs1NQWrfIPg",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 5,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "Well, tbh, GenAI, is not completely trustworthy, I have used it for assignments or also quizzes, but I have noticed, it does make mistakes and it is easier to manipulate AI, suppose when I am doing a quiz and gives me answer and I say Oh but this is not a correct answer in the book or Google, then AI will give me a different answer, which is just feel like not trustworthy.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "less",
+        "Characteristic": "Reliable"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Human intelligence  is still way better/helpful than Artificial intelligence, but there is no deny in the fact it has made the life much easier.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 42": {
+    "Question": "Describe any other differences between the feedback you received from GenAI and your teacher.",
+    "Response": "Gen AI is still learning ;)",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "nil"
+      }
+    ]
+  }
+}

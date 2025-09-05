@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4ets8EtQ9tcuh5s",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "It does not give feedback that is specific to course content",
+    "GoodQuote": "",
+    "Reasons": [
+      "Contextualised"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4rqRj9DB9CadayU",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I usually have ample opportunities for supervisors or tutors to provide feedback on my work, so I usually do not feel the need to request feedback from GenAI",
+    "GoodQuote": "",
+    "Reasons": [
+      "Need"
+    ]
+  }
+}

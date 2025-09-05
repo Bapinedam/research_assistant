@@ -1,0 +1,30 @@
+{
+  "ResponseId": "R_4ljW6WzxFtWvJS1",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 4,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 4,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "GenAI doesn't help my understanding, it just helps improve the clarity of what I write with slightly more intensive changes than what Word's editor gives me. My \"teacher\" often isn't the one giving feedback, and tutor marking usually varies from helpful to marks with no explanation.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "One is a lecturer, the other is a text/grammar checker. They have entirely different purposes and cannot be compared. I'm more frustrated with poor feedback from course staff because it's all I have to improve and feedback is part of what I'm here and paying for.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "Nil"
+      }
+    ]
+  }
+}

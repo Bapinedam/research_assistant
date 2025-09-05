@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4pFWYR5TL2f7M0p",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Using GenAI to provide feedback possibly does not tackle areas where my work could be improved. For example, it can be used to improve grammar and wording, but it does not give feedback on what particular sections in an essay for instance lack certain depth (missing content, etc.)",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

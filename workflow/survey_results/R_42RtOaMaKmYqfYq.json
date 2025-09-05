@@ -1,0 +1,14 @@
+{
+  "ResponseId": "R_42RtOaMaKmYqfYq",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I never thought about it because i use it when I have a problem I can't solve myself. Perhaps a lack of trust of what AI thinks as feedback can be subjective to who eventually assess the work.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Trustworthy",
+      "Contextualised"
+    ]
+  }
+}

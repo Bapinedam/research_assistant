@@ -1,0 +1,47 @@
+{
+  "ResponseId": "R_44LUE1ombWY7XA7",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "AI is online 24x7, and you can ask as many questions as you want at any time, but the teacher will have limited time and resources to serve all the students. \nAI can answer any question, even the ones that are out of the subject scope, as long as you are curious, while teachers and tutors may not be able to. \nHowever, when you ask questions to AI, you will need to provide more background information so it will provide the most relevant information, and the teachers will have a better understanding of your questions against the subject and will even guide you on how to learn.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Ease"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      },
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Volume"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "Yes, the teacher feedback will be more relevant to the subject requirements and align with the marking criteria. However, AI will provide more comprehensive views.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Relevance"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "more",
+        "Characteristic": "Contextualised"
+      }
+    ]
+  }
+}

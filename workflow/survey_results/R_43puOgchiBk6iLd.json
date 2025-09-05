@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_43puOgchiBk6iLd",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because GenAI makes many mistakes. It is very helpful for learning things (and critically analysing what GenAI pumps out) but at a third year maths level, GenAI is still quite unreliable and the assignment solutions provided are more useful.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

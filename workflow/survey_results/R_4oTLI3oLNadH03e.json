@@ -1,0 +1,12 @@
+{
+  "ResponseId": "R_4oTLI3oLNadH03e",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "Because I didn't trust it as a credible source. It only contains a database of information up until 2022.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy"
+    ]
+  }
+}

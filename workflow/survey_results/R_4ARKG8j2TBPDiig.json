@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4ARKG8j2TBPDiig",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "gen ai comes up with feedback that's too general and isn't applicable to my work directly even when provided with a rubric",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Contextualised"
+    ]
+  }
+}

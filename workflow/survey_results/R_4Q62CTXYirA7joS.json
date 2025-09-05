@@ -1,0 +1,37 @@
+{
+  "ResponseId": "R_4Q62CTXYirA7joS",
+  "Q37_feedback_on_work": 1,
+  "Q38_1_feedback_helpful_AI": 5,
+  "Q38_2_feedback_helpful_teacher": 4,
+  "Q39_1_feedback_trust_AI": 4,
+  "Q39_2_feedback_trust_teacher": 5,
+  "Question 40": {
+    "Question": "Please describe any differences in how it impacted your learning (comparing GenAI and your teacher)?",
+    "Response": "I find that my teachers don't have the time, or are unable to explain things to me in a way that I understand, this can be because they are unable to give me the answer to a question because I am supposed to know it or 'figure it out', or the teachers have a million other things to do. Due to my learning difficulties I find that I mix up/misunderstand the information I am given or I will just forget it by the time I get home to do the work. By asking the AI I can ask it 100 times and I know that I am not being super annoying to my teachers. I know that my teachers want me to succeed and want to help me but they just don't have the time in their days to spend it answering all of the students questions. I have said that the info given by AI is 'somewhat trustworthy' I have had times where the info given is incorrect and that is why we still need to fact check and correct any info given by the AI.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      }
+    ]
+  },
+  "Question 41": {
+    "Question": "Were there any differences in how the feedback made you feel (comparing GenAI and your teacher)?",
+    "Response": "The feedback from the AI is fantastic I have asked it if I have answered a question correctly and it will tell me, if I haven't then I can go and find the info I need to finish my question. I have asked the AI to do a spelling and grammar check and to tell me what it is changing. this gives me the understanding of where I am making mistakes and allows me to make changes. I still use studiosity to ensure everything is correct, but for people with dyslexia like myself, it does take some of the stress off.\nNo hate to my teachers they really are fantastic and I enjoy their classes, but they just don't have the time to give me the one on one help that I need.",
+    "GoodQuote": "",
+    "Codes": [
+      {
+        "Actor": "A",
+        "Comparator": "more",
+        "Characteristic": "Utility"
+      },
+      {
+        "Actor": "T",
+        "Comparator": "less",
+        "Characteristic": "Ease"
+      }
+    ]
+  }
+}

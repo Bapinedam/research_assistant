@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4ErWa0VIEpNtTo8",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "This is because I know sometimes AI is wrong or AI does not fully understand the marking criteria for the said work so it might give feedback which may stoop my grade.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Trustworthy",
+      "Contextualised"
+    ]
+  }
+}

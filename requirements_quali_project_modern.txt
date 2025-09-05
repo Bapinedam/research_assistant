@@ -1,0 +1,48 @@
+# Requirements file for quali_project conda environment - Python 3.11 compatible
+# Core packages for research and data analysis
+
+# Data science and analysis
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Jupyter and notebooks
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipython>=8.0.0
+notebook>=7.0.0
+jupyterlab>=4.0.0
+
+# Machine learning and NLP
+torch>=2.0.0
+transformers>=4.30.0
+spacy>=3.6.0
+nltk>=3.8.0
+textblob>=0.17.0
+
+# Data processing
+openpyxl>=3.1.0
+xlrd>=2.0.0
+PyPDF2>=3.0.0
+PyMuPDF>=1.23.0
+docx2txt>=0.8
+
+# Web and API
+requests>=2.31.0
+Flask>=2.3.0
+beautifulsoup4>=4.12.0
+
+# Utilities
+tqdm>=4.65.0
+Pillow>=10.0.0
+lxml>=4.9.0
+regex>=2023.0.0
+
+# Development tools
+flake8>=6.0.0
+autopep8>=2.0.0
+pytest>=7.4.0

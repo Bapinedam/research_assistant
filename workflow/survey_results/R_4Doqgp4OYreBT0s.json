@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_4Doqgp4OYreBT0s",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "We're not allowed to use GenAI in our assignments and I'm worried about uploading it to the software because it might be recognised as plagiarism later by TurnIt In.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Integrity",
+      "Privacy"
+    ]
+  }
+}

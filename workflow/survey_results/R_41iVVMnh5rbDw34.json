@@ -1,0 +1,13 @@
+{
+  "ResponseId": "R_41iVVMnh5rbDw34",
+  "Q37_feedback_on_work": 2,
+  "Question 43": {
+    "Question": "Why didn’t you use GenAI for feedback on your work?",
+    "Response": "I have never tried it before. And I believe that GenAI has its limit so I dont trust them completely.",
+    "GoodQuote": "",
+    "Reasons": [
+      "Unaware",
+      "Trustworthy"
+    ]
+  }
+}
