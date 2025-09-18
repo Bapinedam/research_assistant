@@ -1,0 +1,20 @@
+{
+  "codes": [
+    {
+      "actor": "A",
+      "comparator": "More",
+      "theme": "Processes",
+      "sub_theme": "Access",
+      "code": "Ease",
+      "reasoning": "The student mentions that GenAI 'allowed me to take my time to ask for feedbacks and any follow-up questions,' which directly indicates a more convenient and accessible process for obtaining feedback. This aligns with the Ease code."
+    },
+    {
+      "actor": "T",
+      "comparator": "More",
+      "theme": "Relational",
+      "sub_theme": "Relational",
+      "code": "Risky",
+      "reasoning": "The student describes an 'unspoken pressure to keep the question/answer process to be efficient' when interacting with teachers, which suggests a sense of vulnerability or fear of judgment. This aligns with the Risky code, as it reflects relational risks in the feedback process with teachers."
+    }
+  ]
+}

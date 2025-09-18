@@ -1,0 +1,18 @@
+{
+  "iteration_name": "Iteration1",
+  "raw_response": "{\n    \"codes\": [\n        {\n            \"actor\": \"B\",\n            \"comparator\": \"Similar\",\n            \"theme\": \"Value\",\n            \"sub_theme\": \"Value\",\n            \"code\": \"Importance\",\n            \"reasoning\": \"The phrase 'both are equally useful' explicitly indicates that the student perceives both AI and teacher feedback as having comparable significance, aligning with the Importance code under the Value theme.\"\n        }\n    ]\n}",
+  "timestamp": "2025-09-16T16:46:56.640140",
+  "parsed_response": {
+    "codes": [
+      {
+        "actor": "B",
+        "comparator": "Similar",
+        "theme": "Value",
+        "sub_theme": "Value",
+        "code": "Importance",
+        "reasoning": "The phrase 'both are equally useful' explicitly indicates that the student perceives both AI and teacher feedback as having comparable significance, aligning with the Importance code under the Value theme."
+      }
+    ]
+  },
+  "parse_error": ""
+}

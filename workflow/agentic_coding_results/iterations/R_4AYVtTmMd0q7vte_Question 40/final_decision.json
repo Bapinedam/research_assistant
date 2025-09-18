@@ -1,0 +1,28 @@
+{
+  "codes": [
+    {
+      "actor": "A",
+      "comparator": "More",
+      "theme": "Processes",
+      "sub_theme": "Access",
+      "code": "Ease",
+      "reasoning": "The statement 'GenAI is available 24/7' reflects the convenience and lack of barriers in accessing feedback, which aligns with the Ease code under Access."
+    },
+    {
+      "actor": "A",
+      "comparator": "More",
+      "theme": "Processes",
+      "sub_theme": "Access",
+      "code": "Speed",
+      "reasoning": "The phrase 'responds instantly' directly corresponds to the Speed code, emphasizing the immediacy and time-saving nature of GenAI feedback."
+    },
+    {
+      "actor": "T",
+      "comparator": "Less",
+      "theme": "Processes",
+      "sub_theme": "Access",
+      "code": "Speed",
+      "reasoning": "The statement 'teachers take a while or never respond' contrasts with GenAI's instant responses, indicating slower or absent feedback from teachers, which aligns with the Speed code."
+    }
+  ]
+}

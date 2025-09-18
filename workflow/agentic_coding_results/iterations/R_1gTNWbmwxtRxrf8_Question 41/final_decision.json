@@ -1,0 +1,12 @@
+{
+  "codes": [
+    {
+      "actor": "B",
+      "comparator": "Similar",
+      "theme": "Information",
+      "sub_theme": "Tone",
+      "code": "Understandable",
+      "reasoning": "The phrase 'fairly similar in feedback delivery style' suggests that both AI and teachers provide feedback in a comparable manner. The Understandable code captures clarity and ease of comprehension, which aligns with the student's description of similarity in delivery style."
+    }
+  ]
+}

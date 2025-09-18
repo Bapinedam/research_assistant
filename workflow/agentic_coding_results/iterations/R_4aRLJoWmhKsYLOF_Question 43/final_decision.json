@@ -1,0 +1,10 @@
+{
+  "reasons": [
+    {
+      "theme": "Processes",
+      "sub_theme": "Access",
+      "code": "Unaware",
+      "reasoning": "The phrase 'Did not know that it could be used like that' directly indicates a lack of awareness about GenAI's capability to provide feedback. This aligns with the Unaware code, which captures situations where students are unaware of the tool's potential or operation."
+    }
+  ]
+}

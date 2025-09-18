@@ -1,0 +1,16 @@
+{
+  "reasons": [
+    {
+      "theme": "Processes",
+      "sub_theme": "Access",
+      "code": "Unaware",
+      "reasoning": "The statement 'I didn't know how / if gen AI would know about how to improve my work from a Nursing perspective' reflects uncertainty about how GenAI operates or its potential to provide feedback, aligning with the Unaware code under Processes → Access."
+    },
+    {
+      "theme": "Processes",
+      "sub_theme": "Access",
+      "code": "Unaware",
+      "reasoning": "The clause 'I'm also very new to this so I didn't even think about it' indicates a lack of familiarity and consideration of GenAI as a feedback tool, which directly maps to the Unaware code under Processes → Access."
+    }
+  ]
+}

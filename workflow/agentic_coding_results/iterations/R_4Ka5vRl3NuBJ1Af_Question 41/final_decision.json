@@ -1,0 +1,12 @@
+{
+  "codes": [
+    {
+      "actor": "B",
+      "comparator": "Similar",
+      "theme": "Value",
+      "sub_theme": "Value",
+      "code": "Importance",
+      "reasoning": "The student states 'both are equally useful,' which indicates that the feedback from both AI and the teacher is perceived as having comparable significance, aligning with the Importance code under the Value theme."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "codes": [
+    {
+      "actor": "A",
+      "comparator": "More",
+      "theme": "Processes",
+      "sub_theme": "Access",
+      "code": "Ease",
+      "reasoning": "The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI."
+    },
+    {
+      "actor": "T",
+      "comparator": "Less",
+      "theme": "Information",
+      "sub_theme": "Quality",
+      "code": "Specificity",
+      "reasoning": "The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback."
+    }
+  ]
+}

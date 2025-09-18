@@ -10,24 +10,23 @@
           "theme": "Processes",
           "sub_theme": "Access",
           "code": "Ease",
-          "reasoning": "The phrase 'more convenient/timely to get feedback from AI' directly indicates that AI feedback is easier to access compared to teacher feedback. The Ease code captures this convenience in obtaining feedback."
+          "reasoning": "The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI."
         },
         {
           "actor": "T",
           "comparator": "Less",
           "theme": "Information",
           "sub_theme": "Quality",
-          "code": "Personal",
-          "reasoning": "The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks personalisation. The Personal code reflects feedback that is tailored to individual needs, which the student implies is missing in teacher feedback."
+          "code": "Specificity",
+          "reasoning": "The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback."
         }
       ]
     },
     "iteration_results": [
       {
         "iteration_name": "Iteration1",
-        "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that AI feedback is easier to access compared to teacher feedback. The Ease code captures this convenience in obtaining feedback.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Relational\",\n            \"sub_theme\": \"Personal\",\n            \"code\": \"Personal\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' explicitly refers to teacher feedback and suggests a lack of personalisation. The Personal code reflects feedback that is tailored to individual needs, which the student implies is less present in teacher feedback compared to AI.\"\n        }\n    ]\n}",
-        "timestamp": "2025-09-10T11:54:53.500469",
-        "with_feedback": true,
+        "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Information\",\n            \"sub_theme\": \"Quality\",\n            \"code\": \"Specificity\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback.\"\n        }\n    ]\n}",
+        "timestamp": "2025-09-16T16:48:10.825675",
         "parsed_response": {
           "codes": [
             {
@@ -36,15 +35,15 @@
               "theme": "Processes",
               "sub_theme": "Access",
               "code": "Ease",
-              "reasoning": "The phrase 'more convenient/timely to get feedback from AI' directly indicates that AI feedback is easier to access compared to teacher feedback. The Ease code captures this convenience in obtaining feedback."
+              "reasoning": "The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI."
             },
             {
               "actor": "T",
               "comparator": "Less",
-              "theme": "Relational",
-              "sub_theme": "Personal",
-              "code": "Personal",
-              "reasoning": "The statement 'it feels lackluster or copy-pasted from student to student' explicitly refers to teacher feedback and suggests a lack of personalisation. The Personal code reflects feedback that is tailored to individual needs, which the student implies is less present in teacher feedback compared to AI."
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Specificity",
+              "reasoning": "The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback."
             }
           ]
         },
@@ -52,9 +51,8 @@
       },
       {
         "iteration_name": "Iteration2",
-        "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that AI feedback is easier to access compared to teacher feedback. The Ease code captures this convenience in obtaining feedback.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Relational\",\n            \"sub_theme\": \"Personal\",\n            \"code\": \"Personal\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' explicitly refers to teacher feedback and suggests a lack of personalisation. The Personal code reflects feedback that is tailored to individual needs, which the student implies is less present in teacher feedback compared to AI.\"\n        }\n    ]\n}",
-        "timestamp": "2025-09-10T11:54:55.636433",
-        "with_feedback": true,
+        "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Information\",\n            \"sub_theme\": \"Quality\",\n            \"code\": \"Specificity\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback.\"\n        }\n    ]\n}",
+        "timestamp": "2025-09-16T16:48:12.953326",
         "parsed_response": {
           "codes": [
             {
@@ -63,15 +61,15 @@
               "theme": "Processes",
               "sub_theme": "Access",
               "code": "Ease",
-              "reasoning": "The phrase 'more convenient/timely to get feedback from AI' directly indicates that AI feedback is easier to access compared to teacher feedback. The Ease code captures this convenience in obtaining feedback."
+              "reasoning": "The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI."
             },
             {
               "actor": "T",
               "comparator": "Less",
-              "theme": "Relational",
-              "sub_theme": "Personal",
-              "code": "Personal",
-              "reasoning": "The statement 'it feels lackluster or copy-pasted from student to student' explicitly refers to teacher feedback and suggests a lack of personalisation. The Personal code reflects feedback that is tailored to individual needs, which the student implies is less present in teacher feedback compared to AI."
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Specificity",
+              "reasoning": "The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback."
             }
           ]
         },
@@ -79,9 +77,8 @@
       },
       {
         "iteration_name": "Iteration3",
-        "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that AI feedback is easier to access compared to teacher feedback. The Ease code captures this convenience in obtaining feedback.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Relational\",\n            \"sub_theme\": \"Personal\",\n            \"code\": \"Personal\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' explicitly refers to teacher feedback and suggests a lack of personalisation. The Personal code reflects feedback that is tailored to individual needs, which the student implies is less present in teacher feedback compared to AI.\"\n        }\n    ]\n}",
-        "timestamp": "2025-09-10T11:55:06.946918",
-        "with_feedback": true,
+        "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Information\",\n            \"sub_theme\": \"Quality\",\n            \"code\": \"Specificity\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback.\"\n        }\n    ]\n}",
+        "timestamp": "2025-09-16T16:48:37.298754",
         "parsed_response": {
           "codes": [
             {
@@ -90,34 +87,112 @@
               "theme": "Processes",
               "sub_theme": "Access",
               "code": "Ease",
-              "reasoning": "The phrase 'more convenient/timely to get feedback from AI' directly indicates that AI feedback is easier to access compared to teacher feedback. The Ease code captures this convenience in obtaining feedback."
+              "reasoning": "The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI."
             },
             {
               "actor": "T",
               "comparator": "Less",
-              "theme": "Relational",
-              "sub_theme": "Personal",
-              "code": "Personal",
-              "reasoning": "The statement 'it feels lackluster or copy-pasted from student to student' explicitly refers to teacher feedback and suggests a lack of personalisation. The Personal code reflects feedback that is tailored to individual needs, which the student implies is less present in teacher feedback compared to AI."
+              "theme": "Information",
+              "sub_theme": "Quality",
+              "code": "Specificity",
+              "reasoning": "The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback."
             }
           ]
         },
         "parse_error": ""
       }
     ],
+    "iteration_runs": [
+      {
+        "phase": "initial",
+        "results": [
+          {
+            "iteration_name": "Iteration1",
+            "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Information\",\n            \"sub_theme\": \"Quality\",\n            \"code\": \"Specificity\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback.\"\n        }\n    ]\n}",
+            "timestamp": "2025-09-16T16:48:10.825675",
+            "parsed_response": {
+              "codes": [
+                {
+                  "actor": "A",
+                  "comparator": "More",
+                  "theme": "Processes",
+                  "sub_theme": "Access",
+                  "code": "Ease",
+                  "reasoning": "The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI."
+                },
+                {
+                  "actor": "T",
+                  "comparator": "Less",
+                  "theme": "Information",
+                  "sub_theme": "Quality",
+                  "code": "Specificity",
+                  "reasoning": "The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback."
+                }
+              ]
+            },
+            "parse_error": ""
+          },
+          {
+            "iteration_name": "Iteration2",
+            "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Information\",\n            \"sub_theme\": \"Quality\",\n            \"code\": \"Specificity\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback.\"\n        }\n    ]\n}",
+            "timestamp": "2025-09-16T16:48:12.953326",
+            "parsed_response": {
+              "codes": [
+                {
+                  "actor": "A",
+                  "comparator": "More",
+                  "theme": "Processes",
+                  "sub_theme": "Access",
+                  "code": "Ease",
+                  "reasoning": "The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI."
+                },
+                {
+                  "actor": "T",
+                  "comparator": "Less",
+                  "theme": "Information",
+                  "sub_theme": "Quality",
+                  "code": "Specificity",
+                  "reasoning": "The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback."
+                }
+              ]
+            },
+            "parse_error": ""
+          },
+          {
+            "iteration_name": "Iteration3",
+            "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Information\",\n            \"sub_theme\": \"Quality\",\n            \"code\": \"Specificity\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback.\"\n        }\n    ]\n}",
+            "timestamp": "2025-09-16T16:48:37.298754",
+            "parsed_response": {
+              "codes": [
+                {
+                  "actor": "A",
+                  "comparator": "More",
+                  "theme": "Processes",
+                  "sub_theme": "Access",
+                  "code": "Ease",
+                  "reasoning": "The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI."
+                },
+                {
+                  "actor": "T",
+                  "comparator": "Less",
+                  "theme": "Information",
+                  "sub_theme": "Quality",
+                  "code": "Specificity",
+                  "reasoning": "The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback."
+                }
+              ]
+            },
+            "parse_error": ""
+          }
+        ]
+      }
+    ],
     "researcher_feedback": {
-      "agreement": false,
-      "quality_score": 3,
-      "feedback": "The final coding decision is partially accurate but contains a significant discrepancy. While the 'Ease' code for AI feedback is appropriate, the coding for teacher feedback incorrectly attributes the lack of personalisation to teachers instead of AI. The student explicitly states that teacher feedback feels 'lackluster or copy-pasted,' which aligns with the 'Personal' code under teacher feedback. However, the final decision does not fully align with the student's comparison of AI and teacher feedback. Additionally, the reasoning for the 'Personal' code under teacher feedback could be more precise in addressing the comparative aspect.",
-      "discrepancies": [
-        "The final coding decision attributes the lack of personalisation to teacher feedback, but the student response does not explicitly compare AI feedback as more personalised.",
-        "Iteration 2 and 3 incorrectly attribute the lack of personalisation to AI feedback, which is not supported by the student response."
-      ],
-      "recommendations": [
-        "Ensure that the coding reflects the explicit comparison made by the student between AI and teacher feedback.",
-        "Clarify the reasoning for the 'Personal' code to better align with the student's statement about teacher feedback being 'lackluster or copy-pasted.'",
-        "Revisit the iterations to ensure consistency and accuracy in coding decisions, particularly regarding the actor and comparator."
-      ]
+      "agreement": true,
+      "quality_score": 5,
+      "feedback": "The final coding decision is accurate and aligns well with the framework. The codes 'Ease' and 'Specificity' are appropriately applied to the student's response, capturing the comparative aspects of feedback accessibility and quality between AI and teachers. The reasoning provided is clear, logical, and directly tied to the student's statements. The analysis is complete, addressing both actors (AI and teacher) and their respective attributes. The coding strategy is consistently applied across all iterations, demonstrating reliability.",
+      "discrepancies": [],
+      "recommendations": []
     },
     "agreement_metrics": {
       "iteration_agreement": {
@@ -130,47 +205,35 @@
         "iteration_characteristics": [
           [
             "Ease",
-            "Personal"
+            "Specificity"
           ],
           [
             "Ease",
-            "Personal"
+            "Specificity"
           ],
           [
             "Ease",
-            "Personal"
+            "Specificity"
           ]
         ]
       },
-      "timestamp": "2025-09-10T11:55:06.947314"
+      "timestamp": "2025-09-16T16:48:40.766399"
     },
     "conversation_history": [
       {
-        "type": "HumanMessage",
-        "content": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that AI feedback is easier to access compared to teacher feedback. The Ease code captures this convenience in obtaining feedback.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Information\",\n            \"sub_theme\": \"Quality\",\n            \"code\": \"Personal\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks personalisation. The Personal code reflects feedback that is tailored to individual needs, which the student implies is missing in teacher feedback.\"\n        }\n    ]\n}"
+        "type": "AIMessage",
+        "content": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Information\",\n            \"sub_theme\": \"Quality\",\n            \"code\": \"Specificity\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback.\"\n        }\n    ]\n}"
       },
       {
-        "type": "HumanMessage",
-        "content": "The provided output contains some issues that need to be addressed:\n\n1. **Actor-Comparator-Characteristic Logic**: The second code incorrectly assigns \"T\" (Teacher) as the actor for the statement about \"lackluster or copy-pasted\" feedback. This description more likely applies to AI feedback, as AI-generated responses are often perceived as generic or repetitive. Teacher feedback is typically more personalised, even if the student perceives it as less convenient or timely.\n\n2. **Theme and Sub-theme Alignment**: The second code uses the \"Personal\" sub-theme under \"Information,\" but the reasoning does not align with the definition of \"Personal.\" The reasoning suggests a lack of personalisation, which would more appropriately apply to AI feedback rather than teacher feedback.\n\n3. **Comparator Misalignment**: The comparator \"Less\" for the second code is inconsistent with the reasoning provided. If the feedback is described as \"lackluster or copy-pasted,\" it implies a lack of personalisation, which should be attributed to AI feedback, not teacher feedback.\n\nHere is the corrected output:\n\n---\n\n**Corrected Output:**\n\n```json\n{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that AI feedback is easier to access compared to teacher feedback. The Ease code captures this convenience in obtaining feedback.\"\n        },\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Information\",\n            \"sub_theme\": \"Relational\",\n            \"code\": \"Personal\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' suggests that AI feedback lacks personalisation. The Personal code reflects feedback that is tailored to individual needs, which the student implies is missing in AI feedback.\"\n        }\n    ]\n}\n```\n\n---\n\n**Explanation of Changes:**\n\n1. The second code now correctly attributes the \"lackluster or copy-pasted\" feedback to AI (Actor = \"A\") rather than teachers.\n2. The comparator is changed to \"Less\" to reflect that AI feedback is perceived as less personalised.\n3. The theme and sub-theme are updated to \"Relational\" and \"Personal\" to align with the definition of personalised feedback."
+        "type": "AIMessage",
+        "content": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Information\",\n            \"sub_theme\": \"Quality\",\n            \"code\": \"Specificity\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback.\"\n        }\n    ]\n}"
       },
       {
-        "type": "HumanMessage",
-        "content": "Your analysis and corrections are spot-on. The original output indeed misattributed the \"lackluster or copy-pasted\" feedback to teachers, which is more characteristic of AI-generated feedback. Additionally, the theme and sub-theme alignment were incorrect, as the reasoning clearly pointed to a lack of personalisation in AI feedback rather than teacher feedback. Below is the final corrected output, incorporating your adjustments:\n\n---\n\n**Final Corrected Output:**\n\n```json\n{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that AI feedback is easier to access compared to teacher feedback. The Ease code captures this convenience in obtaining feedback.\"\n        },\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Relational\",\n            \"sub_theme\": \"Personal\",\n            \"code\": \"Personal\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' suggests that AI feedback lacks personalisation. The Personal code reflects feedback that is tailored to individual needs, which the student implies is missing in AI feedback.\"\n        }\n    ]\n}\n```\n\n---\n\n### **Key Adjustments:**\n1. **Actor Correction**: The second code now correctly identifies AI (\"A\") as the actor responsible for the \"lackluster or copy-pasted\" feedback.\n2. **Comparator Alignment**: The comparator is updated to \"Less\" to reflect that AI feedback is perceived as less personalised.\n3. **Theme and Sub-theme Update**: The theme is changed to \"Relational,\" and the sub-theme is updated to \"Personal,\" as the reasoning pertains to the lack of tailored, individualised feedback, which fits the definition of the \"Personal\" code under the \"Relational\" theme.\n\nThis corrected output now fully adheres to the coding strategy and accurately reflects the student's response."
-      },
-      {
-        "type": "HumanMessage",
-        "content": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that AI feedback is easier to access compared to teacher feedback. The Ease code captures this convenience in obtaining feedback.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Relational\",\n            \"sub_theme\": \"Personal\",\n            \"code\": \"Personal\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' explicitly refers to teacher feedback and suggests a lack of personalisation. The Personal code reflects feedback that is tailored to individual needs, which the student implies is less present in teacher feedback compared to AI.\"\n        }\n    ]\n}"
-      },
-      {
-        "type": "HumanMessage",
-        "content": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that AI feedback is easier to access compared to teacher feedback. The Ease code captures this convenience in obtaining feedback.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Relational\",\n            \"sub_theme\": \"Personal\",\n            \"code\": \"Personal\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' explicitly refers to teacher feedback and suggests a lack of personalisation. The Personal code reflects feedback that is tailored to individual needs, which the student implies is less present in teacher feedback compared to AI.\"\n        }\n    ]\n}"
-      },
-      {
-        "type": "HumanMessage",
-        "content": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that AI feedback is easier to access compared to teacher feedback. The Ease code captures this convenience in obtaining feedback.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Relational\",\n            \"sub_theme\": \"Personal\",\n            \"code\": \"Personal\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' explicitly refers to teacher feedback and suggests a lack of personalisation. The Personal code reflects feedback that is tailored to individual needs, which the student implies is less present in teacher feedback compared to AI.\"\n        }\n    ]\n}"
+        "type": "AIMessage",
+        "content": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Access\",\n            \"code\": \"Ease\",\n            \"reasoning\": \"The phrase 'more convenient/timely to get feedback from AI' directly indicates that accessing feedback from AI is easier compared to teachers. The Ease code captures the convenience of obtaining feedback, which the student explicitly attributes to AI.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"Less\",\n            \"theme\": \"Information\",\n            \"sub_theme\": \"Quality\",\n            \"code\": \"Specificity\",\n            \"reasoning\": \"The statement 'it feels lackluster or copy-pasted from student to student' suggests that teacher feedback lacks detail and is generic. The Specificity code captures the degree to which feedback is detailed and precise, which the student implies is less present in teacher feedback.\"\n        }\n    ]\n}"
       }
     ],
-    "total_iterations": 2
+    "total_iterations": 3
   },
   {
     "response_id": "R_4P0PnRK3k4DjAxR",
@@ -183,15 +246,15 @@
           "theme": "Sense-making",
           "sub_theme": "Sense-making",
           "code": "Understanding",
-          "reasoning": "The response highlights that AI feedback allows for explanations tailored to the student's understanding, emphasizing improved comprehension. This aligns with the 'Understanding' code under the 'Sense-making' theme, as it reflects the ability to clarify and make content more accessible."
+          "reasoning": "The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback helps the student better comprehend concepts. This aligns with the Understanding code, which captures the ability to clarify confusion and make content more digestible."
         }
       ]
     },
     "iteration_results": [
       {
         "iteration_name": "Iteration1",
-        "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Sense-making\",\n            \"sub_theme\": \"Sense-making\",\n            \"code\": \"Understanding\",\n            \"reasoning\": \"The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback facilitates better comprehension. This aligns with the Understanding code, which captures the ability to clarify and make content more digestible.\"\n        }\n    ]\n}",
-        "timestamp": "2025-09-10T11:55:16.508904",
+        "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Sense-making\",\n            \"sub_theme\": \"Sense-making\",\n            \"code\": \"Understanding\",\n            \"reasoning\": \"The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback helps the student better comprehend concepts. This aligns with the Understanding code, which captures the ability to clarify confusion and make content more digestible.\"\n        }\n    ]\n}",
+        "timestamp": "2025-09-16T16:48:48.254006",
         "parsed_response": {
           "codes": [
             {
@@ -200,7 +263,7 @@
               "theme": "Sense-making",
               "sub_theme": "Sense-making",
               "code": "Understanding",
-              "reasoning": "The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback facilitates better comprehension. This aligns with the Understanding code, which captures the ability to clarify and make content more digestible."
+              "reasoning": "The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback helps the student better comprehend concepts. This aligns with the Understanding code, which captures the ability to clarify confusion and make content more digestible."
             }
           ]
         },
@@ -208,59 +271,146 @@
       },
       {
         "iteration_name": "Iteration2",
-        "raw_response": "The provided output is well-structured and adheres to the coding strategy. However, without the original student response, I cannot verify whether the coding is accurate or if it fully captures the nuances of the response. If you have the original student response, please share it so I can confirm the appropriateness of the coding or suggest improvements.",
-        "timestamp": "2025-09-10T11:55:23.696692",
-        "parsed_response": null,
-        "parse_error": "JSON parse error: Expecting value: line 1 column 1 (char 0)"
+        "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Sense-making\",\n            \"sub_theme\": \"Sense-making\",\n            \"code\": \"Understanding\",\n            \"reasoning\": \"The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback helps the student better comprehend concepts. This aligns with the Understanding code, which captures the ability to clarify confusion and make content more digestible.\"\n        }\n    ]\n}",
+        "timestamp": "2025-09-16T16:48:50.527435",
+        "parsed_response": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Sense-making",
+              "sub_theme": "Sense-making",
+              "code": "Understanding",
+              "reasoning": "The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback helps the student better comprehend concepts. This aligns with the Understanding code, which captures the ability to clarify confusion and make content more digestible."
+            }
+          ]
+        },
+        "parse_error": ""
       },
       {
         "iteration_name": "Iteration3",
-        "raw_response": "Thank you for pointing that out! Please provide the original student response so I can evaluate whether the coding aligns with the content and meaning of the response. This will ensure the analysis is accurate and complete.",
-        "timestamp": "2025-09-10T11:55:24.434504",
-        "parsed_response": null,
-        "parse_error": "JSON parse error: Expecting value: line 1 column 1 (char 0)"
+        "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Sense-making\",\n            \"sub_theme\": \"Sense-making\",\n            \"code\": \"Understanding\",\n            \"reasoning\": \"The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback helps the student better comprehend concepts. This aligns with the Understanding code, which captures the ability to clarify confusion and make content more digestible.\"\n        }\n    ]\n}",
+        "timestamp": "2025-09-16T16:48:52.832932",
+        "parsed_response": {
+          "codes": [
+            {
+              "actor": "A",
+              "comparator": "More",
+              "theme": "Sense-making",
+              "sub_theme": "Sense-making",
+              "code": "Understanding",
+              "reasoning": "The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback helps the student better comprehend concepts. This aligns with the Understanding code, which captures the ability to clarify confusion and make content more digestible."
+            }
+          ]
+        },
+        "parse_error": ""
+      }
+    ],
+    "iteration_runs": [
+      {
+        "phase": "initial",
+        "results": [
+          {
+            "iteration_name": "Iteration1",
+            "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Sense-making\",\n            \"sub_theme\": \"Sense-making\",\n            \"code\": \"Understanding\",\n            \"reasoning\": \"The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback helps the student better comprehend concepts. This aligns with the Understanding code, which captures the ability to clarify confusion and make content more digestible.\"\n        }\n    ]\n}",
+            "timestamp": "2025-09-16T16:48:48.254006",
+            "parsed_response": {
+              "codes": [
+                {
+                  "actor": "A",
+                  "comparator": "More",
+                  "theme": "Sense-making",
+                  "sub_theme": "Sense-making",
+                  "code": "Understanding",
+                  "reasoning": "The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback helps the student better comprehend concepts. This aligns with the Understanding code, which captures the ability to clarify confusion and make content more digestible."
+                }
+              ]
+            },
+            "parse_error": ""
+          },
+          {
+            "iteration_name": "Iteration2",
+            "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Sense-making\",\n            \"sub_theme\": \"Sense-making\",\n            \"code\": \"Understanding\",\n            \"reasoning\": \"The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback helps the student better comprehend concepts. This aligns with the Understanding code, which captures the ability to clarify confusion and make content more digestible.\"\n        }\n    ]\n}",
+            "timestamp": "2025-09-16T16:48:50.527435",
+            "parsed_response": {
+              "codes": [
+                {
+                  "actor": "A",
+                  "comparator": "More",
+                  "theme": "Sense-making",
+                  "sub_theme": "Sense-making",
+                  "code": "Understanding",
+                  "reasoning": "The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback helps the student better comprehend concepts. This aligns with the Understanding code, which captures the ability to clarify confusion and make content more digestible."
+                }
+              ]
+            },
+            "parse_error": ""
+          },
+          {
+            "iteration_name": "Iteration3",
+            "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Sense-making\",\n            \"sub_theme\": \"Sense-making\",\n            \"code\": \"Understanding\",\n            \"reasoning\": \"The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback helps the student better comprehend concepts. This aligns with the Understanding code, which captures the ability to clarify confusion and make content more digestible.\"\n        }\n    ]\n}",
+            "timestamp": "2025-09-16T16:48:52.832932",
+            "parsed_response": {
+              "codes": [
+                {
+                  "actor": "A",
+                  "comparator": "More",
+                  "theme": "Sense-making",
+                  "sub_theme": "Sense-making",
+                  "code": "Understanding",
+                  "reasoning": "The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback helps the student better comprehend concepts. This aligns with the Understanding code, which captures the ability to clarify confusion and make content more digestible."
+                }
+              ]
+            },
+            "parse_error": ""
+          }
+        ]
       }
     ],
     "researcher_feedback": {
       "agreement": true,
       "quality_score": 5,
-      "feedback": "The final coding decision is accurate and aligns well with the framework. The reasoning provided is clear and effectively connects the student's response to the 'Understanding' code under the 'Sense-making' theme. The analysis is complete, consistent with the iteration results, and adheres to the coding strategy.",
+      "feedback": "The coding decision is accurate and aligns well with the framework. The reasoning provided is clear and directly ties the student's response to the 'Understanding' code under the 'Sense-making' theme. The analysis is consistent across all iterations, demonstrating reliability in the coding process. Additionally, the explanation is thorough and adheres to the coding strategy, ensuring no critical aspects are overlooked.",
       "discrepancies": [],
       "recommendations": []
     },
     "agreement_metrics": {
       "iteration_agreement": {
-        "agreement_score": 0.3333333333333333,
+        "agreement_score": 1.0,
         "pairwise_agreements": [
-          0.0,
-          0.0,
+          1.0,
+          1.0,
           1.0
         ],
         "iteration_characteristics": [
           [
             "Understanding"
           ],
-          [],
-          []
+          [
+            "Understanding"
+          ],
+          [
+            "Understanding"
+          ]
         ]
       },
-      "timestamp": "2025-09-10T11:55:26.857753"
+      "timestamp": "2025-09-16T16:48:56.165894"
     },
     "conversation_history": [
       {
-        "type": "HumanMessage",
-        "content": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Sense-making\",\n            \"sub_theme\": \"Sense-making\",\n            \"code\": \"Understanding\",\n            \"reasoning\": \"The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback facilitates better comprehension. This aligns with the Understanding code, which captures the ability to clarify and make content more digestible.\"\n        }\n    ]\n}"
+        "type": "AIMessage",
+        "content": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Sense-making\",\n            \"sub_theme\": \"Sense-making\",\n            \"code\": \"Understanding\",\n            \"reasoning\": \"The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback helps the student better comprehend concepts. This aligns with the Understanding code, which captures the ability to clarify confusion and make content more digestible.\"\n        }\n    ]\n}"
       },
       {
-        "type": "HumanMessage",
-        "content": "The provided output is well-structured and adheres to the coding strategy. However, without the original student response, I cannot verify whether the coding is accurate or if it fully captures the nuances of the response. If you have the original student response, please share it so I can confirm the appropriateness of the coding or suggest improvements."
+        "type": "AIMessage",
+        "content": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Sense-making\",\n            \"sub_theme\": \"Sense-making\",\n            \"code\": \"Understanding\",\n            \"reasoning\": \"The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback helps the student better comprehend concepts. This aligns with the Understanding code, which captures the ability to clarify confusion and make content more digestible.\"\n        }\n    ]\n}"
       },
       {
-        "type": "HumanMessage",
-        "content": "Thank you for pointing that out! Please provide the original student response so I can evaluate whether the coding aligns with the content and meaning of the response. This will ensure the analysis is accurate and complete."
+        "type": "AIMessage",
+        "content": "{\n    \"codes\": [\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Sense-making\",\n            \"sub_theme\": \"Sense-making\",\n            \"code\": \"Understanding\",\n            \"reasoning\": \"The statement 'you can ask the AI to explain in a way that makes sense to you' indicates that AI feedback helps the student better comprehend concepts. This aligns with the Understanding code, which captures the ability to clarify confusion and make content more digestible.\"\n        }\n    ]\n}"
       }
     ],
-    "total_iterations": 1
+    "total_iterations": 3
   },
   {
     "response_id": "R_4P0PnRK3k4DjAxR",
@@ -272,7 +422,7 @@
       {
         "iteration_name": "Iteration1",
         "raw_response": "{\n    \"codes\": []\n}",
-        "timestamp": "2025-09-10T11:55:32.435080",
+        "timestamp": "2025-09-16T16:48:56.456517",
         "parsed_response": {
           "codes": []
         },
@@ -280,23 +430,53 @@
       },
       {
         "iteration_name": "Iteration2",
-        "raw_response": "It seems that the response provided does not contain any usable information or is missing the required components (Actor, Comparator, Characteristic) to generate valid codes. If you have a specific student response you'd like me to analyze and code, please provide it, and I will assist you!",
-        "timestamp": "2025-09-10T11:55:33.293220",
+        "raw_response": "Could you please provide the student's response to the survey? This will allow me to analyze and code it accordingly.",
+        "timestamp": "2025-09-16T16:48:57.018052",
         "parsed_response": null,
         "parse_error": "JSON parse error: Expecting value: line 1 column 1 (char 0)"
       },
       {
         "iteration_name": "Iteration3",
-        "raw_response": "Thank you for clarifying! If you have a specific student response you'd like me to analyze and code, please share it, and I'll be happy to assist you in generating the appropriate codes based on the provided coding strategy.",
-        "timestamp": "2025-09-10T11:55:52.472357",
+        "raw_response": "Could you please provide the student's response to the survey? This will allow me to analyze and code it appropriately.",
+        "timestamp": "2025-09-16T16:48:57.484580",
         "parsed_response": null,
         "parse_error": "JSON parse error: Expecting value: line 1 column 1 (char 0)"
+      }
+    ],
+    "iteration_runs": [
+      {
+        "phase": "initial",
+        "results": [
+          {
+            "iteration_name": "Iteration1",
+            "raw_response": "{\n    \"codes\": []\n}",
+            "timestamp": "2025-09-16T16:48:56.456517",
+            "parsed_response": {
+              "codes": []
+            },
+            "parse_error": ""
+          },
+          {
+            "iteration_name": "Iteration2",
+            "raw_response": "Could you please provide the student's response to the survey? This will allow me to analyze and code it accordingly.",
+            "timestamp": "2025-09-16T16:48:57.018052",
+            "parsed_response": null,
+            "parse_error": "JSON parse error: Expecting value: line 1 column 1 (char 0)"
+          },
+          {
+            "iteration_name": "Iteration3",
+            "raw_response": "Could you please provide the student's response to the survey? This will allow me to analyze and code it appropriately.",
+            "timestamp": "2025-09-16T16:48:57.484580",
+            "parsed_response": null,
+            "parse_error": "JSON parse error: Expecting value: line 1 column 1 (char 0)"
+          }
+        ]
       }
     ],
     "researcher_feedback": {
       "agreement": true,
       "quality_score": 5,
-      "feedback": "The final coding decision is accurate as the student's response does not provide any additional differences, which aligns with the framework's criteria for no codes. The decision is consistent with the iteration results, and the reasoning is sound and complete. There are no deviations from the coding strategy.",
+      "feedback": "The final coding decision is accurate as the student's response does not provide any additional differences, aligning with the framework's criteria for no codes. The decision is consistent with the iteration results, and the reasoning is sound and complete. There are no deviations from the coding strategy.",
       "discrepancies": [],
       "recommendations": []
     },
@@ -314,22 +494,22 @@
           []
         ]
       },
-      "timestamp": "2025-09-10T11:55:54.500698"
+      "timestamp": "2025-09-16T16:49:00.825877"
     },
     "conversation_history": [
       {
-        "type": "HumanMessage",
+        "type": "AIMessage",
         "content": "{\n    \"codes\": []\n}"
       },
       {
-        "type": "HumanMessage",
-        "content": "It seems that the response provided does not contain any usable information or is missing the required components (Actor, Comparator, Characteristic) to generate valid codes. If you have a specific student response you'd like me to analyze and code, please provide it, and I will assist you!"
+        "type": "AIMessage",
+        "content": "Could you please provide the student's response to the survey? This will allow me to analyze and code it accordingly."
       },
       {
-        "type": "HumanMessage",
-        "content": "Thank you for clarifying! If you have a specific student response you'd like me to analyze and code, please share it, and I'll be happy to assist you in generating the appropriate codes based on the provided coding strategy."
+        "type": "AIMessage",
+        "content": "Could you please provide the student's response to the survey? This will allow me to analyze and code it appropriately."
       }
     ],
-    "total_iterations": 1
+    "total_iterations": 3
   }
 ]

@@ -1,0 +1,34 @@
+{
+  "iteration_name": "Iteration3",
+  "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"More\",\n            \"theme\": \"Feeling\",\n            \"sub_theme\": \"Feeling\",\n            \"code\": \"Positive\",\n            \"reasoning\": \"The statement 'a teacher's feedback will impact you more' and 'your feelings of reward... will be greater' indicates that teacher feedback evokes stronger positive emotions compared to AI feedback. The Positive code captures feelings of encouragement or reward, which the student attributes more to teacher feedback.\"\n        },\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"More\",\n            \"theme\": \"Feeling\",\n            \"sub_theme\": \"Feeling\",\n            \"code\": \"Negative\",\n            \"reasoning\": \"The phrase 'your feelings of... disappointment will be greater' explicitly points to stronger negative emotional responses to teacher feedback. The Negative code captures discouraging or frustrating emotions, which the student associates more with teacher feedback.\"\n        },\n        {   \n            \"actor\": \"A\",\n            \"comparator\": \"More\",\n            \"theme\": \"Information\",\n            \"sub_theme\": \"Tone\",\n            \"code\": \"Objective\",\n            \"reasoning\": \"The description 'GenAI is designed to be neutral' suggests that AI feedback is perceived as impartial and free of personal bias. The Objective code captures this characteristic of neutrality, which the student attributes more to AI feedback.\"\n        }\n    ]\n}",
+  "timestamp": "2025-09-16T16:41:38.751438",
+  "parsed_response": {
+    "codes": [
+      {
+        "actor": "T",
+        "comparator": "More",
+        "theme": "Feeling",
+        "sub_theme": "Feeling",
+        "code": "Positive",
+        "reasoning": "The statement 'a teacher's feedback will impact you more' and 'your feelings of reward... will be greater' indicates that teacher feedback evokes stronger positive emotions compared to AI feedback. The Positive code captures feelings of encouragement or reward, which the student attributes more to teacher feedback."
+      },
+      {
+        "actor": "T",
+        "comparator": "More",
+        "theme": "Feeling",
+        "sub_theme": "Feeling",
+        "code": "Negative",
+        "reasoning": "The phrase 'your feelings of... disappointment will be greater' explicitly points to stronger negative emotional responses to teacher feedback. The Negative code captures discouraging or frustrating emotions, which the student associates more with teacher feedback."
+      },
+      {
+        "actor": "A",
+        "comparator": "More",
+        "theme": "Information",
+        "sub_theme": "Tone",
+        "code": "Objective",
+        "reasoning": "The description 'GenAI is designed to be neutral' suggests that AI feedback is perceived as impartial and free of personal bias. The Objective code captures this characteristic of neutrality, which the student attributes more to AI feedback."
+      }
+    ]
+  },
+  "parse_error": ""
+}

@@ -1,0 +1,20 @@
+{
+  "codes": [
+    {
+      "actor": "A",
+      "comparator": "More",
+      "theme": "Information",
+      "sub_theme": "Quality",
+      "code": "Specificity",
+      "reasoning": "The phrase 'helpful for finding technical errors and finding understandable overviews of specific topics' indicates that GenAI provides detailed and precise feedback, aligning with the Specificity code."
+    },
+    {
+      "actor": "T",
+      "comparator": "More",
+      "theme": "Sense-making",
+      "sub_theme": "Sense-making",
+      "code": "Reflection",
+      "reasoning": "The statement 'Teachers on the other hand search for more implicit reasonings when providing feedback' suggests that teachers encourage deeper thinking and self-examination, which aligns with the Reflection code."
+    }
+  ]
+}

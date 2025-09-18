@@ -1,0 +1,36 @@
+{
+  "codes": [
+    {
+      "actor": "A",
+      "comparator": "More",
+      "theme": "Processes",
+      "sub_theme": "Access",
+      "code": "Speed",
+      "reasoning": "The student describes GenAI feedback as 'efficient,' which directly relates to the immediacy and time-saving aspects of receiving feedback. This aligns with the Speed code under the Access sub-theme."
+    },
+    {
+      "actor": "A",
+      "comparator": "More",
+      "theme": "Feeling",
+      "sub_theme": "Feeling",
+      "code": "No impact",
+      "reasoning": "The student mentions that GenAI feedback 'felt more neutral,' indicating an emotionally indifferent response. This aligns with the No impact code, which captures feedback that does not evoke significant positive or negative emotions."
+    },
+    {
+      "actor": "T",
+      "comparator": "More",
+      "theme": "Relational",
+      "sub_theme": "Relational",
+      "code": "Personal",
+      "reasoning": "The student describes teacher feedback as 'more personal,' which directly reflects the Personal code. This code captures feedback that demonstrates awareness of individual needs or fosters a sense of connection."
+    },
+    {
+      "actor": "T",
+      "comparator": "More",
+      "theme": "Feeling",
+      "sub_theme": "Feeling",
+      "code": "Positive",
+      "reasoning": "The student describes teacher feedback as 'encouraging,' which explicitly indicates a positive emotional impact. This aligns with the Positive code, which captures feedback that evokes feelings of motivation or support."
+    }
+  ]
+}

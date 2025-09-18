@@ -1,0 +1,9 @@
+{
+  "iteration_name": "Iteration1",
+  "raw_response": "{\n    \"codes\": []\n}",
+  "timestamp": "2025-09-16T16:40:35.021823",
+  "parsed_response": {
+    "codes": []
+  },
+  "parse_error": ""
+}

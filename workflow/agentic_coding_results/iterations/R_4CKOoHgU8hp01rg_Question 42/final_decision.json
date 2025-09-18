@@ -1,0 +1,68 @@
+{
+  "codes": [
+    {
+      "actor": "A",
+      "comparator": "More",
+      "theme": "Processes",
+      "sub_theme": "Access",
+      "code": "Speed",
+      "reasoning": "The statement 'AI can provide immediate responses' directly highlights the speed at which GenAI delivers feedback. This aligns with the Speed code, which captures the immediacy and time-saving aspects of feedback."
+    },
+    {
+      "actor": "T",
+      "comparator": "More",
+      "theme": "Information",
+      "sub_theme": "Quality",
+      "code": "Specificity",
+      "reasoning": "The phrase 'teachers offer more specific, individualized feedback' explicitly indicates that teacher feedback is more detailed and tailored. This matches the Specificity code, which captures the concreteness and precision of feedback."
+    },
+    {
+      "actor": "T",
+      "comparator": "More",
+      "theme": "Relational",
+      "sub_theme": "Relational",
+      "code": "Personal",
+      "reasoning": "The statement 'teachers know your academic history and learning style' reflects the teacher's ability to provide personalized feedback. This aligns with the Personal code, which captures relational support and individual awareness."
+    },
+    {
+      "actor": "A",
+      "comparator": "Less",
+      "theme": "Information",
+      "sub_theme": "Quality",
+      "code": "Contextualised",
+      "reasoning": "The statement 'AI doesn't necessarily know your personal goals or context unless you provide that background' indicates that GenAI feedback is less adapted to the student's specific context. This aligns with the Contextualised code."
+    },
+    {
+      "actor": "T",
+      "comparator": "More",
+      "theme": "Information",
+      "sub_theme": "Quality",
+      "code": "Contextualised",
+      "reasoning": "The statement 'teachers align feedback with your personal development and educational goals' highlights the teacher's ability to adapt feedback to the student's specific context. This matches the Contextualised code."
+    },
+    {
+      "actor": "A",
+      "comparator": "More",
+      "theme": "Information",
+      "sub_theme": "Quality",
+      "code": "Reliable",
+      "reasoning": "The statement 'AI focuses on technical accuracy' suggests that GenAI feedback is precise and trustworthy. This aligns with the Reliable code, which captures accuracy and trustworthiness."
+    },
+    {
+      "actor": "T",
+      "comparator": "More",
+      "theme": "Information",
+      "sub_theme": "Quality",
+      "code": "Utility",
+      "reasoning": "The statement 'teachers link feedback to how concepts will be tested or applied in professional settings' highlights the practical applicability of teacher feedback. This aligns with the Utility code, which captures feedback that is directly helpful and usable."
+    },
+    {
+      "actor": "A",
+      "comparator": "Less",
+      "theme": "Information",
+      "sub_theme": "Quality",
+      "code": "Utility",
+      "reasoning": "The statement 'AI doesn't always account for real-world applications unless explicitly prompted' indicates that GenAI feedback is less practical and usable compared to teacher feedback. This aligns with the Utility code."
+    }
+  ]
+}

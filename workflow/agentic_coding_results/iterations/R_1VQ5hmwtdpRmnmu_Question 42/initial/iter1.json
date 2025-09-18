@@ -1,0 +1,18 @@
+{
+  "iteration_name": "Iteration1",
+  "raw_response": "{\n    \"codes\": [\n        {   \n            \"actor\": \"T\",\n            \"comparator\": \"More\",\n            \"theme\": \"Sense-making\",\n            \"sub_theme\": \"Reflection\",\n            \"code\": \"Reflection\",\n            \"reasoning\": \"The phrase 'teachers search more for the greater meaning of a piece of work' and 'attempt to understand the ideology and thought process behind the work' indicates a focus on deeper analysis and critical thinking. This aligns with the Reflection code, which captures feedback that encourages self-examination and deeper consideration of one's work.\"\n        }\n    ]\n}",
+  "timestamp": "2025-09-16T16:41:46.611522",
+  "parsed_response": {
+    "codes": [
+      {
+        "actor": "T",
+        "comparator": "More",
+        "theme": "Sense-making",
+        "sub_theme": "Reflection",
+        "code": "Reflection",
+        "reasoning": "The phrase 'teachers search more for the greater meaning of a piece of work' and 'attempt to understand the ideology and thought process behind the work' indicates a focus on deeper analysis and critical thinking. This aligns with the Reflection code, which captures feedback that encourages self-examination and deeper consideration of one's work."
+      }
+    ]
+  },
+  "parse_error": ""
+}

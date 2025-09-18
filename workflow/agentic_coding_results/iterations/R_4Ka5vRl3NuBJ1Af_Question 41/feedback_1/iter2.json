@@ -1,0 +1,27 @@
+{
+  "iteration_name": "Iteration2",
+  "raw_response": "{\n    \"codes\": [\n        {\n            \"actor\": \"B\",\n            \"comparator\": \"Similar\",\n            \"theme\": \"Value\",\n            \"sub_theme\": \"Value\",\n            \"code\": \"Importance\",\n            \"reasoning\": \"The phrase 'both are equally useful' explicitly indicates that the student perceives both AI and teacher feedback as having comparable significance, aligning with the Importance code under the Value theme.\"\n        },\n        {\n            \"actor\": \"B\",\n            \"comparator\": \"Similar\",\n            \"theme\": \"Processes\",\n            \"sub_theme\": \"Effort\",\n            \"code\": \"Less effort\",\n            \"reasoning\": \"The statement 'can be combined to achieve better outcomes' suggests that using both feedback sources together reduces the effort required to achieve improved results, aligning with the Less effort code under the Effort sub-theme.\"\n        }\n    ]\n}",
+  "timestamp": "2025-09-16T16:47:48.471528",
+  "with_feedback": true,
+  "parsed_response": {
+    "codes": [
+      {
+        "actor": "B",
+        "comparator": "Similar",
+        "theme": "Value",
+        "sub_theme": "Value",
+        "code": "Importance",
+        "reasoning": "The phrase 'both are equally useful' explicitly indicates that the student perceives both AI and teacher feedback as having comparable significance, aligning with the Importance code under the Value theme."
+      },
+      {
+        "actor": "B",
+        "comparator": "Similar",
+        "theme": "Processes",
+        "sub_theme": "Effort",
+        "code": "Less effort",
+        "reasoning": "The statement 'can be combined to achieve better outcomes' suggests that using both feedback sources together reduces the effort required to achieve improved results, aligning with the Less effort code under the Effort sub-theme."
+      }
+    ]
+  },
+  "parse_error": ""
+}
